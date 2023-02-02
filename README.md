@@ -35,6 +35,9 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 
 # About the data
 
+* Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs)
+* Global administrative units (geopackage)
+
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
 > **⚠ MORE DETAILS:**  
@@ -49,10 +52,19 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 
 ![AQLI](aqli.png)
 
-## Some helpful tools
+## Some helpful tools and resources
+* Global (GL) Annual PM2.5 Grids from MODIS, MISR and SeaWiFS Aerosol Optical Depth (AOD), v4.03 (1998 – 2019)
+  * [Data download](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03/data-download) 
+  * [Maps](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03/maps)
+  * [Documentation](https://sedac.ciesin.columbia.edu/downloads/docs/sdei/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03-documentation.pdf)
+* [GADM](https://gadm.org/data.html), the Database of Global Administrative Areas —the highest-resolution database of country administrative areas
+* Search [by country](https://gadm.org/download_country.html)
+* [PoliticalAtlas (populations for Asia and Africa mapped to admin levels using GADM)](https://github.com/thadk/PoliticalAtlas)
+* [Mapping the world’s population](https://mikefabrikant.medium.com/mapping-the-worlds-population-with-worldpop-org-uk-f71a336befef) with worldpop.org.uk
 * QGIS: a free and open source mapping software https://qgis.org/en/site/
 * Mapping with Plot https://observablehq.com/@observablehq/plot-mapping
 * Mapping with GeoTIFFs Python https://towardsdatascience.com/reading-and-visualizing-geotiff-images-with-python-8dcca7a74510
+* Using [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)
 
 # Teams and objectives
 
