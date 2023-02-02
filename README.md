@@ -35,8 +35,8 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 
 # About the data
 
-* Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs)
-* Global administrative units (geopackage)
+* Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs) in [./data/raw](./data/raw)
+* Global administrative units (geopackage) in [./data/additional](./data/additional)
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
@@ -59,6 +59,7 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
   * [Documentation](https://sedac.ciesin.columbia.edu/downloads/docs/sdei/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03-documentation.pdf)
 * [GADM](https://gadm.org/data.html), the Database of Global Administrative Areas —the highest-resolution database of country administrative areas
 * Search [by country](https://gadm.org/download_country.html)
+
 * [PoliticalAtlas (populations for Asia and Africa mapped to admin levels using GADM)](https://github.com/thadk/PoliticalAtlas)
 * [Mapping the world’s population](https://mikefabrikant.medium.com/mapping-the-worlds-population-with-worldpop-org-uk-f71a336befef) with worldpop.org.uk
 * QGIS: a free and open source mapping software https://qgis.org/en/site/
@@ -169,9 +170,9 @@ Remember that the hackathon will account for [**25% of the final mark for the su
 
 Self and peer evaluation forms:
 
-* [Team owls 🦉]()
-* [Team pandas 🐼]()
-* [Team rhinos 🦏]()
+* [Team owls 🦉](https://forms.gle/Reo1o3HqMCXwVSB36)
+* [Team pandas 🐼](https://forms.gle/dTrEDmL7S3LCcbK6A)
+* [Team rhinos 🦏](https://forms.gle/7FcP49HFQGEXonsc6)
 
 ### For the **Information Visualization** subject:
 
@@ -183,4 +184,3 @@ Self and peer evaluation forms:
   * the integration of the visuals with the documentation or the text in the prototype.
 
 Remember that the hackathon will account for [**10% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/Oferta-formativa/Oferta-dassignatures/Detall-assignatura?codia=3501MO3317&codip=3105M0121&curs=2022#avaluacioQualificacio)
-
