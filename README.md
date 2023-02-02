@@ -1,4 +1,4 @@
-<img src="logos.png" width="640">
+<img src="logos.png" width="540">
 
 # Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
 This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/) and the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo).
