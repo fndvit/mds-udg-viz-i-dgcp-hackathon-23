@@ -147,7 +147,7 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 ## Our evaluation criteria
 
-For the **Project Management** subject:
+### For the **Project Management** subject:
 
 * **50%:** Active participation and engagement with the given roles —part of it will be our observation, part of it will be self and peer evaluation within the teams.
 * **30%:** Delivery of the presentation of the results.
@@ -161,7 +161,7 @@ Self and peer evaluation forms:
 * [Team pandas 🐼]()
 * [Team rhinos 🦏]()
 
-For the **Information Visualization** subject:
+### For the **Information Visualization** subject:
 
 * All attending students get 0.25 for actively participating.
 * All students in the winning groups get 0.75 (if the popular vote coincides with the jury favorite they'll get an extra +0.5)
