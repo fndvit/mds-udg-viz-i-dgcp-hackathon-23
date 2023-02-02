@@ -1,1 +1,0 @@
-# Documentació dels tests
