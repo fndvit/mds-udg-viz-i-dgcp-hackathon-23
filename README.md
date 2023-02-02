@@ -5,7 +5,7 @@ This hackathon is a shared event between the Information Visualization and Data 
 
 **💡 What we want to solve:**
 
-We want to propose a **new metric about the impact of air pollution (PM<sub>2.5</sub>) on human health**, based on **publicly-available open data** and use it to inform the public about the risks of air pollution and enable policy-makers to make regulatory decisions based on evidence.
+We want to sketch out the lifecycle of a **metric about the impact of air pollution (PM<sub>2.5</sub>) on human health (as years of life expectancy loss)**, based on **publicly-available open data** and use it to inform the public about the risks of air pollution and enable policy-makers to make regulatory decisions based on evidence.
 
 **🔍 Specifically ...**
 
