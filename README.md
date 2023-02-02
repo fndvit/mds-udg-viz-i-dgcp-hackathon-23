@@ -40,7 +40,11 @@ We want to propose a **new metric about the impact of air pollution (PM<sub>2.5<
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
+![GeoTIFFs](grid.png)
+
 Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
+
+![AQLI](aqli.png)
 
 The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Institute at the University of Chicago is one of the better known and better documented models right now —which you can use as a reference in any way, shape or form you like. Please read their [methodology](https://aqli.epic.uchicago.edu/about/methodology/), it contains details relevant to all teams.
 
@@ -95,6 +99,7 @@ The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Inst
 
 **Deliverables:**
 
+* Brief summary of the methodology used by the pandas 🐼 and the rhinos 🦏
 * A criteria to determine country hotspots
 * ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
 
@@ -147,7 +152,7 @@ For the **Project Management** subject:
 
 Remember that hackathon will count for [**25% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/oferta-formativa/Oferta-dassignatures/Detall-assignatura?curs=2022&codia=3501MO3316#avaluacioQualificacio)
 
-Colleague evaluation forms:
+Self and peer evaluation forms:
 
 * [Team owls 🦉]()
 * [Team pandas 🐼]()
