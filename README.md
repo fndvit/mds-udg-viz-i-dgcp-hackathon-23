@@ -1,9 +1,6 @@
 <img src="logos.png" width="360">
 
-# Màster in Data Science UdG: Hackathon Infoviz and Project Management
-
-![License](https://img.shields.io/github/license/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge)
-
+# Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
 This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/).
 
 **💡 What we want to solve:**
@@ -36,15 +33,19 @@ We want to propose a **new metric about the impact of air pollution (PM<sub>2.5<
 > **⚠ IMPORTANT NOTE:**  
 > The entire group will collaborate on the same repo, so read the [Collaboration recommendations](#collaboration-recommendations).
 
-## OUR FOCUS: Health impact of PM<sub>2.5</sub> pollution
+# About the data
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
-Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
+> **⚠ MORE DETAILS:**  
+> Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
 
 ![GeoTIFFs](grid.png)
 
-The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Institute at the University of Chicago is one of the better known and better documented models right now —which you can use as a reference in any way, shape or form you like. Please read their [methodology](https://aqli.epic.uchicago.edu/about/methodology/), it contains details relevant to all teams.
+The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Energy Institute at the University of Chicago is one of the better known and better documented models right now —which you can use as a reference in any way, shape or form you like.
+
+> **⚠ PLEASE READ:**  
+>  The AQLI [methodology](https://aqli.epic.uchicago.edu/about/methodology/), it contains details relevant to all teams.
 
 ![AQLI](aqli.png)
 
@@ -53,9 +54,9 @@ The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Inst
 * Mapping with Plot https://observablehq.com/@observablehq/plot-mapping
 * Mapping with GeoTIFFs Python https://towardsdatascience.com/reading-and-visualizing-geotiff-images-with-python-8dcca7a74510
 
-## Teams and objectives
+# Teams and objectives
 
-### 🧐 From grids to communities
+## 🧐 From grids to communities
 
 |**Team name:** owls 🦉|
 |:------|
@@ -71,7 +72,7 @@ The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Inst
 * Visualizations of the input data and the output
 * Documentation of the process —using the visuals generated
 
-### 🤔 From air pollution to life years
+## 🤔 From air pollution to life years
 
 |**Team name:** pandas 🐼|
 |:------|
@@ -87,7 +88,7 @@ The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Inst
 * Visualizations of the output files at different levels
 * Documentation of the process —using the visuals generated
 
-### 🌍 From data to action
+## 🌍 From data to action
 
 |**Team name:** rhinos 🦏|
 |:------|
@@ -102,6 +103,8 @@ The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Inst
 * Brief summary of the methodology used by the pandas 🐼 and the rhinos 🦏
 * A criteria to determine country hotspots
 * ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
+
+---
 
 ## Day-of schedule
 
@@ -160,6 +163,9 @@ Self and peer evaluation forms:
 
 For the **Information Visualization** subject:
 
-* All attending students in the winning groups get +1 (if the popular vote coincides with the jury fav they get +2)
-* All other attending students get +0.4 for their participation.
-* We will take into account the creativity and how well the visualization displays the results.
+* All attending students get 0.25 for actively participating.
+* All students in the winning groups get 0.75 (if the popular vote coincides with the jury favorite they'll get an extra +0.5)
+* We will take into account:
+  * How clearly the visualization displays the results,
+  * the strategies used to highlight patterns,
+  * the integration of the visuals with the documentation or the text in the prototype.
