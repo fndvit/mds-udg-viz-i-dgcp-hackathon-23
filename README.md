@@ -42,11 +42,12 @@ Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's sa
 
 Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
 
+The [Air Quality Life Index](https://aqli.epic.uchicago.edu/) by the Energy Institute at the University of Chicago is one of the better known and better documented models right now —which you can use as a reference in any way, shape or form you like. Please read their [methodology](https://aqli.epic.uchicago.edu/about/methodology/), it contains details relevant to all teams.
+
 ## Some helpful tools
 * QGIS: a free and open source mapping software https://qgis.org/en/site/
-* ObservableHQ notebooks:
-  * TK TK
-  * TK TK
+* Mapping with Plot https://observablehq.com/@observablehq/plot-mapping
+* Mapping with GeoTIFFs Python https://towardsdatascience.com/reading-and-visualizing-geotiff-images-with-python-8dcca7a74510
 
 ## Teams and objectives
 
@@ -63,7 +64,7 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 **Deliverables:**
 
 * Data files with the PM<sub>2.5</sub> values aggregated by the different levels of admin units —to be negotiated with the pandas 🐼 team
-* Visualize the input data and the output
+* Visualizations of the input data and the output
 * Documentation of the process —using the visuals generated
 
 ### 🤔 From air pollution to life years
@@ -79,7 +80,7 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 **Deliverables:**
 
 * Data files with the different levels of admin units for a country —to be negotiated with the rhinos 🦏 team
-* Visualize the input data and the output
+* Visualizations of the output files at different levels
 * Documentation of the process —using the visuals generated
 
 ### 🌍 From data to action
@@ -94,7 +95,8 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 
 **Deliverables:**
 
-* TK TK TK 
+* A criteria to determine country hotspots
+* ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
 
 ## Day-of schedule
 
@@ -139,11 +141,11 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 For the **Project Management** subject:
 
-* **50%:** Active participation and engagement with the given roles. Part of it will be our observation, part of it will be self and peer evaluation within the teams.
-* **30%:** Confidence in the presentation of the results.
+* **50%:** Active participation and engagement with the given roles —part of it will be our observation, part of it will be self and peer evaluation within the teams.
+* **30%:** Delivery of the presentation of the results.
 * **20%:** Creativity, feasibility and accuracy of the deliverables.
 
-The hackathon will count for **15% of the final mark for the subject**. (The final mark for the subject is then 30% project management and ethics + 30% group project + 25% guest lectures + 15% hackathon)
+Remember that hackathon will count for [**25% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/oferta-formativa/Oferta-dassignatures/Detall-assignatura?curs=2022&codia=3501MO3316#avaluacioQualificacio)
 
 Colleague evaluation forms:
 
