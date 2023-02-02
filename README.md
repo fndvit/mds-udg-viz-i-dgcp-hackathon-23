@@ -35,8 +35,8 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 
 # About the data
 
-* Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs) in [./data/raw](./data/raw)
-* Global administrative units (geopackage) in [./data/additional](./data/additional)
+* Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs) in [`./data/raw`](./data/raw)
+* Global administrative units (geopackage) in [`./data/additional`](./data/additional)
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
