@@ -153,7 +153,7 @@ As we all know the [professional jury and the popular vote don't always match](h
 * **30%:** Delivery of the presentation of the results.
 * **20%:** Creativity, feasibility and accuracy of the deliverables.
 
-Remember that hackathon will count for [**25% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/oferta-formativa/Oferta-dassignatures/Detall-assignatura?curs=2022&codia=3501MO3316#avaluacioQualificacio)
+Remember that the hackathon will account for [**25% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/oferta-formativa/Oferta-dassignatures/Detall-assignatura?curs=2022&codia=3501MO3316#avaluacioQualificacio)
 
 Self and peer evaluation forms:
 
@@ -169,3 +169,6 @@ Self and peer evaluation forms:
   * How clearly the visualization displays the results,
   * the strategies used to highlight patterns,
   * the integration of the visuals with the documentation or the text in the prototype.
+
+Remember that the hackathon will account for [**10% of the final mark for the subject**.](https://www.udg.edu/ca/estudia/Oferta-formativa/Oferta-dassignatures/Detall-assignatura?codia=3501MO3317&codip=3105M0121&curs=2022#avaluacioQualificacio)
+
