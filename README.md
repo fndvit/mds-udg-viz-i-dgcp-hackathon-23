@@ -38,12 +38,15 @@ We want to propose a **new metric about the impact of air pollution (PM<sub>2.5<
 
 ## OUR FOCUS: Health impact of PM<sub>2.5</sub> pollution
 
-Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM2.5 Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
+Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
 Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
 
-### About the data
-
+## Some helpful tools
+* QGIS: a free and open source mapping software https://qgis.org/en/site/
+* ObservableHQ notebooks:
+  * TK TK
+  * TK TK
 
 ## Teams and objectives
 
@@ -53,13 +56,15 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 |:------|
 |**Members:** Joan, Roser, Elmo, Marwa, David|
 
-**Question:** 
+**Question:** How can we aggregate the gridded data into relevant administrative units? 
 
-**Context:** 
+**Goal:** Automate the pipeline that summarizes the annual PM<sub>2.5</sub> values from a gridded data format (TIFFs in this case) to administrative units (country, region, province).
 
 **Deliverables:**
 
-* 
+* Data files with the PM<sub>2.5</sub> values aggregated by the different levels of admin units —to be negotiated with the pandas 🐼 team
+* Visualize the input data and the output
+* Documentation of the process —using the visuals generated
 
 ### 🤔 From air pollution to life years
 
@@ -67,13 +72,15 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 |:------|
 |**Members:** Josep, Nil, Ivan, Xavier, Llorenç, Denisse|
 
-**Question:** 
+**Question:** How can we transform it into a measure of health impact?
 
-**Context:** 
+**Goal:** Design the model (weighted by population) that converts PM<sub>2.5</sub> pollution into years of life expectancy lost
 
 **Deliverables:**
 
-* 
+* Data files with the different levels of admin units for a country —to be negotiated with the rhinos 🦏 team
+* Visualize the input data and the output
+* Documentation of the process —using the visuals generated
 
 ### 🌍 From data to action
 
@@ -81,13 +88,13 @@ Here're [more detailed explanations about the data](https://sedac.ciesin.columbi
 |:------|
 |**Members:** Judit, Wilber, Samuel, Isaac, Feng|
 
-**Question:** 
+**Question:** How can we inform citizens and policy-makers about the issue?
 
-**Context:** 
+**Goal:** Prototype an interactive country-level report about the impact of PM<sub>2.5</sub> pollution for policy-makers
 
 **Deliverables:**
 
-* 
+* TK TK TK 
 
 ## Day-of schedule
 
