@@ -150,7 +150,9 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an guest judge and the presentation must be in English.
 
-TK TK Premi Eurecat
+🏆 Jury fav: Targeta regal de compra online per valor de 500 euros (sponsored by the Càtedra Informació i Computació via Eurecat)
+
+🏆 Popular vote: A copy of How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo (sponsored by ViT)
 
 ## Our evaluation criteria
 
