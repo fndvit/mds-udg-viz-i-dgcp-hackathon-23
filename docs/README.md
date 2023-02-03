@@ -1,1 +1,1 @@
-# The original data goes here — immutable
+# Documentation of the methodology, variables, transformations, model
