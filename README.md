@@ -1,7 +1,7 @@
 <img src="logos.png" width="540">
 
-# Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
-This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/) and the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo).
+# EPS - Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
+This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo) and the [Càtedra d'Informació i Computació (premi Eurecat)].
 
 **💡 What we want to solve:**
 
@@ -36,7 +36,7 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 # About the data
 
 * Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs) in [`./data/raw`](./data/raw)
-* Global administrative units (geopackage) in [`./data/additional`](./data/additional)
+* Global administrative units (simplified geojson files for admin levels 0-2 —you're welcomed🙏) in [`./data/additional`](./data/additional)
 
 Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
@@ -77,7 +77,7 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 
 **Question:** How can we aggregate the gridded data into relevant administrative units? 
 
-**Goal:** Automate the pipeline that summarizes the annual PM<sub>2.5</sub> values from a gridded data format (TIFFs in this case) to administrative units (country, region, province).
+**Goal:** Automate the pipeline that summarizes the annual PM<sub>2.5</sub> values from a gridded data format (TIFFs) to administrative units (country, region, province).
 
 **Deliverables:**
 
@@ -109,7 +109,7 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 
 **Question:** How can we inform citizens and policy-makers about the issue?
 
-**Goal:** Prototype an interactive country-level report about the impact of PM<sub>2.5</sub> pollution for policy-makers
+**Goal:** Prototype an interactive, country-level report about the impact of PM<sub>2.5</sub> pollution —to be used by policy-makers
 
 **Deliverables:**
 
@@ -118,10 +118,9 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 * ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
 
 ---
-
 ## Day-of schedule
 
-The Hackathon takes place in the P-IV building, EPS UdG on February 12, 2022.
+The Hackathon takes place in the P-IV building, EPS UdG on February 4, 2023.
 
 We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
@@ -151,12 +150,7 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an guest judge and the presentation must be in English.
 
-* [**Vote for your favorite for the popular vote award here**]()
-
-* 🏆 **Popular vote:** A copy of [Data sketches: A journey of imagination, exploration, and beautiful data visualizations](https://www.datasketch.es/) by Nadieh Bremer and Shirley Wu
-* 🏆 **Jury fav:** A copy of [Data Feminism (Strong Ideas)](https://datafeminism.io/) by Catherine D'Ignazio and Lauren F. Klein
-
-![Book covers](awards.jpg)
+TK TK Premi Eurecat
 
 ## Our evaluation criteria
 

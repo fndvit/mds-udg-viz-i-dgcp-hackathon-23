@@ -1,1 +1,1 @@
-# Model predictions — or summaries
+# Model predictions — and / or summaries
