@@ -1,7 +1,7 @@
 <img src="logos.png" width="540">
 
 # EPS - Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
-This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo) and the [Càtedra d'Informació i Computació (premi Eurecat)].
+This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo) and the [Càtedra d'Informació i Computació (premi Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
 
 **💡 What we want to solve:**
 
@@ -38,7 +38,7 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 * Global annual PM<sub>2.5</sub> grids from 1998-2019 (GeoTIFFs) in [`./data/raw`](./data/raw)
 * Global administrative units (simplified geojson files for admin levels 0-2 —you're welcomed🙏) in [`./data/additional`](./data/additional)
 
-Our ['raw data'](https://mitpress.mit.edu/books/raw-data-oxymoron) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
+Our ['raw data'](https://mitpress.mit.edu/9780262518284/raw-data-is-an-oxymoron/) is SEDAC's satellite-derived Global Annual PM<sub>2.5</sub> Grids. SEDAC is a data center in NASA's Earth Observing System Data and Information System. The estimates in this indicator are intended to help in large-scale health and environmental studies. The gridded data sets provided have a resolution of 0.01 degrees to allow researchers to agglomerate data to meet their particular needs.
 
 > **⚠ MORE DETAILS:**  
 > Here're [more detailed explanations about the data](https://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-gwr-pm2-5-modis-misr-seawifs-aod-v4-gl-03).
