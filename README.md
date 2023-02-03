@@ -1,4 +1,4 @@
-<img src="logos.png" width="640">
+![Sponsored by the Escola Politèctica Superior EPS - UdG, ViT Foundation, the Càtedra Lluís Santaló d'Aplicacions de la Matemàtica, and the [Càtedra d'Informació i Computació (Eurecat)](logos.png)
 
 # EPS - Màster in Data Science UdG | Hackathon: Health impact of PM<sub>2.5</sub> pollution
 This hackathon is a shared event between the Information Visualization and Data Science Project Management subjects with support from the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo) and the [Càtedra d'Informació i Computació (premi Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
