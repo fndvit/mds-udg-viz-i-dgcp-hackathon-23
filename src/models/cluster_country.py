@@ -5,6 +5,8 @@ import hdbscan
 
 df_pop_sep = pd.read_csv('src/data/examples/exemple_dt_1_with_pop_life.csv')
 
+#
+
 # create a dictionary to store the final data structure
 data = {}
 
