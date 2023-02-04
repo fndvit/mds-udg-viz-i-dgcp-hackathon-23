@@ -57,4 +57,41 @@ df_no_pop.drop("country", axis=1, inplace=True)
 clusterer.fit(df_no_pop)
 print(clusterer.labels_)
 df_no_pop_original['cluster'] = clusterer.labels_
-df_no_pop_original.to_csv("src/data/examples/clustered.csv", index=False)
+df_no_pop_original.to_csv("src/data/examples/clustered_hdbscan.csv", index=False)
+
+
+from minisom import MiniSom
+
+# Initialization and training
+som_shape = (1, 3)
+som = MiniSom(som_shape[0], som_shape[1], len(df_no_pop.columns), sigma=.5, learning_rate=.5,
+              neighborhood_function='gaussian')
+
+data = df_no_pop.to_numpy()
+
+som.train_batch(data, 500, verbose=True)
+
+# each neuron represents a cluster
+winner_coordinates = np.array([som.winner(x) for x in data]).T
+# with np.ravel_multi_index we convert the bidimensional
+# coordinates to a monodimensional index
+cluster_index = np.ravel_multi_index(winner_coordinates, som_shape)
+
+df_no_pop_original['cluster'] = cluster_index
+df_no_pop_original.to_csv("src/data/examples/clustered_som.csv", index=False)
+
+print(cluster_index)
+
+import matplotlib.pyplot as plt
+
+# plotting the clusters using the first 2 dimentions of the data
+for c in np.unique(cluster_index):
+    plt.scatter(data[cluster_index == c, 0],
+                data[cluster_index == c, 1], label='cluster='+str(c), alpha=.7)
+
+# plotting centroids
+for centroid in som.get_weights():
+    plt.scatter(centroid[:, 0], centroid[:, 1], marker='x', 
+                s=80, linewidths=35, color='k', label='centroid')
+plt.legend()
+plt.show()
