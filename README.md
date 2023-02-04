@@ -113,7 +113,7 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 
 **Deliverables:**
 
-* Brief summary of the methodology used by the pandas 🐼 and the rhinos 🦏
+* Brief summary of the methodology used by the pandas 🐼 and the owls 🦉
 * A criteria to determine country hotspots
 * ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
 
