@@ -15,13 +15,13 @@
 ## 1. Members
 The owls team is composed by the following members in 3 different roles:
 
-|**Member**|**Role**|**Tasks**
+|**Member**|**Role**|**Tasks**|
 |:------|
-|Joan Saló|Data Engineer|Data preprocesing
-|David Galer|Data Engineer|Data preprocessing
-|Marwa Ben Amar|Data Scientist|Data visualization
-|Elmo Chávez|Data Scientist|Data visualization
-|Roser Brugués|Project Manager|Documentation & support in other IT tasks
+|Joan Saló|Data Engineer|Data preprocesing|
+|David Galer|Data Engineer|Data preprocessing|
+|Marwa Ben Amar|Data Scientist|Data visualization|
+|Elmo Chávez|Data Scientist|Data visualization|
+|Roser Brugués|Project Manager|Documentation & support in other IT tasks|
 
 ## 2. Objectives
 
@@ -57,6 +57,8 @@ Raster data needs very specific libraries and software:
 #### Specific software used
 - **QGIS**: It's an open-source software that it is useful to create, edit, visualize and analyze geospatial and raster data. We have used it to explore easily the raster data and perform a **downsampling** on the original files to work with less large files and digest them faster. More information can be found [here](https://www.qgis.org/es/site/).
 
+![qgis](Images/qgis.jpeg)
+
 ### 3.2 Data visualization
 The visualization of the data is split in 2 different parts: input data & output data
 
@@ -87,7 +89,7 @@ We have ploted the data in an Observable HQ notebook, which enable us to use dif
 ## 4. PM Tools
 As a PM tool we have used **Trello**.
 
-![trello](Images/trello.png)
+![trello](Images/trello_.png)
 Trello for the PM and task organization. We have splited the tasks in for different epics/labels
 - Documentation
 - Data visualization
