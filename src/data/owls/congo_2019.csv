@@ -1,0 +1,3649 @@
+id_country,pollution,region_name,year
+NGA,79.2,Kabba/Bunu,congo_2019
+NGA,80.0,Kogi,congo_2019
+NGA,79.4,Toto,congo_2019
+NGA,78.1,Nasarawa,congo_2019
+NGA,72.6,Doma,congo_2019
+NGA,75.2,Keana,congo_2019
+NGA,74.0,Awe,congo_2019
+NGA,65.6,Ibi,congo_2019
+NGA,61.4,Gassol,congo_2019
+NGA,69.6,Gassol,congo_2019
+NGA,67.4,Bali,congo_2019
+NGA,59.3,Teungo,congo_2019
+NGA,57.7,Ganye,congo_2019
+CMR,58.0,Faro,congo_2019
+CMR,52.1,Faro,congo_2019
+CMR,53.7,Mayo Rey,congo_2019
+CMR,52.5,Mayo Rey,congo_2019
+CMR,48.3,Mayo Rey,congo_2019
+CMR,46.4,Mayo Rey,congo_2019
+TCD,47.8,Monts de Lam,congo_2019
+TCD,45.3,Nya Pendé,congo_2019
+TCD,46.6,Lanya,congo_2019
+TCD,44.3,Pendé,congo_2019
+TCD,41.0,Barh Sara,congo_2019
+TCD,38.8,Grande Sido,congo_2019
+TCD,37.7,Grande Sido,congo_2019
+CAF,34.9,Kaga-Bandoro,congo_2019
+CAF,34.8,Bamingui,congo_2019
+CAF,33.9,Bamingui,congo_2019
+CAF,34.7,Ndélé,congo_2019
+CAF,31.3,Ndélé,congo_2019
+CAF,30.4,Ouadda,congo_2019
+CAF,28.6,Ouadda,congo_2019
+CAF,28.4,Ouadda,congo_2019
+CAF,28.7,Ouadda,congo_2019
+CAF,28.7,Yalinga,congo_2019
+CAF,29.5,Yalinga,congo_2019
+SSD,30.3,Raja,congo_2019
+SSD,31.0,Raja,congo_2019
+SSD,33.1,Raja,congo_2019
+SSD,34.4,Raja,congo_2019
+SSD,35.2,Aweil,congo_2019
+SSD,34.4,Aweil,congo_2019
+SSD,36.0,Gogrial,congo_2019
+SSD,37.0,Gogrial,congo_2019
+SSD,35.2,Warab,congo_2019
+SSD,33.6,Warab,congo_2019
+SSD,31.3,Al Leiri,congo_2019
+SSD,30.2,Al Leiri,congo_2019
+SSD,26.9,Ayod,congo_2019
+SSD,26.4,Wat,congo_2019
+SSD,25.2,Nahr Atiem,congo_2019
+SSD,25.4,Nahr Atiem,congo_2019
+ETH,26.1,Nuer,congo_2019
+ETH,26.2,Nuer,congo_2019
+ETH,24.7,Agnuak,congo_2019
+ETH,22.4,Agnuak,congo_2019
+ETH,21.3,Ilubabor,congo_2019
+ETH,21.3,Ilubabor,congo_2019
+ETH,20.4,Ilubabor,congo_2019
+ETH,21.1,Ilubabor,congo_2019
+ETH,20.7,Jimma,congo_2019
+ETH,21.3,Gurage,congo_2019
+ETH,19.1,Gurage,congo_2019
+ETH,21.2,Misraq Shewa,congo_2019
+ETH,22.0,Arsi,congo_2019
+ETH,18.8,Arsi,congo_2019
+ETH,17.3,Arsi,congo_2019
+ETH,15.8,Mirab Hararghe,congo_2019
+ETH,14.9,Mirab Hararghe,congo_2019
+ETH,12.9,Misraq Harerge,congo_2019
+ETH,12.0,Nogob,congo_2019
+NGA,82.2,Okehi,congo_2019
+NGA,83.7,Lokoja,congo_2019
+NGA,80.3,Dekina,congo_2019
+NGA,81.8,Omala,congo_2019
+NGA,81.5,Gwer West,congo_2019
+NGA,80.4,Guma,congo_2019
+NGA,70.7,Logo,congo_2019
+NGA,71.6,Wukari,congo_2019
+NGA,72.1,Donga,congo_2019
+NGA,62.2,Bali,congo_2019
+NGA,65.4,Gashaka,congo_2019
+NGA,56.5,Gashaka,congo_2019
+CMR,54.4,Faro et Déo,congo_2019
+CMR,47.5,Faro,congo_2019
+CMR,50.0,Faro,congo_2019
+CMR,47.7,Vina,congo_2019
+CMR,44.5,Mayo Rey,congo_2019
+CMR,47.3,Mayo Rey,congo_2019
+CMR,46.1,Mayo Rey,congo_2019
+TCD,46.7,Monts de Lam,congo_2019
+TCD,44.1,Monts de Lam,congo_2019
+TCD,41.1,Nya Pendé,congo_2019
+CAF,40.3,Markounda,congo_2019
+CAF,37.1,Batangafo,congo_2019
+CAF,36.9,Batangafo,congo_2019
+CAF,36.6,Kabo,congo_2019
+CAF,34.9,Kaga-Bandoro,congo_2019
+CAF,34.8,Bamingui,congo_2019
+CAF,34.3,Bamingui,congo_2019
+CAF,33.4,Bamingui,congo_2019
+CAF,30.1,Ouadda,congo_2019
+CAF,29.3,Ouadda,congo_2019
+CAF,27.9,Ouadda,congo_2019
+CAF,29.0,Ouadda,congo_2019
+CAF,30.3,Yalinga,congo_2019
+CAF,29.5,Yalinga,congo_2019
+CAF,29.7,Yalinga,congo_2019
+CAF,30.4,Djemah,congo_2019
+CAF,30.6,Djemah,congo_2019
+SSD,32.4,Raja,congo_2019
+SSD,32.4,Raja,congo_2019
+SSD,33.7,Wau,congo_2019
+SSD,34.1,Wau,congo_2019
+SSD,34.6,Wau,congo_2019
+SSD,33.6,Warab,congo_2019
+SSD,33.3,Tonj,congo_2019
+SSD,33.0,Tonj,congo_2019
+SSD,30.0,Rumbek,congo_2019
+SSD,29.0,Al Leiri,congo_2019
+SSD,28.0,Ayod,congo_2019
+SSD,26.1,Akobo,congo_2019
+SSD,25.8,Akobo,congo_2019
+SSD,23.4,Wat,congo_2019
+SSD,25.3,Nahr Atiem,congo_2019
+SSD,24.4,Nahr Atiem,congo_2019
+ETH,24.9,Agnuak,congo_2019
+ETH,23.9,Agnuak,congo_2019
+ETH,22.4,Agnuak,congo_2019
+ETH,20.8,Ilubabor,congo_2019
+ETH,19.8,Keffa,congo_2019
+ETH,21.5,Jimma,congo_2019
+ETH,20.2,Jimma,congo_2019
+ETH,19.8,Jimma,congo_2019
+ETH,19.2,Hadiya,congo_2019
+ETH,18.7,Silti,congo_2019
+ETH,18.7,Arsi,congo_2019
+ETH,17.6,Arsi,congo_2019
+ETH,17.6,Arsi,congo_2019
+ETH,15.9,Arsi,congo_2019
+ETH,13.8,Bale,congo_2019
+ETH,12.5,Bale,congo_2019
+ETH,10.9,Misraq Harerge,congo_2019
+ETH,10.7,Nogob,congo_2019
+NGA,83.1,Akoko-Edo,congo_2019
+NGA,88.1,Ofu,congo_2019
+NGA,85.0,Ofu,congo_2019
+NGA,82.2,Olamaboro,congo_2019
+NGA,80.3,Gwer East,congo_2019
+NGA,77.1,Gboko,congo_2019
+NGA,72.9,Bukuru,congo_2019
+NGA,71.1,Katsina-Ala,congo_2019
+NGA,67.3,Ussa,congo_2019
+NGA,58.7,Kurmi,congo_2019
+NGA,59.6,Gashaka,congo_2019
+NGA,46.9,Gashaka,congo_2019
+CMR,44.4,Faro et Déo,congo_2019
+CMR,41.9,Faro et Déo,congo_2019
+CMR,39.2,Vina,congo_2019
+CMR,39.5,Vina,congo_2019
+CMR,39.4,Vina,congo_2019
+CMR,40.0,Mayo Rey,congo_2019
+CAF,42.4,Bocaranga,congo_2019
+CAF,40.9,Bocaranga,congo_2019
+CAF,42.2,Paoua,congo_2019
+CAF,40.5,Paoua,congo_2019
+CAF,39.5,Markounda,congo_2019
+CAF,36.3,Batangafo,congo_2019
+CAF,37.1,Batangafo,congo_2019
+CAF,35.5,Batangafo,congo_2019
+CAF,35.0,Kaga-Bandoro,congo_2019
+CAF,34.5,Mbrès,congo_2019
+CAF,35.4,Bamingui,congo_2019
+CAF,34.2,Bamingui,congo_2019
+CAF,32.4,Ippy,congo_2019
+CAF,30.3,Bria,congo_2019
+CAF,29.0,Bria,congo_2019
+CAF,29.5,Yalinga,congo_2019
+CAF,28.9,Yalinga,congo_2019
+CAF,28.8,Yalinga,congo_2019
+CAF,29.5,Yalinga,congo_2019
+CAF,30.1,Djemah,congo_2019
+CAF,31.3,Djemah,congo_2019
+SSD,30.5,Raja,congo_2019
+SSD,30.4,Raja,congo_2019
+SSD,31.8,Wau,congo_2019
+SSD,32.6,Wau,congo_2019
+SSD,33.5,Wau,congo_2019
+SSD,33.9,Tonj,congo_2019
+SSD,31.8,Tonj,congo_2019
+SSD,30.8,Shobet,congo_2019
+SSD,28.4,Rumbek,congo_2019
+SSD,27.0,Al Leiri,congo_2019
+SSD,25.9,Akobo,congo_2019
+SSD,25.7,Akobo,congo_2019
+SSD,24.6,Akobo,congo_2019
+SSD,23.9,Akobo,congo_2019
+SSD,23.3,Pibor,congo_2019
+SSD,23.2,Pibor,congo_2019
+SSD,22.7,Pibor,congo_2019
+ETH,22.2,Agnuak,congo_2019
+ETH,21.5,Agnuak,congo_2019
+ETH,20.5,Majang,congo_2019
+ETH,19.4,Keffa,congo_2019
+ETH,19.7,Keffa,congo_2019
+ETH,20.7,Keffa,congo_2019
+ETH,21.0,Dawro,congo_2019
+ETH,17.2,Kembata Tembaro,congo_2019
+ETH,16.7,Mirab Arsi,congo_2019
+ETH,16.5,Mirab Arsi,congo_2019
+ETH,15.3,Mirab Arsi,congo_2019
+ETH,15.3,Bale,congo_2019
+ETH,13.5,Bale,congo_2019
+ETH,11.5,Bale,congo_2019
+ETH,11.5,Bale,congo_2019
+ETH,11.3,Bale,congo_2019
+ETH,10.0,Nogob,congo_2019
+NGA,83.1,Esan Central,congo_2019
+NGA,86.7,Ibaji,congo_2019
+NGA,85.8,Uzo-Uwani,congo_2019
+NGA,83.5,Isi-Uzo,congo_2019
+NGA,84.3,Oju,congo_2019
+NGA,78.6,Yala,congo_2019
+NGA,69.9,Kwande,congo_2019
+NGA,65.6,Ussa,congo_2019
+CMR,56.6,Menchum,congo_2019
+CMR,53.6,Donga Mantung,congo_2019
+NGA,48.1,Sardauna,congo_2019
+CMR,44.8,Mayo Banyo,congo_2019
+CMR,42.2,Djerem,congo_2019
+CMR,41.4,Djerem,congo_2019
+CMR,38.4,Vina,congo_2019
+CMR,37.2,Vina,congo_2019
+CMR,35.3,Mbéré,congo_2019
+CMR,35.7,Mbéré,congo_2019
+CAF,37.5,Bocaranga,congo_2019
+CAF,37.2,Bocaranga,congo_2019
+CAF,38.3,Paoua,congo_2019
+CAF,40.1,Paoua,congo_2019
+CAF,38.6,Bossangoa,congo_2019
+CAF,37.4,Bossangoa,congo_2019
+CAF,36.5,Bouca,congo_2019
+CAF,36.0,Bouca,congo_2019
+CAF,36.4,Kaga-Bandoro,congo_2019
+CAF,36.7,Mbrès,congo_2019
+CAF,35.1,Bakala,congo_2019
+CAF,35.8,Ippy,congo_2019
+CAF,33.9,Ippy,congo_2019
+CAF,34.1,Bria,congo_2019
+CAF,31.3,Bria,congo_2019
+CAF,30.0,Yalinga,congo_2019
+CAF,28.9,Yalinga,congo_2019
+CAF,29.4,Yalinga,congo_2019
+CAF,29.6,Yalinga,congo_2019
+CAF,29.1,Djemah,congo_2019
+CAF,29.5,Djemah,congo_2019
+CAF,29.2,Djemah,congo_2019
+CAF,29.7,Djemah,congo_2019
+SSD,30.9,Wau,congo_2019
+SSD,32.3,Wau,congo_2019
+SSD,31.1,Tombura,congo_2019
+SSD,31.9,Tombura,congo_2019
+SSD,31.2,Tonj,congo_2019
+SSD,28.9,Shobet,congo_2019
+SSD,27.9,Rumbek,congo_2019
+SSD,27.9,Yerol,congo_2019
+SSD,24.7,Yerol,congo_2019
+SSD,24.8,Akobo,congo_2019
+SSD,22.9,Bor,congo_2019
+SSD,22.4,Akobo,congo_2019
+SSD,22.4,Pibor,congo_2019
+SSD,21.7,Pibor,congo_2019
+SSD,22.2,Pibor,congo_2019
+SSD,21.4,Pibor,congo_2019
+ETH,20.0,Agnuak,congo_2019
+ETH,19.4,Bench Maji,congo_2019
+ETH,17.9,Bench Maji,congo_2019
+ETH,19.6,Keffa,congo_2019
+ETH,19.1,Dawro,congo_2019
+ETH,19.5,Dawro,congo_2019
+ETH,16.2,Wolayita,congo_2019
+ETH,16.0,Sidama,congo_2019
+ETH,14.2,Mirab Arsi,congo_2019
+ETH,13.2,Mirab Arsi,congo_2019
+ETH,12.2,Bale,congo_2019
+ETH,12.0,Bale,congo_2019
+ETH,10.5,Bale,congo_2019
+ETH,10.9,Bale,congo_2019
+ETH,10.4,Bale,congo_2019
+ETH,10.3,Shabelle,congo_2019
+NGA,78.2,Ika South,congo_2019
+NGA,81.3,Anambra West,congo_2019
+NGA,84.7,Oji-River,congo_2019
+NGA,85.9,Ishielu,congo_2019
+NGA,80.8,Abakaliki,congo_2019
+NGA,70.5,Boki,congo_2019
+NGA,63.0,Boki,congo_2019
+CMR,58.5,Manyu,congo_2019
+CMR,53.0,Boyo,congo_2019
+CMR,45.4,Bui,congo_2019
+CMR,45.6,Mayo Banyo,congo_2019
+CMR,41.7,Mayo Banyo,congo_2019
+CMR,39.4,Djerem,congo_2019
+CMR,37.8,Djerem,congo_2019
+CMR,36.9,Mbéré,congo_2019
+CMR,35.6,Mbéré,congo_2019
+CAF,34.8,Baboua,congo_2019
+CAF,35.7,Bouar,congo_2019
+CAF,35.1,Bouar,congo_2019
+CAF,36.0,Bozoum,congo_2019
+CAF,37.6,Bozoum,congo_2019
+CAF,37.5,Bossangoa,congo_2019
+CAF,34.9,Bouca,congo_2019
+CAF,35.2,Bouca,congo_2019
+CAF,36.7,Bouca,congo_2019
+CAF,35.2,Dékoa,congo_2019
+CAF,36.0,Dékoa,congo_2019
+CAF,37.1,Bakala,congo_2019
+CAF,38.4,Ippy,congo_2019
+CAF,36.4,Ippy,congo_2019
+CAF,34.9,Bria,congo_2019
+CAF,31.9,Bria,congo_2019
+CAF,29.8,Yalinga,congo_2019
+CAF,28.9,Yalinga,congo_2019
+CAF,29.2,Rafaï,congo_2019
+CAF,28.8,Rafaï,congo_2019
+CAF,28.1,Rafaï,congo_2019
+CAF,28.0,Djemah,congo_2019
+CAF,28.1,Djemah,congo_2019
+CAF,28.7,Djemah,congo_2019
+SSD,28.9,Tombura,congo_2019
+SSD,29.5,Tombura,congo_2019
+SSD,30.9,Tombura,congo_2019
+SSD,29.8,Yambio,congo_2019
+SSD,29.7,Rumbek,congo_2019
+SSD,29.0,Rumbek,congo_2019
+SSD,25.3,Mundri,congo_2019
+SSD,24.6,Yerol,congo_2019
+SSD,24.0,Yerol,congo_2019
+SSD,23.9,Aliab,congo_2019
+SSD,22.2,Bor,congo_2019
+SSD,21.7,Bor,congo_2019
+SSD,21.3,Pibor,congo_2019
+SSD,20.4,Pibor,congo_2019
+SSD,19.8,Pibor,congo_2019
+SSD,20.0,Pibor,congo_2019
+SSD,17.8,Pibor,congo_2019
+ETH,17.0,Bench Maji,congo_2019
+ETH,17.3,Bench Maji,congo_2019
+ETH,17.9,Debub Omo,congo_2019
+ETH,16.9,Gamo Gofa,congo_2019
+ETH,18.0,Gamo Gofa,congo_2019
+ETH,15.1,Gedeo,congo_2019
+ETH,12.9,Guji,congo_2019
+ETH,12.1,Bale,congo_2019
+ETH,11.0,Bale,congo_2019
+ETH,10.8,Bale,congo_2019
+ETH,10.8,Bale,congo_2019
+ETH,10.0,Afder,congo_2019
+ETH,10.1,Afder,congo_2019
+ETH,10.6,Afder,congo_2019
+NGA,74.5,Ndokwa West,congo_2019
+NGA,76.2,Oguta,congo_2019
+NGA,78.7,Unuimo,congo_2019
+NGA,74.7,Ohafia,congo_2019
+NGA,69.4,Yakurr,congo_2019
+NGA,63.5,Etung,congo_2019
+CMR,60.3,Manyu,congo_2019
+CMR,50.7,Manyu,congo_2019
+CMR,45.7,Bamboutos,congo_2019
+CMR,42.3,Noun,congo_2019
+CMR,42.1,Mbam et Kim,congo_2019
+CMR,39.0,Mbam et Kim,congo_2019
+CMR,38.5,Mbam et Kim,congo_2019
+CMR,37.5,Mbam et Kim,congo_2019
+CMR,38.3,Lom et Djerem,congo_2019
+CMR,38.1,Lom et Djerem,congo_2019
+CMR,35.8,Lom et Djerem,congo_2019
+CAF,34.3,Baboua,congo_2019
+CAF,37.4,Baboua,congo_2019
+CAF,34.4,Bouar,congo_2019
+CAF,33.8,Baoro,congo_2019
+CAF,36.2,Bozoum,congo_2019
+CAF,34.9,Bossangoa,congo_2019
+CAF,34.1,Yaloké,congo_2019
+CAF,34.2,Damara,congo_2019
+CAF,36.3,Sibut,congo_2019
+CAF,37.7,Sibut,congo_2019
+CAF,36.8,Grimari,congo_2019
+CAF,37.7,Grimari,congo_2019
+CAF,38.9,Bambari,congo_2019
+CAF,37.7,Bambari,congo_2019
+CAF,34.8,Bambari,congo_2019
+CAF,33.2,Bakouma,congo_2019
+CAF,31.3,Bakouma,congo_2019
+CAF,28.3,Bakouma,congo_2019
+CAF,27.5,Rafaï,congo_2019
+CAF,27.4,Rafaï,congo_2019
+CAF,27.1,Rafaï,congo_2019
+CAF,26.2,Zémio,congo_2019
+CAF,26.5,Zémio,congo_2019
+CAF,27.7,Obo,congo_2019
+CAF,27.2,Obo,congo_2019
+SSD,27.2,Tombura,congo_2019
+SSD,27.3,Tombura,congo_2019
+SSD,27.1,Yambio,congo_2019
+SSD,27.9,Meridi,congo_2019
+SSD,25.7,Rumbek,congo_2019
+SSD,24.7,Mundri,congo_2019
+SSD,24.0,Mundri,congo_2019
+SSD,23.4,Terkaka,congo_2019
+SSD,21.6,Terkaka,congo_2019
+SSD,21.6,Terkaka,congo_2019
+SSD,20.8,Amatonge,congo_2019
+SSD,19.1,Amatonge,congo_2019
+SSD,19.5,Kapoeta,congo_2019
+SSD,18.2,Kapoeta,congo_2019
+SSD,17.2,Kapoeta,congo_2019
+SSD,15.5,Kapoeta,congo_2019
+ETH,15.4,Bench Maji,congo_2019
+ETH,17.3,Bench Maji,congo_2019
+ETH,16.5,Debub Omo,congo_2019
+ETH,15.3,Debub Omo,congo_2019
+ETH,15.1,Gamo Gofa,congo_2019
+ETH,13.5,Amaro,congo_2019
+ETH,11.8,Borena,congo_2019
+ETH,10.5,Guji,congo_2019
+ETH,9.4,Guji,congo_2019
+ETH,8.9,Bale,congo_2019
+ETH,9.6,Bale,congo_2019
+ETH,9.8,Bale,congo_2019
+ETH,9.3,Afder,congo_2019
+ETH,9.9,Afder,congo_2019
+ETH,9.1,Afder,congo_2019
+NGA,67.5,Patani,congo_2019
+NGA,68.6,Emuoha,congo_2019
+NGA,68.8,Ngor-Okpala,congo_2019
+NGA,64.4,Ikono,congo_2019
+NGA,58.6,Akamkpa,congo_2019
+NGA,54.1,Akamkpa,congo_2019
+CMR,51.0,Koupé Manengouba,congo_2019
+CMR,46.1,Koupé Manengouba,congo_2019
+CMR,41.0,Haut Nkam,congo_2019
+CMR,40.7,Noun,congo_2019
+CMR,38.4,Mbam et Kim,congo_2019
+CMR,38.7,Mbam et Kim,congo_2019
+CMR,37.7,Mbam et Kim,congo_2019
+CMR,37.6,Haute Sanaga,congo_2019
+CMR,37.3,Lom et Djerem,congo_2019
+CMR,39.0,Lom et Djerem,congo_2019
+CMR,37.2,Lom et Djerem,congo_2019
+CAF,36.8,Baboua,congo_2019
+CAF,37.6,Baboua,congo_2019
+CAF,35.8,Baoro,congo_2019
+CAF,35.4,Baoro,congo_2019
+CAF,35.0,Carnot,congo_2019
+CAF,34.0,Yaloké,congo_2019
+CAF,34.7,Yaloké,congo_2019
+CAF,35.1,Damara,congo_2019
+CAF,35.4,Damara,congo_2019
+CAF,37.6,Sibut,congo_2019
+CAF,38.8,Sibut,congo_2019
+CAF,39.8,Kouango,congo_2019
+CAF,37.9,Kouango,congo_2019
+CAF,39.6,Alindao,congo_2019
+CAF,36.4,Mingala,congo_2019
+CAF,33.8,Bakouma,congo_2019
+CAF,31.1,Bakouma,congo_2019
+CAF,30.2,Bangassou,congo_2019
+CAF,28.4,Rafaï,congo_2019
+CAF,26.5,Rafaï,congo_2019
+CAF,26.0,Zémio,congo_2019
+CAF,27.0,Zémio,congo_2019
+COD,26.8,Ango,congo_2019
+CAF,25.8,Obo,congo_2019
+CAF,24.8,Obo,congo_2019
+CAF,26.4,Obo,congo_2019
+SSD,26.1,Tombura,congo_2019
+SSD,26.3,Yambio,congo_2019
+SSD,24.9,Meridi,congo_2019
+SSD,24.4,Meridi,congo_2019
+SSD,23.1,Meridi,congo_2019
+SSD,23.3,Mundri,congo_2019
+SSD,21.2,Mundri,congo_2019
+SSD,21.5,Terkaka,congo_2019
+SSD,21.7,Bahr al Jabal,congo_2019
+SSD,20.9,Amatonge,congo_2019
+SSD,19.7,Amatonge,congo_2019
+SSD,18.2,Kapoeta,congo_2019
+SSD,16.9,Kapoeta,congo_2019
+SSD,16.7,Kapoeta,congo_2019
+SSD,15.5,Kapoeta,congo_2019
+SSD,16.5,Kapoeta,congo_2019
+SSD,15.8,Kapoeta,congo_2019
+ETH,15.6,Debub Omo,congo_2019
+ETH,13.5,Debub Omo,congo_2019
+ETH,13.8,Konso,congo_2019
+ETH,12.6,Borena,congo_2019
+ETH,10.6,Borena,congo_2019
+ETH,9.1,Borena,congo_2019
+ETH,9.4,Guji,congo_2019
+ETH,8.9,Guji,congo_2019
+ETH,8.9,Liben,congo_2019
+ETH,8.7,Liben,congo_2019
+ETH,9.2,Liben,congo_2019
+ETH,9.1,Afder,congo_2019
+ETH,9.3,Afder,congo_2019
+NGA,61.4,Ogbia,congo_2019
+NGA,60.2,Degema,congo_2019
+NGA,60.7,Tai,congo_2019
+NGA,57.8,Mkpat Enin,congo_2019
+NGA,53.5,Udung Uko,congo_2019
+CMR,49.3,Ndian,congo_2019
+CMR,46.2,Meme,congo_2019
+CMR,43.4,Moungo,congo_2019
+CMR,43.9,Nkam,congo_2019
+CMR,38.1,Mbam et Inoubou,congo_2019
+CMR,40.4,Mbam et Inoubou,congo_2019
+CMR,37.4,Mbam et Kim,congo_2019
+CMR,37.8,Haute Sanaga,congo_2019
+CMR,38.5,Haute Sanaga,congo_2019
+CMR,39.9,Lom et Djerem,congo_2019
+CMR,38.7,Lom et Djerem,congo_2019
+CMR,38.9,Lom et Djerem,congo_2019
+CAF,38.5,Gamboula,congo_2019
+CAF,39.4,Gamboula,congo_2019
+CAF,37.7,Carnot,congo_2019
+CAF,35.5,Carnot,congo_2019
+CAF,35.7,Carnot,congo_2019
+CAF,32.8,Boda,congo_2019
+CAF,33.5,Yaloké,congo_2019
+CAF,36.2,Boali,congo_2019
+CAF,36.4,Damara,congo_2019
+COD,37.9,Bosobolo,congo_2019
+COD,40.3,Bosobolo,congo_2019
+COD,40.9,Bosobolo,congo_2019
+CAF,40.0,Kouango,congo_2019
+CAF,38.4,Alindao,congo_2019
+CAF,38.5,Gambo-Ouango,congo_2019
+CAF,36.0,Gambo-Ouango,congo_2019
+CAF,33.7,Bangassou,congo_2019
+CAF,30.8,Bangassou,congo_2019
+COD,29.2,Bondo,congo_2019
+COD,26.2,Bondo,congo_2019
+COD,27.4,Bondo,congo_2019
+COD,27.6,Ango,congo_2019
+COD,27.2,Ango,congo_2019
+COD,27.1,Ango,congo_2019
+COD,27.1,Ango,congo_2019
+COD,26.1,Dungu,congo_2019
+SSD,25.4,Tombura,congo_2019
+SSD,24.6,Yambio,congo_2019
+SSD,23.6,Yambio,congo_2019
+SSD,22.7,Meridi,congo_2019
+SSD,21.9,Meridi,congo_2019
+SSD,21.1,Mundri,congo_2019
+SSD,21.2,Bahr al Jabal,congo_2019
+SSD,20.2,Bahr al Jabal,congo_2019
+SSD,20.1,Bahr al Jabal,congo_2019
+SSD,18.4,Amatonge,congo_2019
+SSD,18.0,Amatonge,congo_2019
+SSD,15.7,Shokodom,congo_2019
+SSD,16.0,Kapoeta,congo_2019
+SSD,14.4,Kapoeta,congo_2019
+KEN,15.2,Turkana West,congo_2019
+KEN,14.5,Turkana North,congo_2019
+SSD,13.9,Kapoeta,congo_2019
+ETH,14.6,Debub Omo,congo_2019
+ETH,13.6,Debub Omo,congo_2019
+ETH,12.1,Borena,congo_2019
+ETH,11.4,Borena,congo_2019
+ETH,9.0,Borena,congo_2019
+ETH,8.4,Borena,congo_2019
+ETH,8.2,Borena,congo_2019
+ETH,8.4,Guji,congo_2019
+ETH,8.6,Liben,congo_2019
+ETH,8.4,Liben,congo_2019
+ETH,9.3,Liben,congo_2019
+ETH,9.3,Afder,congo_2019
+ETH,8.5,Afder,congo_2019
+CMR,42.0,Fako,congo_2019
+CMR,40.4,Moungo,congo_2019
+CMR,38.3,Nkam,congo_2019
+CMR,37.7,Sanaga Maritime,congo_2019
+CMR,36.9,Lekié,congo_2019
+CMR,38.3,Mefou et Afamba,congo_2019
+CMR,39.6,Haute Sanaga,congo_2019
+CMR,40.6,Nyong et Mfoumou,congo_2019
+CMR,41.0,Haut Nyong,congo_2019
+CMR,39.9,Kadey,congo_2019
+CMR,39.6,Kadey,congo_2019
+CMR,39.6,Kadey,congo_2019
+CAF,40.0,Gamboula,congo_2019
+CAF,37.8,Berbérati,congo_2019
+CAF,37.4,Carnot,congo_2019
+CAF,36.3,Carnot,congo_2019
+CAF,35.6,Boda,congo_2019
+CAF,36.6,M'Baïki,congo_2019
+CAF,37.2,M'Baïki,congo_2019
+COD,37.2,Zongo,congo_2019
+COD,38.9,Libenge,congo_2019
+COD,39.9,Bosobolo,congo_2019
+COD,40.7,Bosobolo,congo_2019
+COD,40.3,Gbadolite,congo_2019
+COD,40.5,Mobayi-Mbongo,congo_2019
+COD,36.6,Mobayi-Mbongo,congo_2019
+CAF,37.8,Gambo-Ouango,congo_2019
+COD,33.0,Bondo,congo_2019
+COD,32.3,Bondo,congo_2019
+COD,31.4,Bondo,congo_2019
+COD,29.1,Bondo,congo_2019
+COD,27.4,Bondo,congo_2019
+COD,29.8,Bondo,congo_2019
+COD,27.3,Ango,congo_2019
+COD,26.8,Ango,congo_2019
+COD,26.4,Ango,congo_2019
+COD,25.3,Ango,congo_2019
+COD,24.4,Dungu,congo_2019
+COD,23.5,Dungu,congo_2019
+COD,22.9,Dungu,congo_2019
+COD,21.9,Dungu,congo_2019
+COD,21.1,Dungu,congo_2019
+SSD,19.9,Nahr Yei,congo_2019
+SSD,19.6,Nahr Yei,congo_2019
+SSD,19.4,Nahr Yei,congo_2019
+SSD,18.7,Bahr al Jabal,congo_2019
+SSD,17.3,Magwi,congo_2019
+SSD,16.4,Amatonge,congo_2019
+SSD,14.6,Amatonge,congo_2019
+SSD,13.7,Shokodom,congo_2019
+KEN,13.8,Turkana West,congo_2019
+KEN,13.9,Turkana West,congo_2019
+KEN,12.9,Turkana North,congo_2019
+KEN,12.5,Turkana North,congo_2019
+KEN,12.4,North Horr,congo_2019
+KEN,12.6,North Horr,congo_2019
+ETH,11.3,Borena,congo_2019
+ETH,9.8,Borena,congo_2019
+ETH,8.1,Borena,congo_2019
+ETH,8.0,Borena,congo_2019
+ETH,7.7,Borena,congo_2019
+ETH,7.9,Liben,congo_2019
+ETH,8.2,Liben,congo_2019
+KEN,8.6,Banissa,congo_2019
+ETH,8.3,Liben,congo_2019
+ETH,9.2,Liben,congo_2019
+ETH,8.6,Afder,congo_2019
+CMR,35.9,Sanaga Maritime,congo_2019
+CMR,35.6,Sanaga Maritime,congo_2019
+CMR,35.7,Nyong et Kéllé,congo_2019
+CMR,37.1,Mefou et Akono,congo_2019
+CMR,37.2,Mefou et Afamba,congo_2019
+CMR,40.5,Nyong et Mfoumou,congo_2019
+CMR,41.2,Haut Nyong,congo_2019
+CMR,40.3,Haut Nyong,congo_2019
+CMR,38.0,Haut Nyong,congo_2019
+CMR,38.7,Kadey,congo_2019
+CMR,38.7,Boumba et Ngoko,congo_2019
+CAF,38.5,Gamboula,congo_2019
+CAF,38.0,Nola,congo_2019
+CAF,36.7,Nola,congo_2019
+CAF,35.6,Bambio,congo_2019
+CAF,36.8,Bambio,congo_2019
+CAF,38.1,M'Baïki,congo_2019
+CAF,39.5,M'Baïki,congo_2019
+COD,39.7,Libenge,congo_2019
+COD,41.4,Libenge,congo_2019
+COD,40.7,Gemena,congo_2019
+COD,42.7,Businga,congo_2019
+COD,41.1,Mobayi-Mbongo,congo_2019
+COD,37.9,Businga,congo_2019
+COD,37.2,Yakoma,congo_2019
+COD,36.9,Yakoma,congo_2019
+COD,35.2,Yakoma,congo_2019
+COD,32.7,Aketi,congo_2019
+COD,33.2,Bondo,congo_2019
+COD,30.0,Bondo,congo_2019
+COD,29.4,Bondo,congo_2019
+COD,29.2,Bondo,congo_2019
+COD,27.7,Ango,congo_2019
+COD,27.9,Ango,congo_2019
+COD,27.3,Poko,congo_2019
+COD,27.9,Poko,congo_2019
+COD,24.6,Niangara,congo_2019
+COD,24.0,Dungu,congo_2019
+COD,23.3,Dungu,congo_2019
+COD,24.2,Dungu,congo_2019
+COD,21.7,Faradje,congo_2019
+COD,19.9,Faradje,congo_2019
+SSD,19.3,Nahr Yei,congo_2019
+UGA,19.4,Aringa,congo_2019
+UGA,18.0,West Moyo,congo_2019
+SSD,16.9,Magwi,congo_2019
+UGA,14.9,Lamwo,congo_2019
+UGA,13.7,Lamwo,congo_2019
+UGA,12.9,Dodoth,congo_2019
+UGA,12.6,Dodoth,congo_2019
+KEN,11.5,Turkana West,congo_2019
+KEN,10.9,Turkana North,congo_2019
+KEN,11.0,North Horr,congo_2019
+KEN,10.9,North Horr,congo_2019
+KEN,10.8,North Horr,congo_2019
+KEN,9.9,North Horr,congo_2019
+ETH,9.1,Borena,congo_2019
+ETH,8.3,Borena,congo_2019
+ETH,7.2,Borena,congo_2019
+ETH,8.7,Liben,congo_2019
+KEN,8.7,Mandera West,congo_2019
+KEN,8.3,Mandera North,congo_2019
+KEN,8.3,Lafey,congo_2019
+SOM,8.8,Beled Xaawo,congo_2019
+SOM,8.4,Luuk,congo_2019
+CMR,34.0,Océan,congo_2019
+CMR,34.5,Océan,congo_2019
+CMR,36.2,Nyong et So'o,congo_2019
+CMR,38.3,Dja et Lobo,congo_2019
+CMR,39.8,Dja et Lobo,congo_2019
+CMR,40.1,Haut Nyong,congo_2019
+CMR,40.4,Haut Nyong,congo_2019
+CMR,39.7,Haut Nyong,congo_2019
+CMR,39.4,Haut Nyong,congo_2019
+CMR,38.4,Boumba et Ngoko,congo_2019
+CMR,38.2,Boumba et Ngoko,congo_2019
+CAF,37.2,Nola,congo_2019
+CAF,38.2,Nola,congo_2019
+COG,37.5,Dongou,congo_2019
+COG,35.1,Dongou,congo_2019
+COG,38.7,Dongou,congo_2019
+COG,39.0,Dongou,congo_2019
+COD,39.2,Libenge,congo_2019
+COD,40.8,Gemena,congo_2019
+COD,42.0,Gemena,congo_2019
+COD,42.4,Gemena,congo_2019
+COD,42.9,Businga,congo_2019
+COD,38.9,Businga,congo_2019
+COD,37.5,Businga,congo_2019
+COD,35.8,Yakoma,congo_2019
+COD,33.6,Aketi,congo_2019
+COD,33.1,Aketi,congo_2019
+COD,33.2,Aketi,congo_2019
+COD,32.1,Aketi,congo_2019
+COD,31.2,Buta,congo_2019
+COD,31.8,Buta,congo_2019
+COD,30.4,Bambesa,congo_2019
+COD,29.1,Bambesa,congo_2019
+COD,27.6,Poko,congo_2019
+COD,28.2,Poko,congo_2019
+COD,27.0,Rungu,congo_2019
+COD,27.3,Niangara,congo_2019
+COD,24.6,Dungu,congo_2019
+COD,23.5,Watsa,congo_2019
+COD,22.2,Faradje,congo_2019
+COD,20.6,Faradje,congo_2019
+COD,18.9,Aru,congo_2019
+UGA,19.5,Aringa,congo_2019
+UGA,18.2,East Moyo,congo_2019
+UGA,16.8,Kilak,congo_2019
+UGA,14.2,Chua,congo_2019
+UGA,13.4,Chua,congo_2019
+UGA,11.2,Jie,congo_2019
+UGA,11.1,Dodoth,congo_2019
+KEN,10.6,Loima,congo_2019
+KEN,10.7,Loima,congo_2019
+KEN,10.2,Turkana Central,congo_2019
+KEN,10.2,Laisamis,congo_2019
+KEN,10.4,North Horr,congo_2019
+KEN,10.1,North Horr,congo_2019
+KEN,10.9,North Horr,congo_2019
+KEN,10.9,North Horr,congo_2019
+KEN,9.8,Moyale,congo_2019
+KEN,9.2,Moyale,congo_2019
+KEN,8.5,Wajir North,congo_2019
+KEN,7.9,Mandera West,congo_2019
+KEN,7.5,Mandera North,congo_2019
+KEN,7.6,Lafey,congo_2019
+SOM,8.3,Beled Xaawo,congo_2019
+SOM,8.4,Garbahaaray,congo_2019
+CMR,32.1,Océan,congo_2019
+CMR,34.0,Vallée du Ntem,congo_2019
+CMR,35.4,Mvila,congo_2019
+CMR,38.0,Mvila,congo_2019
+CMR,38.4,Dja et Lobo,congo_2019
+CMR,38.7,Dja et Lobo,congo_2019
+CMR,40.6,Dja et Lobo,congo_2019
+CMR,38.4,Haut Nyong,congo_2019
+CMR,38.2,Haut Nyong,congo_2019
+CMR,37.5,Boumba et Ngoko,congo_2019
+CMR,38.0,Boumba et Ngoko,congo_2019
+CMR,37.4,Boumba et Ngoko,congo_2019
+CAF,39.6,Nola,congo_2019
+COG,39.0,Dongou,congo_2019
+COG,39.1,Dongou,congo_2019
+COG,38.6,Dongou,congo_2019
+COG,38.5,Dongou,congo_2019
+COD,39.5,Kungu,congo_2019
+COD,39.1,Kungu,congo_2019
+COD,42.3,Budjala,congo_2019
+COD,43.1,Budjala,congo_2019
+COD,40.6,Budjala,congo_2019
+COD,40.5,Lisala,congo_2019
+COD,38.2,Bumba,congo_2019
+COD,36.9,Bumba,congo_2019
+COD,35.0,Bumba,congo_2019
+COD,34.1,Aketi,congo_2019
+COD,35.5,Aketi,congo_2019
+COD,34.3,Aketi,congo_2019
+COD,33.2,Buta,congo_2019
+COD,30.9,Buta,congo_2019
+COD,30.8,Buta,congo_2019
+COD,31.0,Poko,congo_2019
+COD,30.9,Poko,congo_2019
+COD,29.4,Rungu,congo_2019
+COD,28.5,Rungu,congo_2019
+COD,26.4,Rungu,congo_2019
+COD,25.3,Watsa,congo_2019
+COD,24.3,Watsa,congo_2019
+COD,22.4,Watsa,congo_2019
+COD,22.1,Aru,congo_2019
+COD,18.9,Aru,congo_2019
+UGA,20.9,Madi-Okollo,congo_2019
+UGA,17.9,Nwoya,congo_2019
+UGA,17.3,Omoro,congo_2019
+UGA,15.3,Aruu,congo_2019
+UGA,13.9,Agago,congo_2019
+UGA,12.2,Labwor,congo_2019
+UGA,11.2,Bokora,congo_2019
+UGA,10.7,Matheniko,congo_2019
+KEN,10.3,Loima,congo_2019
+KEN,9.9,Turkana South,congo_2019
+KEN,9.9,Turkana Central,congo_2019
+KEN,10.0,Laisamis,congo_2019
+KEN,10.1,Laisamis,congo_2019
+KEN,10.7,North Horr,congo_2019
+KEN,11.2,North Horr,congo_2019
+KEN,10.6,Moyale,congo_2019
+KEN,9.3,Wajir North,congo_2019
+KEN,8.3,Wajir North,congo_2019
+KEN,7.8,Tarbaj,congo_2019
+KEN,8.3,Mandera South,congo_2019
+SOM,8.2,Ceel Waaq,congo_2019
+SOM,8.2,Ceel Waaq,congo_2019
+SOM,8.6,Baar-Dheere,congo_2019
+CMR,28.3,Océan,congo_2019
+CMR,31.9,Vallée du Ntem,congo_2019
+CMR,33.3,Vallée du Ntem,congo_2019
+GAB,35.6,Ntem,congo_2019
+GAB,36.7,Haut-Ntem,congo_2019
+CMR,37.7,Dja et Lobo,congo_2019
+CMR,38.1,Dja et Lobo,congo_2019
+CMR,39.1,Haut Nyong,congo_2019
+CMR,37.7,Haut Nyong,congo_2019
+CMR,37.3,Boumba et Ngoko,congo_2019
+CMR,36.9,Boumba et Ngoko,congo_2019
+CMR,38.5,Boumba et Ngoko,congo_2019
+COG,38.4,Ouesso,congo_2019
+COG,38.7,Epéna,congo_2019
+COG,39.1,Epéna,congo_2019
+COG,39.9,Dongou,congo_2019
+COD,41.1,Kungu,congo_2019
+COD,40.1,Kungu,congo_2019
+COD,40.2,Budjala,congo_2019
+COD,40.9,Budjala,congo_2019
+COD,42.0,Lisala,congo_2019
+COD,39.4,Lisala,congo_2019
+COD,39.3,Lisala,congo_2019
+COD,37.8,Lisala,congo_2019
+COD,37.1,Bumba,congo_2019
+COD,35.8,Bumba,congo_2019
+COD,35.2,Bumba,congo_2019
+COD,35.1,Aketi,congo_2019
+COD,32.5,Aketi,congo_2019
+COD,32.0,Basoko,congo_2019
+COD,31.9,Banalia,congo_2019
+COD,32.4,Buta,congo_2019
+COD,31.2,Banalia,congo_2019
+COD,29.8,Poko,congo_2019
+COD,29.5,Rungu,congo_2019
+COD,28.5,Wamba,congo_2019
+COD,25.8,Wamba,congo_2019
+COD,26.4,Mambasa,congo_2019
+COD,25.1,Mambasa,congo_2019
+COD,24.5,Watsa,congo_2019
+COD,22.4,Djugu,congo_2019
+COD,20.0,Mahagi,congo_2019
+UGA,19.8,Padyere,congo_2019
+UGA,18.9,Kibanda,congo_2019
+UGA,16.8,Kibanda,congo_2019
+UGA,15.3,Kole,congo_2019
+UGA,13.5,Moroto,congo_2019
+UGA,12.7,Kapelebyong,congo_2019
+UGA,11.6,Bokora,congo_2019
+UGA,10.7,Matheniko,congo_2019
+KEN,10.3,Kacheliba,congo_2019
+KEN,9.6,Turkana South,congo_2019
+KEN,10.5,Turkana East,congo_2019
+KEN,10.2,Samburu North,congo_2019
+KEN,10.7,Laisamis,congo_2019
+KEN,9.8,Laisamis,congo_2019
+KEN,10.7,North Horr,congo_2019
+KEN,9.9,North Horr,congo_2019
+KEN,9.2,Eldas,congo_2019
+KEN,8.3,Eldas,congo_2019
+KEN,8.8,Tarbaj,congo_2019
+KEN,7.8,Wajir East,congo_2019
+SOM,8.3,Baar-Dheere,congo_2019
+SOM,8.4,Baar-Dheere,congo_2019
+SOM,8.1,Baar-Dheere,congo_2019
+GNQ,22.9,Bata,congo_2019
+GNQ,25.2,Niefang,congo_2019
+GNQ,28.3,Añisok,congo_2019
+GNQ,32.2,Bidjabidjan,congo_2019
+GAB,33.7,Woleu,congo_2019
+GAB,35.2,Haut-Ntem,congo_2019
+GAB,37.3,Haut-Ntem,congo_2019
+COG,36.5,Souanké,congo_2019
+COG,37.5,Souanké,congo_2019
+COG,35.3,Souanké,congo_2019
+COG,36.7,Sembé,congo_2019
+COG,35.3,Sembé,congo_2019
+COG,37.9,Ouesso,congo_2019
+COG,35.9,Ouesso,congo_2019
+COG,38.8,Ouesso,congo_2019
+COG,39.5,Epéna,congo_2019
+COG,40.1,Epéna,congo_2019
+COD,39.3,Bomongo,congo_2019
+COD,40.0,Bomongo,congo_2019
+COD,41.4,Makanza,congo_2019
+COD,40.9,Bongandanga,congo_2019
+COD,39.0,Bongandanga,congo_2019
+COD,39.9,Bongandanga,congo_2019
+COD,37.4,Bongandanga,congo_2019
+COD,36.0,Bongandanga,congo_2019
+COD,35.9,Bongandanga,congo_2019
+COD,34.4,Yahuma,congo_2019
+COD,35.6,Basoko,congo_2019
+COD,34.6,Basoko,congo_2019
+COD,33.1,Basoko,congo_2019
+COD,34.6,Basoko,congo_2019
+COD,33.1,Banalia,congo_2019
+COD,32.6,Banalia,congo_2019
+COD,32.2,Banalia,congo_2019
+COD,30.8,Bafwasende,congo_2019
+COD,30.3,Bafwasende,congo_2019
+COD,28.5,Mambasa,congo_2019
+COD,27.3,Mambasa,congo_2019
+COD,26.7,Mambasa,congo_2019
+COD,26.0,Mambasa,congo_2019
+COD,25.2,Mambasa,congo_2019
+COD,25.1,Djugu,congo_2019
+COD,21.6,Djugu,congo_2019
+UGA,18.9,Buruli,congo_2019
+UGA,17.6,Maruzi,congo_2019
+UGA,14.0,Kalaki,congo_2019
+UGA,13.3,Amuria,congo_2019
+UGA,12.8,Chekwii,congo_2019
+UGA,10.9,Chekwii,congo_2019
+KEN,9.8,Kapenguria,congo_2019
+KEN,10.3,unknown 2,congo_2019
+KEN,9.9,unknown 2,congo_2019
+KEN,8.8,Samburu North,congo_2019
+KEN,9.3,Samburu North,congo_2019
+KEN,10.7,Laisamis,congo_2019
+KEN,11.6,Laisamis,congo_2019
+KEN,11.2,Isiolo North,congo_2019
+KEN,10.4,Isiolo North,congo_2019
+KEN,9.7,Wajir West,congo_2019
+KEN,8.2,Wajir East,congo_2019
+KEN,8.2,Wajir East,congo_2019
+SOM,8.4,Baar-Dheere,congo_2019
+SOM,8.2,Saakow,congo_2019
+SOM,7.8,Saakow,congo_2019
+GNQ,20.7,Cogo,congo_2019
+GNQ,23.5,Acurenam,congo_2019
+GNQ,27.0,Acurenam,congo_2019
+GNQ,30.3,Nsork,congo_2019
+GAB,33.8,Woleu,congo_2019
+GAB,35.7,Woleu,congo_2019
+GAB,36.9,Haut-Ntem,congo_2019
+COG,35.8,Souanké,congo_2019
+GAB,35.9,Zadié,congo_2019
+GAB,35.6,Zadié,congo_2019
+COG,35.2,Ouesso,congo_2019
+COG,35.1,Ouesso,congo_2019
+COG,35.9,Ouesso,congo_2019
+COG,38.4,Ouesso,congo_2019
+COG,38.7,Ouesso,congo_2019
+COG,40.2,Epéna,congo_2019
+COG,40.8,Impfondo,congo_2019
+COD,38.7,Bomongo,congo_2019
+COD,38.2,Makanza,congo_2019
+COD,38.2,Bolomba,congo_2019
+COD,38.6,Basankusu,congo_2019
+COD,37.5,Basankusu,congo_2019
+COD,34.8,Bongandanga,congo_2019
+COD,35.4,Bongandanga,congo_2019
+COD,35.0,Bongandanga,congo_2019
+COD,32.9,Djolu,congo_2019
+COD,34.8,Yahuma,congo_2019
+COD,34.7,Yahuma,congo_2019
+COD,33.7,Basoko,congo_2019
+COD,34.9,Basoko,congo_2019
+COD,34.4,Banalia,congo_2019
+COD,33.5,Banalia,congo_2019
+COD,33.9,Banalia,congo_2019
+COD,33.9,Bafwasende,congo_2019
+COD,31.8,Bafwasende,congo_2019
+COD,30.3,Bafwasende,congo_2019
+COD,29.0,Bafwasende,congo_2019
+COD,29.0,Mambasa,congo_2019
+COD,27.5,Mambasa,congo_2019
+COD,26.6,Mambasa,congo_2019
+COD,27.6,Irumu,congo_2019
+COD,25.0,Irumu,congo_2019
+UGA,22.7,Buhaguzi,congo_2019
+UGA,19.7,Kiboga,congo_2019
+UGA,17.8,Buruli,congo_2019
+UGA,16.3,Bbaale,congo_2019
+UGA,13.1,Pallisa,congo_2019
+UGA,12.7,Budadiri,congo_2019
+UGA,10.9,Kongasis,congo_2019
+KEN,10.3,Pokot South,congo_2019
+KEN,10.9,Tiaty,congo_2019
+KEN,10.9,Turkana East,congo_2019
+KEN,8.8,Samburu North,congo_2019
+KEN,8.1,Samburu East,congo_2019
+KEN,10.0,Samburu East,congo_2019
+KEN,10.6,Isiolo North,congo_2019
+KEN,11.6,Isiolo North,congo_2019
+KEN,11.5,Isiolo North,congo_2019
+KEN,9.1,Wajir West,congo_2019
+KEN,8.1,Wajir South,congo_2019
+KEN,7.8,Wajir South,congo_2019
+SOM,8.0,Baar-Dheere,congo_2019
+SOM,7.3,Afmadow,congo_2019
+SOM,7.1,Afmadow,congo_2019
+GAB,19.8,Noya,congo_2019
+GAB,22.1,Noya,congo_2019
+GAB,26.1,Komo,congo_2019
+GAB,29.2,Okano,congo_2019
+GAB,32.6,Okano,congo_2019
+GAB,33.8,Ivindo,congo_2019
+GAB,34.6,Ivindo,congo_2019
+GAB,35.1,Ivindo,congo_2019
+GAB,34.4,Zadié,congo_2019
+GAB,35.2,Zadié,congo_2019
+COG,35.4,Mbomo,congo_2019
+COG,34.7,Ouesso,congo_2019
+COG,37.6,Ouesso,congo_2019
+COG,38.0,Ouesso,congo_2019
+COG,39.4,Ouesso,congo_2019
+COG,39.5,Epéna,congo_2019
+COG,37.6,Impfondo,congo_2019
+COD,37.4,Makanza,congo_2019
+COD,35.0,Bolomba,congo_2019
+COD,37.0,Bolomba,congo_2019
+COD,35.3,Basankusu,congo_2019
+COD,35.2,Basankusu,congo_2019
+COD,36.3,Befale,congo_2019
+COD,35.2,Befale,congo_2019
+COD,32.4,Djolu,congo_2019
+COD,32.7,Djolu,congo_2019
+COD,32.8,Djolu,congo_2019
+COD,33.0,Yahuma,congo_2019
+COD,33.3,Isangi,congo_2019
+COD,35.0,Isangi,congo_2019
+COD,35.2,Isangi,congo_2019
+COD,34.7,Kisangani,congo_2019
+COD,33.8,Ubundu,congo_2019
+COD,33.3,Bafwasende,congo_2019
+COD,33.2,Bafwasende,congo_2019
+COD,31.3,Bafwasende,congo_2019
+COD,29.3,Bafwasende,congo_2019
+COD,29.0,Mambasa,congo_2019
+COD,28.2,Mambasa,congo_2019
+COD,27.9,Mambasa,congo_2019
+COD,29.6,Oicha,congo_2019
+UGA,28.3,Burahya,congo_2019
+UGA,25.8,Mwenge,congo_2019
+UGA,24.3,Buyanja,congo_2019
+UGA,20.0,Kiboga,congo_2019
+UGA,18.9,Nakaseke,congo_2019
+UGA,18.3,Bamunanika,congo_2019
+UGA,15.7,Luuka,congo_2019
+UGA,14.0,Busiki,congo_2019
+UGA,13.4,Tororo,congo_2019
+KEN,12.2,Kimilili,congo_2019
+KEN,10.8,Soy,congo_2019
+KEN,10.5,Baringo North,congo_2019
+KEN,9.5,Tiaty,congo_2019
+KEN,8.3,Laikipia North,congo_2019
+KEN,8.1,Isiolo North,congo_2019
+KEN,7.9,Samburu East,congo_2019
+KEN,9.5,Isiolo South,congo_2019
+KEN,11.3,Isiolo South,congo_2019
+KEN,11.8,Lagdera,congo_2019
+KEN,9.8,Wajir South,congo_2019
+KEN,8.3,Wajir South,congo_2019
+KEN,7.4,Wajir South,congo_2019
+SOM,7.1,Afmadow,congo_2019
+SOM,6.9,Afmadow,congo_2019
+SOM,7.1,Afmadow,congo_2019
+GAB,18.7,Komo-Mondah,congo_2019
+GAB,21.1,Komo,congo_2019
+GAB,24.7,Komo,congo_2019
+GAB,28.4,Okano,congo_2019
+GAB,31.2,Lopé,congo_2019
+GAB,31.5,Mvoung,congo_2019
+GAB,31.5,Mouloudnou,congo_2019
+GAB,32.5,Ivindo,congo_2019
+GAB,33.9,Ivindo,congo_2019
+COG,34.0,Mbomo,congo_2019
+COG,34.8,Mbomo,congo_2019
+COG,36.5,Makoua,congo_2019
+COG,37.4,Makoua,congo_2019
+COG,39.0,Ouesso,congo_2019
+COG,40.2,Ouesso,congo_2019
+COG,39.1,Epéna,congo_2019
+COG,38.0,Impfondo,congo_2019
+COD,36.5,Bomongo,congo_2019
+COD,35.3,Bolomba,congo_2019
+COD,34.7,Bolomba,congo_2019
+COD,34.8,Bolomba,congo_2019
+COD,35.0,Bolomba,congo_2019
+COD,33.9,Befale,congo_2019
+COD,34.2,Befale,congo_2019
+COD,33.4,Befale,congo_2019
+COD,33.7,Djolu,congo_2019
+COD,32.2,Djolu,congo_2019
+COD,31.7,Yahuma,congo_2019
+COD,32.2,Isangi,congo_2019
+COD,33.4,Isangi,congo_2019
+COD,33.5,Opala,congo_2019
+COD,34.9,Ubundu,congo_2019
+COD,32.9,Ubundu,congo_2019
+COD,33.6,Ubundu,congo_2019
+COD,31.8,Bafwasende,congo_2019
+COD,31.8,Bafwasende,congo_2019
+COD,29.8,Bafwasende,congo_2019
+COD,29.5,Lubero,congo_2019
+COD,29.9,Lubero,congo_2019
+COD,30.6,Oicha,congo_2019
+COD,30.7,Oicha,congo_2019
+UGA,30.1,Busongora,congo_2019
+UGA,26.4,Kibale,congo_2019
+UGA,24.3,Buwekula,congo_2019
+UGA,21.1,Gomba,congo_2019
+UGA,21.2,Mawokota,congo_2019
+UGA,18.0,Lake Victoria,congo_2019
+UGA,14.2,Lake Victoria,congo_2019
+KEN,14.9,Ugenya,congo_2019
+KEN,13.6,Shinyalu,congo_2019
+KEN,11.0,Emgwen,congo_2019
+KEN,10.8,Baringo Central,congo_2019
+KEN,9.6,Baringo South,congo_2019
+KEN,8.2,Laikipia North,congo_2019
+KEN,7.2,Laikipia North,congo_2019
+KEN,7.5,Tigania East,congo_2019
+KEN,8.0,Isiolo South,congo_2019
+KEN,9.7,Balambala,congo_2019
+KEN,10.6,Balambala,congo_2019
+KEN,8.7,Daadab,congo_2019
+KEN,7.7,Daadab,congo_2019
+KEN,6.8,Daadab,congo_2019
+SOM,6.6,Afmadow,congo_2019
+SOM,6.9,Afmadow,congo_2019
+SOM,6.7,Afmadow,congo_2019
+GAB,17.7,Komo-Mondah,congo_2019
+GAB,20.4,Komo,congo_2019
+GAB,23.2,Abanga-Bigné,congo_2019
+GAB,26.1,Abanga-Bigné,congo_2019
+GAB,29.0,Lopé,congo_2019
+GAB,30.6,Lopé,congo_2019
+GAB,30.7,Mouloudnou,congo_2019
+GAB,31.5,Mouloudnou,congo_2019
+GAB,31.9,Sébé-Brikolo,congo_2019
+COG,34.4,Kéllé,congo_2019
+COG,35.0,Kéllé,congo_2019
+COG,36.6,Owando,congo_2019
+COG,38.5,Owando,congo_2019
+COG,39.8,Owando,congo_2019
+COG,40.4,Mossaka,congo_2019
+COG,40.1,Epéna,congo_2019
+COD,38.6,Bomongo,congo_2019
+COD,35.5,Bikoro,congo_2019
+COD,36.3,Ingende,congo_2019
+COD,36.1,Ingende,congo_2019
+COD,35.5,Ingende,congo_2019
+COD,35.8,Bolomba,congo_2019
+COD,34.6,Boende,congo_2019
+COD,33.6,Boende,congo_2019
+COD,33.5,Bokungu,congo_2019
+COD,32.9,Bokungu,congo_2019
+COD,31.3,Ikela,congo_2019
+COD,31.8,Yahuma,congo_2019
+COD,32.6,Isangi,congo_2019
+COD,32.5,Opala,congo_2019
+COD,35.3,Opala,congo_2019
+COD,33.4,Ubundu,congo_2019
+COD,33.5,Ubundu,congo_2019
+COD,32.3,Lubutu,congo_2019
+COD,32.9,Bafwasende,congo_2019
+COD,32.7,Bafwasende,congo_2019
+COD,30.0,Bafwasende,congo_2019
+COD,30.2,Walikale,congo_2019
+COD,30.4,Lubero,congo_2019
+COD,29.2,Lubero,congo_2019
+UGA,30.2,Bunyaruguru,congo_2019
+UGA,25.3,Nyabushozi,congo_2019
+UGA,23.9,Kabula,congo_2019
+UGA,21.6,Bukoto,congo_2019
+UGA,17.5,Lake Victoria,congo_2019
+KEN,12.7,Bondo,congo_2019
+KEN,12.3,Ainamoi,congo_2019
+KEN,10.8,Molo,congo_2019
+KEN,8.7,Ol Kalou,congo_2019
+KEN,8.2,Kieni,congo_2019
+KEN,6.9,Mathira,congo_2019
+KEN,7.2,Maara,congo_2019
+KEN,6.4,Mwingi North,congo_2019
+KEN,7.6,Bura,congo_2019
+KEN,9.5,Bura,congo_2019
+KEN,8.9,Balambala,congo_2019
+KEN,7.7,Fafi,congo_2019
+KEN,6.8,Daadab,congo_2019
+SOM,6.8,Badhaadhe,congo_2019
+SOM,6.2,Kismaayo,congo_2019
+SOM,5.8,Kismaayo,congo_2019
+GAB,16.6,Bendjé,congo_2019
+GAB,19.3,Ogooué et des Lacs,congo_2019
+GAB,22.5,Tsamba Mangotsi,congo_2019
+GAB,25.0,Ogoulou,congo_2019
+GAB,28.2,Lolo Bouenguidi,congo_2019
+GAB,29.4,Lolo Bouenguidi,congo_2019
+GAB,30.4,Mouloudnou,congo_2019
+GAB,31.1,Mouloudnou,congo_2019
+GAB,31.4,Sébé-Brikolo,congo_2019
+GAB,32.1,Léconi-Djoué,congo_2019
+COG,34.5,Ewo,congo_2019
+COG,39.0,Boundji,congo_2019
+COG,40.1,Owando,congo_2019
+COG,40.5,Owando,congo_2019
+COG,41.5,Mossaka,congo_2019
+COG,38.5,Loukoléla,congo_2019
+COD,37.0,Lukolela,congo_2019
+COD,34.4,Bikoro,congo_2019
+COD,36.9,Ingende,congo_2019
+COD,35.6,Ingende,congo_2019
+COD,35.6,Ingende,congo_2019
+COD,34.3,Ingende,congo_2019
+COD,35.6,Boende,congo_2019
+COD,34.5,Boende,congo_2019
+COD,34.4,Boende,congo_2019
+COD,31.9,Bokungu,congo_2019
+COD,31.9,Ikela,congo_2019
+COD,31.9,Ikela,congo_2019
+COD,32.1,Opala,congo_2019
+COD,33.0,Opala,congo_2019
+COD,34.7,Ubundu,congo_2019
+COD,36.0,Ubundu,congo_2019
+COD,33.5,Ubundu,congo_2019
+COD,32.6,Ubundu,congo_2019
+COD,31.8,Lubutu,congo_2019
+COD,30.6,Lubutu,congo_2019
+COD,28.6,Lubutu,congo_2019
+COD,29.4,Walikale,congo_2019
+COD,28.4,Walikale,congo_2019
+COD,31.1,Rutshuru,congo_2019
+UGA,30.1,Kinkiizi,congo_2019
+UGA,28.1,Ruhaama,congo_2019
+UGA,25.3,Isingiro,congo_2019
+UGA,22.4,Kooki,congo_2019
+KEN,14.1,Ndhiwa,congo_2019
+KEN,12.6,Bobasi,congo_2019
+KEN,10.8,Bomet Central,congo_2019
+KEN,8.8,Narok North,congo_2019
+KEN,9.2,Naivasha,congo_2019
+KEN,7.6,Gatanga,congo_2019
+KEN,7.7,Kiharu,congo_2019
+KEN,6.5,Mbeere South,congo_2019
+KEN,6.1,Mwingi Central,congo_2019
+KEN,6.1,Mwingi Central,congo_2019
+KEN,8.4,Bura,congo_2019
+KEN,7.4,Bura,congo_2019
+KEN,6.9,Fafi,congo_2019
+KEN,7.2,Fafi,congo_2019
+SOM,6.4,Badhaadhe,congo_2019
+SOM,5.9,Badhaadhe,congo_2019
+GAB,16.1,Étimboué,congo_2019
+GAB,16.6,Bendjé,congo_2019
+GAB,18.3,Ndolou,congo_2019
+GAB,21.4,Tsamba Mangotsi,congo_2019
+GAB,23.7,Ogoulou,congo_2019
+GAB,26.6,Ogoulou,congo_2019
+GAB,28.0,Lolo Bouenguidi,congo_2019
+GAB,28.1,Lombo-Bouenguidi,congo_2019
+GAB,30.0,Léboumbi-Leyou,congo_2019
+GAB,30.9,Léconi-Djoué,congo_2019
+GAB,31.1,Plateaux,congo_2019
+COG,34.7,Okoyo,congo_2019
+COG,36.2,Abala,congo_2019
+COG,38.2,Abala,congo_2019
+COG,39.0,Mossaka,congo_2019
+COG,38.8,Mossaka,congo_2019
+COD,37.9,Lukolela,congo_2019
+COD,36.9,Bikoro,congo_2019
+COD,34.9,Inongo,congo_2019
+COD,37.0,Inongo,congo_2019
+COD,36.2,Kiri,congo_2019
+COD,35.4,Monkoto,congo_2019
+COD,36.0,Monkoto,congo_2019
+COD,35.8,Monkoto,congo_2019
+COD,33.1,Monkoto,congo_2019
+COD,34.2,Monkoto,congo_2019
+COD,33.7,Bokungu,congo_2019
+COD,33.3,Ikela,congo_2019
+COD,31.9,Ikela,congo_2019
+COD,32.8,Ikela,congo_2019
+COD,33.9,Opala,congo_2019
+COD,35.3,Opala,congo_2019
+COD,33.7,Ubundu,congo_2019
+COD,33.3,Ubundu,congo_2019
+COD,33.0,Lubutu,congo_2019
+COD,31.8,Lubutu,congo_2019
+COD,30.6,Punia,congo_2019
+COD,30.4,Walikale,congo_2019
+COD,29.0,Walikale,congo_2019
+COD,29.5,Masisi,congo_2019
+COD,30.6,Rutshuru,congo_2019
+UGA,27.6,Kisoro,congo_2019
+RWA,26.2,Nyagatare,congo_2019
+TZA,25.1,Kyerwa,congo_2019
+TZA,23.5,Missenyi,congo_2019
+TZA,19.5,Bukoba Rural,congo_2019
+TZA,11.6,Rorya,congo_2019
+KEN,11.1,Kilgoris,congo_2019
+KEN,8.8,Narok West,congo_2019
+KEN,8.6,Narok South,congo_2019
+KEN,8.3,Kajiado West,congo_2019
+KEN,8.0,Westlands,congo_2019
+KEN,7.1,Matungulu,congo_2019
+KEN,6.4,Kitui Rural,congo_2019
+KEN,6.1,Kitui East,congo_2019
+KEN,6.9,Kitui East,congo_2019
+KEN,7.4,Galole,congo_2019
+KEN,6.6,Galole,congo_2019
+KEN,6.6,Fafi,congo_2019
+KEN,6.4,Fafi,congo_2019
+KEN,5.9,Ijara,congo_2019
+SOM,5.7,Badhaadhe,congo_2019
+GAB,16.0,Étimboué,congo_2019
+GAB,17.6,Ndolou,congo_2019
+GAB,19.8,Tsamba Mangotsi,congo_2019
+GAB,20.4,Douya Onoye,congo_2019
+GAB,23.0,Ogoulou,congo_2019
+GAB,24.5,Lolo Bouenguidi,congo_2019
+GAB,26.3,Lombo-Bouenguidi,congo_2019
+GAB,28.5,Léboumbi-Leyou,congo_2019
+GAB,29.5,Mpassa,congo_2019
+GAB,29.8,Plateaux,congo_2019
+COG,32.4,Okoyo,congo_2019
+COG,34.0,Abala,congo_2019
+COG,35.6,Gamboma,congo_2019
+COG,37.8,Gamboma,congo_2019
+COD,38.1,Lukolela,congo_2019
+COD,39.3,Inongo,congo_2019
+COD,38.7,Inongo,congo_2019
+COD,36.6,Inongo,congo_2019
+COD,35.7,Kiri,congo_2019
+COD,35.7,Kiri,congo_2019
+COD,34.8,Monkoto,congo_2019
+COD,35.1,Monkoto,congo_2019
+COD,35.6,Monkoto,congo_2019
+COD,34.2,Monkoto,congo_2019
+COD,33.9,Bokungu,congo_2019
+COD,32.6,Ikela,congo_2019
+COD,33.2,Ikela,congo_2019
+COD,32.9,Ikela,congo_2019
+COD,33.3,Lomela,congo_2019
+COD,34.8,Opala,congo_2019
+COD,35.1,Ubundu,congo_2019
+COD,33.8,Ubundu,congo_2019
+COD,33.3,Punia,congo_2019
+COD,30.0,Punia,congo_2019
+COD,28.4,Punia,congo_2019
+COD,28.2,Walikale,congo_2019
+COD,27.8,Walikale,congo_2019
+COD,26.3,Kalehe,congo_2019
+RWA,26.6,Rubavu,congo_2019
+RWA,26.7,Gakenke,congo_2019
+RWA,24.0,Gicumbi,congo_2019
+RWA,23.4,Kayonza,congo_2019
+TZA,20.0,Karagwe,congo_2019
+TZA,10.3,Butiama,congo_2019
+TZA,10.0,Butiama,congo_2019
+TZA,10.1,Serengeti,congo_2019
+TZA,8.8,Serengeti,congo_2019
+KEN,7.9,Narok South,congo_2019
+KEN,9.1,Kajiado West,congo_2019
+KEN,8.0,Kajiado West,congo_2019
+KEN,6.8,Kilome,congo_2019
+KEN,6.5,Mbooni,congo_2019
+KEN,5.9,Kitui South,congo_2019
+KEN,5.8,Kitui South,congo_2019
+KEN,7.2,Galole,congo_2019
+KEN,6.6,Galole,congo_2019
+KEN,6.5,Ijara,congo_2019
+KEN,6.2,Ijara,congo_2019
+KEN,5.8,Lamu East,congo_2019
+GAB,15.4,Ndougou,congo_2019
+GAB,16.4,Ndougou,congo_2019
+GAB,18.4,Douya Onoye,congo_2019
+GAB,20.5,Dola,congo_2019
+GAB,22.0,Boumi-lowetsi,congo_2019
+GAB,23.4,Boumi-lowetsi,congo_2019
+COG,25.5,Mayoko,congo_2019
+GAB,27.5,Lékoko,congo_2019
+COG,29.5,Bambama,congo_2019
+COG,29.7,Lékana,congo_2019
+COG,30.6,Djambala,congo_2019
+COG,33.8,Djambala,congo_2019
+COG,34.8,Gamboma,congo_2019
+COD,35.1,Bolobo,congo_2019
+COD,36.5,Mushie,congo_2019
+COD,38.2,Mushie,congo_2019
+COD,40.1,Mushie,congo_2019
+COD,39.1,Inongo,congo_2019
+COD,37.7,Inongo,congo_2019
+COD,36.3,Oshwe,congo_2019
+COD,36.1,Oshwe,congo_2019
+COD,34.4,Oshwe,congo_2019
+COD,35.0,Monkoto,congo_2019
+COD,35.0,Monkoto,congo_2019
+COD,32.7,Lomela,congo_2019
+COD,33.7,Lomela,congo_2019
+COD,33.0,Lomela,congo_2019
+COD,33.9,Lomela,congo_2019
+COD,33.8,Lomela,congo_2019
+COD,34.1,Kailo,congo_2019
+COD,33.4,Kailo,congo_2019
+COD,33.3,Kailo,congo_2019
+COD,32.4,Kailo,congo_2019
+COD,31.7,Kailo,congo_2019
+COD,30.0,Shabunda,congo_2019
+COD,28.3,Shabunda,congo_2019
+COD,26.7,Shabunda,congo_2019
+COD,25.6,Kabare,congo_2019
+RWA,24.8,Nyamasheke,congo_2019
+RWA,23.6,Nyanza,congo_2019
+RWA,22.5,Bugesera,congo_2019
+RWA,19.6,Kirehe,congo_2019
+TZA,18.3,Biharamulo,congo_2019
+TZA,10.1,Serengeti,congo_2019
+TZA,9.5,Serengeti,congo_2019
+TZA,8.2,Ngorongoro,congo_2019
+TZA,9.2,Ngorongoro,congo_2019
+TZA,9.2,Longido,congo_2019
+KEN,7.4,Kajiado Central,congo_2019
+KEN,7.5,Kajiado South,congo_2019
+KEN,6.6,Kibwezi West,congo_2019
+KEN,6.3,Kitui South,congo_2019
+KEN,5.9,Kitui South,congo_2019
+KEN,6.7,Garsen,congo_2019
+KEN,6.3,Garsen,congo_2019
+KEN,6.0,Lamu West,congo_2019
+KEN,5.6,Lamu West,congo_2019
+GAB,16.4,Basse Banio,congo_2019
+GAB,18.2,Mougoutsi,congo_2019
+GAB,18.9,Mougoutsi,congo_2019
+COG,22.0,Divénié,congo_2019
+COG,24.3,Divénié,congo_2019
+COG,25.5,Mossendjo,congo_2019
+COG,26.6,Komono,congo_2019
+COG,28.6,Zanaga,congo_2019
+COG,29.7,Zanaga,congo_2019
+COG,30.6,Djambala,congo_2019
+COG,32.3,Djambala,congo_2019
+COG,33.8,Djambala,congo_2019
+COD,34.9,Bolobo,congo_2019
+COD,35.9,Mushie,congo_2019
+COD,37.0,Mushie,congo_2019
+COD,38.7,Kutu,congo_2019
+COD,39.0,Kutu,congo_2019
+COD,38.9,Kutu,congo_2019
+COD,38.7,Oshwe,congo_2019
+COD,37.3,Oshwe,congo_2019
+COD,36.6,Oshwe,congo_2019
+COD,34.8,Oshwe,congo_2019
+COD,35.4,Dekese,congo_2019
+COD,33.9,Dekese,congo_2019
+COD,33.3,Kole,congo_2019
+COD,33.2,Lomela,congo_2019
+COD,34.1,Lomela,congo_2019
+COD,34.8,Katako-Kombe,congo_2019
+COD,35.1,Katako-Kombe,congo_2019
+COD,34.8,Katako-Kombe,congo_2019
+COD,33.9,Kailo,congo_2019
+COD,34.4,Kailo,congo_2019
+COD,32.3,Kailo,congo_2019
+COD,31.9,Pangi,congo_2019
+COD,30.4,Shabunda,congo_2019
+COD,27.9,Shabunda,congo_2019
+COD,24.9,Shabunda,congo_2019
+COD,24.6,Walungu,congo_2019
+BDI,24.6,Mabayi,congo_2019
+RWA,22.7,Gisagara,congo_2019
+BDI,19.6,Butihinda,congo_2019
+TZA,17.3,Ngara,congo_2019
+TZA,16.4,Biharamulo,congo_2019
+TZA,13.1,Geita,congo_2019
+TZA,13.3,Sengerema,congo_2019
+TZA,12.0,Kwimba,congo_2019
+TZA,11.0,Bariadi,congo_2019
+TZA,10.4,Itilima,congo_2019
+TZA,10.1,Itilima,congo_2019
+TZA,10.1,Ngorongoro,congo_2019
+TZA,9.6,Ngorongoro,congo_2019
+TZA,9.2,Longido,congo_2019
+TZA,7.8,Longido,congo_2019
+KEN,7.7,Kajiado South,congo_2019
+KEN,7.1,Kajiado South,congo_2019
+KEN,6.1,Kibwezi East,congo_2019
+KEN,6.1,Kitui South,congo_2019
+KEN,6.3,Garsen,congo_2019
+KEN,6.0,Magarini,congo_2019
+GAB,17.6,Basse Banio,congo_2019
+GAB,18.7,Mougoutsi,congo_2019
+GAB,21.6,Mougoutsi,congo_2019
+COG,23.9,Kibangou,congo_2019
+COG,25.7,Mossendjo,congo_2019
+COG,26.9,Komono,congo_2019
+COG,27.4,Zanaga,congo_2019
+COG,29.8,Kindamba,congo_2019
+COG,30.8,Mayama,congo_2019
+COG,31.0,Mayama,congo_2019
+COG,31.5,Ngabé,congo_2019
+COD,34.6,Kwamouth,congo_2019
+COD,36.1,Kwamouth,congo_2019
+COD,37.5,Kwamouth,congo_2019
+COD,38.8,Kutu,congo_2019
+COD,38.3,Kutu,congo_2019
+COD,38.8,Kutu,congo_2019
+COD,37.3,Oshwe,congo_2019
+COD,37.5,Oshwe,congo_2019
+COD,37.2,Oshwe,congo_2019
+COD,36.4,Dekese,congo_2019
+COD,36.3,Dekese,congo_2019
+COD,34.4,Dekese,congo_2019
+COD,34.0,Kole,congo_2019
+COD,33.4,Kole,congo_2019
+COD,33.0,Lodja,congo_2019
+COD,36.2,Lodja,congo_2019
+COD,35.4,Katako-Kombe,congo_2019
+COD,34.3,Katako-Kombe,congo_2019
+COD,35.0,Kailo,congo_2019
+COD,33.9,Kailo,congo_2019
+COD,32.6,Pangi,congo_2019
+COD,31.7,Pangi,congo_2019
+COD,30.2,Shabunda,congo_2019
+COD,28.3,Shabunda,congo_2019
+COD,26.9,Mwenga,congo_2019
+COD,24.4,Mwenga,congo_2019
+BDI,24.8,Gihanga,congo_2019
+BDI,19.6,Mbuye,congo_2019
+BDI,18.3,Mutumba,congo_2019
+TZA,15.7,Kakonko,congo_2019
+TZA,17.0,Biharamulo,congo_2019
+TZA,14.9,Bukombe,congo_2019
+TZA,13.2,Geita,congo_2019
+TZA,13.2,Nyang'hwale,congo_2019
+TZA,12.9,Kwimba,congo_2019
+TZA,11.9,Maswa,congo_2019
+TZA,10.8,Meatu,congo_2019
+TZA,9.6,Meatu,congo_2019
+TZA,9.7,Ngorongoro,congo_2019
+TZA,9.2,Ngorongoro,congo_2019
+TZA,8.8,Monduli,congo_2019
+TZA,8.2,Arusha,congo_2019
+TZA,7.3,Hai,congo_2019
+KEN,7.1,Taveta,congo_2019
+KEN,6.0,Wundanyi,congo_2019
+KEN,6.4,Voi,congo_2019
+KEN,5.9,Magarini,congo_2019
+KEN,6.0,Ganze,congo_2019
+GAB,18.7,Basse Banio,congo_2019
+COG,20.3,Kakamoeka,congo_2019
+COG,22.8,Kibangou,congo_2019
+COG,24.7,Loudima,congo_2019
+COG,26.6,Sibiti,congo_2019
+COG,27.6,Mouyondzi,congo_2019
+COG,29.0,Mouyondzi,congo_2019
+COG,30.9,Mayama,congo_2019
+COG,30.5,Ngamaba,congo_2019
+COG,30.9,Ngamaba,congo_2019
+COD,33.0,Kwamouth,congo_2019
+COD,35.6,Kwamouth,congo_2019
+COD,37.2,Kwamouth,congo_2019
+COD,36.9,Bagata,congo_2019
+COD,37.8,Bagata,congo_2019
+COD,38.9,Bagata,congo_2019
+COD,40.3,Oshwe,congo_2019
+COD,38.3,Oshwe,congo_2019
+COD,37.1,Oshwe,congo_2019
+COD,36.0,Dekese,congo_2019
+COD,35.3,Dekese,congo_2019
+COD,35.2,Dekese,congo_2019
+COD,34.0,Kole,congo_2019
+COD,33.3,Kole,congo_2019
+COD,35.0,Lodja,congo_2019
+COD,34.8,Lodja,congo_2019
+COD,36.0,Katako-Kombe,congo_2019
+COD,34.5,Katako-Kombe,congo_2019
+COD,33.4,Kibombo,congo_2019
+COD,34.0,Kibombo,congo_2019
+COD,32.7,Pangi,congo_2019
+COD,31.6,Kasongo,congo_2019
+COD,30.6,Shabunda,congo_2019
+COD,28.8,Shabunda,congo_2019
+COD,24.4,Mwenga,congo_2019
+COD,22.2,Mwenga,congo_2019
+BDI,18.3,Ryansoro,congo_2019
+BDI,19.0,Giharo,congo_2019
+TZA,16.2,Kibondo,congo_2019
+TZA,16.8,Kibondo,congo_2019
+TZA,15.2,Bukombe,congo_2019
+TZA,13.7,Mbogwe,congo_2019
+TZA,12.9,Kahama,congo_2019
+TZA,12.0,Shinyanga Rural,congo_2019
+TZA,11.6,Kishapu,congo_2019
+TZA,10.6,Meatu,congo_2019
+TZA,9.3,Meatu,congo_2019
+TZA,8.2,Mbulu,congo_2019
+TZA,8.4,Monduli,congo_2019
+TZA,8.0,Simanjiro,congo_2019
+TZA,7.1,Simanjiro,congo_2019
+TZA,6.7,Mwanga,congo_2019
+KEN,6.1,Mwatate,congo_2019
+KEN,5.8,Voi,congo_2019
+KEN,5.9,Kinango,congo_2019
+KEN,6.0,Kilifi South,congo_2019
+COG,19.6,Madingo-Kayes,congo_2019
+COG,20.8,Mvouti,congo_2019
+COG,22.9,Louvakou (Loubomo),congo_2019
+COG,25.0,Nkayi District,congo_2019
+COG,27.3,Madingou,congo_2019
+COG,29.6,Mindouli,congo_2019
+COG,30.7,Kinkala,congo_2019
+COG,35.5,Ngamaba,congo_2019
+COD,31.8,Kinshasa,congo_2019
+COD,31.2,Kinshasa,congo_2019
+COD,32.8,Bagata,congo_2019
+COD,35.4,Bagata,congo_2019
+COD,36.4,Bagata,congo_2019
+COD,37.5,Bulungu,congo_2019
+COD,38.2,Bulungu,congo_2019
+COD,38.7,Idiofa,congo_2019
+COD,37.9,Idiofa,congo_2019
+COD,38.9,Oshwe,congo_2019
+COD,37.7,Mweka,congo_2019
+COD,35.9,Mweka,congo_2019
+COD,34.4,Mweka,congo_2019
+COD,34.1,Mweka,congo_2019
+COD,33.3,Kole,congo_2019
+COD,33.5,Kole,congo_2019
+COD,34.1,Lubefu,congo_2019
+COD,32.5,Lubefu,congo_2019
+COD,31.4,Katako-Kombe,congo_2019
+COD,32.7,Kibombo,congo_2019
+COD,32.3,Kibombo,congo_2019
+COD,32.3,Kasongo,congo_2019
+COD,31.1,Kasongo,congo_2019
+COD,30.3,Kabambare,congo_2019
+COD,28.7,Kabambare,congo_2019
+COD,27.2,Kabambare,congo_2019
+COD,23.5,Fizi,congo_2019
+BDI,17.8,Mabanda,congo_2019
+TZA,17.1,Kasulu,congo_2019
+TZA,17.5,Kibondo,congo_2019
+TZA,17.3,Kibondo,congo_2019
+TZA,14.6,Kaliua,congo_2019
+TZA,12.8,Kahama,congo_2019
+TZA,12.7,Nzega,congo_2019
+TZA,12.0,Nzega,congo_2019
+TZA,10.8,Igunga,congo_2019
+TZA,10.3,Iramba,congo_2019
+TZA,8.8,Mkalama,congo_2019
+TZA,8.0,Babati,congo_2019
+TZA,8.0,Babati,congo_2019
+TZA,7.5,Babati,congo_2019
+TZA,7.0,Simanjiro,congo_2019
+TZA,6.6,Simanjiro,congo_2019
+TZA,6.2,Same,congo_2019
+TZA,6.1,Same,congo_2019
+KEN,5.8,Kinango,congo_2019
+KEN,5.9,Kinango,congo_2019
+COG,19.9,Mvouti,congo_2019
+AGO,21.4,Buco Zau,congo_2019
+COG,23.9,Kimongo,congo_2019
+COD,26.3,Luozi,congo_2019
+COD,28.1,Luozi,congo_2019
+COG,29.5,Boko,congo_2019
+COD,31.1,Kasangulu,congo_2019
+COD,30.7,Kinshasa,congo_2019
+COD,30.3,Kinshasa,congo_2019
+COD,32.6,Kenge,congo_2019
+COD,34.7,Kenge,congo_2019
+COD,35.7,Masi-Manimba,congo_2019
+COD,35.5,Masi-Manimba,congo_2019
+COD,36.6,Bulungu,congo_2019
+COD,38.5,Idiofa,congo_2019
+COD,38.6,Idiofa,congo_2019
+COD,38.7,Ilebo,congo_2019
+COD,36.9,Ilebo,congo_2019
+COD,35.2,Mweka,congo_2019
+COD,33.2,Mweka,congo_2019
+COD,33.9,Mweka,congo_2019
+COD,32.5,Dimbelenge,congo_2019
+COD,32.4,Lusambo,congo_2019
+COD,33.1,Lusambo,congo_2019
+COD,30.2,Lubefu,congo_2019
+COD,29.1,Lubefu,congo_2019
+COD,30.5,Kibombo,congo_2019
+COD,29.9,Kibombo,congo_2019
+COD,29.6,Kasongo,congo_2019
+COD,29.4,Kasongo,congo_2019
+COD,29.1,Kabambare,congo_2019
+COD,26.8,Kabambare,congo_2019
+COD,27.7,Kabambare,congo_2019
+COD,22.5,Fizi,congo_2019
+TZA,18.7,Kigoma Rural,congo_2019
+TZA,17.0,Kasulu,congo_2019
+TZA,17.6,Kasulu,congo_2019
+TZA,16.2,Kibondo,congo_2019
+TZA,13.0,Kaliua,congo_2019
+TZA,12.2,Kaliua,congo_2019
+TZA,11.5,Tabora,congo_2019
+TZA,11.4,Nzega,congo_2019
+TZA,11.0,Igunga,congo_2019
+TZA,9.5,Iramba,congo_2019
+TZA,8.7,Singida Rural,congo_2019
+TZA,8.4,Hanang,congo_2019
+TZA,7.9,Kondoa,congo_2019
+TZA,7.4,Kondoa,congo_2019
+TZA,7.2,Kiteto,congo_2019
+TZA,6.7,Simanjiro,congo_2019
+TZA,6.5,Simanjiro,congo_2019
+TZA,5.8,Lushoto,congo_2019
+TZA,5.8,Mkinga,congo_2019
+AGO,18.9,Cabinda,congo_2019
+COD,20.8,Lukula,congo_2019
+COD,22.7,Seke-Banza,congo_2019
+COD,25.2,Luozi,congo_2019
+COD,26.9,Songololo,congo_2019
+COD,27.8,Mbanza-Ngungu,congo_2019
+COD,28.4,Madimba,congo_2019
+COD,29.7,Madimba,congo_2019
+COD,31.1,Popokabaka,congo_2019
+COD,31.3,Kenge,congo_2019
+COD,32.0,Kenge,congo_2019
+COD,33.7,Masi-Manimba,congo_2019
+COD,35.4,Masi-Manimba,congo_2019
+COD,35.7,Bulungu,congo_2019
+COD,35.7,Idiofa,congo_2019
+COD,37.1,Idiofa,congo_2019
+COD,37.5,Ilebo,congo_2019
+COD,35.0,Ilebo,congo_2019
+COD,34.8,Luebo,congo_2019
+COD,33.5,Demba,congo_2019
+COD,33.5,Demba,congo_2019
+COD,32.2,Dimbelenge,congo_2019
+COD,31.0,Lusambo,congo_2019
+COD,31.2,Lusambo,congo_2019
+COD,28.1,Lubefu,congo_2019
+COD,27.0,Lubao,congo_2019
+COD,28.0,Lubao,congo_2019
+COD,27.0,Lubao,congo_2019
+COD,26.3,Kongolo,congo_2019
+COD,27.4,Kongolo,congo_2019
+COD,26.8,Kongolo,congo_2019
+COD,26.3,Nyunzu,congo_2019
+COD,25.3,Nyunzu,congo_2019
+COD,23.3,Kalemie,congo_2019
+TZA,18.4,Uvinza,congo_2019
+TZA,17.4,Mpanda Rural,congo_2019
+TZA,14.5,Mpanda Rural,congo_2019
+TZA,13.9,Kaliua,congo_2019
+TZA,12.6,Kaliua,congo_2019
+TZA,12.0,Urambo,congo_2019
+TZA,11.2,Uyui,congo_2019
+TZA,10.8,Uyui,congo_2019
+TZA,10.3,Uyui,congo_2019
+TZA,9.6,Ikungi,congo_2019
+TZA,8.7,Ikungi,congo_2019
+TZA,9.1,Chemba,congo_2019
+TZA,8.1,Chemba,congo_2019
+TZA,7.3,Chemba,congo_2019
+TZA,6.8,Kiteto,congo_2019
+TZA,6.7,Kiteto,congo_2019
+TZA,6.5,Kilindi,congo_2019
+TZA,6.5,Handeni,congo_2019
+TZA,6.4,Muheza,congo_2019
+TZA,6.0,Chake,congo_2019
+AGO,17.9,Cabinda,congo_2019
+COD,21.1,Moanda,congo_2019
+COD,22.7,Moanda,congo_2019
+COD,25.1,Songololo,congo_2019
+COD,25.8,Songololo,congo_2019
+COD,27.6,Mbanza-Ngungu,congo_2019
+COD,27.5,Madimba,congo_2019
+COD,27.7,Madimba,congo_2019
+COD,29.5,Popokabaka,congo_2019
+COD,30.7,Popokabaka,congo_2019
+COD,31.7,Kenge,congo_2019
+COD,32.3,Feshi,congo_2019
+COD,32.8,Masi-Manimba,congo_2019
+COD,33.9,Gungu,congo_2019
+COD,33.4,Gungu,congo_2019
+COD,35.0,Gungu,congo_2019
+COD,35.8,Ilebo,congo_2019
+COD,35.6,Ilebo,congo_2019
+COD,34.5,Luebo,congo_2019
+COD,33.0,Luebo,congo_2019
+COD,32.5,Demba,congo_2019
+COD,32.1,Demba,congo_2019
+COD,30.6,Dimbelenge,congo_2019
+COD,30.6,Lusambo,congo_2019
+COD,28.6,Kabinda,congo_2019
+COD,25.8,Lubao,congo_2019
+COD,25.2,Lubao,congo_2019
+COD,25.1,Lubao,congo_2019
+COD,24.5,Kongolo,congo_2019
+COD,24.5,Kongolo,congo_2019
+COD,24.4,Nyunzu,congo_2019
+COD,24.8,Nyunzu,congo_2019
+COD,23.2,Kalemie,congo_2019
+COD,21.4,Kalemie,congo_2019
+COD,20.5,Kalemie,congo_2019
+TZA,15.6,Mpanda Rural,congo_2019
+TZA,15.3,Mpanda Rural,congo_2019
+TZA,14.6,Kaliua,congo_2019
+TZA,13.0,Kaliua,congo_2019
+TZA,12.3,Sikonge,congo_2019
+TZA,10.9,Sikonge,congo_2019
+TZA,10.5,Sikonge,congo_2019
+TZA,10.5,Sikonge,congo_2019
+TZA,9.9,Manyoni,congo_2019
+TZA,9.4,Manyoni,congo_2019
+TZA,9.0,Manyoni,congo_2019
+TZA,8.1,Bahi,congo_2019
+TZA,7.3,Chamwino,congo_2019
+TZA,6.9,Kiteto,congo_2019
+TZA,6.3,Kilindi,congo_2019
+TZA,6.3,Kilindi,congo_2019
+TZA,6.5,Handeni,congo_2019
+TZA,6.5,Pangani,congo_2019
+AGO,19.9,Soyo,congo_2019
+AGO,22.3,Noqui,congo_2019
+AGO,23.9,Noqui,congo_2019
+AGO,24.7,M'Banza Congo,congo_2019
+AGO,25.9,Cuimba,congo_2019
+AGO,26.9,Maquela do Zombo,congo_2019
+AGO,27.8,Maquela do Zombo,congo_2019
+AGO,29.1,Quimbele,congo_2019
+COD,30.0,Kasongo-Lunda,congo_2019
+COD,30.6,Kasongo-Lunda,congo_2019
+COD,29.8,Feshi,congo_2019
+COD,29.4,Feshi,congo_2019
+COD,31.8,Feshi,congo_2019
+COD,31.5,Feshi,congo_2019
+COD,33.6,Kamonia,congo_2019
+COD,33.9,Kamonia,congo_2019
+COD,34.8,Kamonia,congo_2019
+COD,33.4,Kamonia,congo_2019
+COD,31.9,Kazumba,congo_2019
+COD,32.1,Kazumba,congo_2019
+COD,31.2,Dibaya,congo_2019
+COD,30.4,Miabi,congo_2019
+COD,29.0,Tshilenge,congo_2019
+COD,27.6,Kabinda,congo_2019
+COD,26.1,Kabinda,congo_2019
+COD,25.6,Kabinda,congo_2019
+COD,23.8,Kabongo,congo_2019
+COD,24.3,Kabalo,congo_2019
+COD,23.9,Kabalo,congo_2019
+COD,23.8,Kabalo,congo_2019
+COD,23.9,Kabalo,congo_2019
+COD,22.4,Kalemie,congo_2019
+COD,20.7,Kalemie,congo_2019
+TZA,17.8,Uvinza,congo_2019
+TZA,14.9,Mpanda Rural,congo_2019
+TZA,14.5,Mpanda Rural,congo_2019
+TZA,13.5,Mlele,congo_2019
+TZA,12.6,Mlele,congo_2019
+TZA,12.5,Mlele,congo_2019
+TZA,11.2,Sikonge,congo_2019
+TZA,10.2,Sikonge,congo_2019
+TZA,10.0,Sikonge,congo_2019
+TZA,10.1,Manyoni,congo_2019
+TZA,9.2,Manyoni,congo_2019
+TZA,8.9,Bahi,congo_2019
+TZA,7.5,Dodoma Urban,congo_2019
+TZA,7.4,Mpwapwa,congo_2019
+TZA,6.6,Kongwa,congo_2019
+TZA,6.8,Kilosa,congo_2019
+TZA,7.0,Morogoro Rural,congo_2019
+TZA,6.6,Bagamoyo,congo_2019
+TZA,6.4,Bagamoyo,congo_2019
+AGO,18.7,Tomboco,congo_2019
+AGO,20.4,Tomboco,congo_2019
+AGO,22.9,Tomboco,congo_2019
+AGO,23.1,M'Banza Congo,congo_2019
+AGO,25.0,Damba,congo_2019
+AGO,26.0,Damba,congo_2019
+AGO,26.9,Buengas,congo_2019
+AGO,27.2,Milunga,congo_2019
+AGO,29.3,Milunga,congo_2019
+COD,28.8,Kasongo-Lunda,congo_2019
+COD,28.2,Kasongo-Lunda,congo_2019
+COD,28.3,Feshi,congo_2019
+COD,29.0,Feshi,congo_2019
+COD,29.7,Kahemba,congo_2019
+COD,33.1,Kahemba,congo_2019
+COD,33.9,Kamonia,congo_2019
+COD,34.2,Kamonia,congo_2019
+COD,32.9,Kamonia,congo_2019
+COD,32.9,Kazumba,congo_2019
+COD,32.3,Kazumba,congo_2019
+COD,32.5,Dibaya,congo_2019
+COD,31.3,Kamiji,congo_2019
+COD,28.2,Luilu,congo_2019
+COD,29.0,Ngandajika,congo_2019
+COD,27.4,Ngandajika,congo_2019
+COD,26.7,Kabinda,congo_2019
+COD,24.5,Kabongo,congo_2019
+COD,23.7,Manono,congo_2019
+COD,22.4,Manono,congo_2019
+COD,23.0,Manono,congo_2019
+COD,21.6,Manono,congo_2019
+COD,22.0,Manono,congo_2019
+COD,19.7,Kalemie,congo_2019
+COD,18.3,Moba,congo_2019
+TZA,15.9,Mpanda Rural,congo_2019
+TZA,15.3,Mlele,congo_2019
+TZA,12.5,Mlele,congo_2019
+TZA,11.5,Mlele,congo_2019
+TZA,11.3,Mlele,congo_2019
+TZA,10.0,Sikonge,congo_2019
+TZA,9.9,Manyoni,congo_2019
+TZA,9.2,Manyoni,congo_2019
+TZA,9.5,Manyoni,congo_2019
+TZA,8.5,Chamwino,congo_2019
+TZA,7.8,Chamwino,congo_2019
+TZA,6.7,Mpwapwa,congo_2019
+TZA,6.9,Kilosa,congo_2019
+TZA,7.5,Kilosa,congo_2019
+TZA,6.9,Morogoro Rural,congo_2019
+TZA,6.8,Morogoro Rural,congo_2019
+TZA,6.5,Kibaha,congo_2019
+AGO,19.2,N'Zeto,congo_2019
+AGO,21.5,N'Zeto,congo_2019
+AGO,23.0,Bembe,congo_2019
+AGO,23.8,Songo,congo_2019
+AGO,24.1,Bungo,congo_2019
+AGO,25.5,Sanza Pombo,congo_2019
+AGO,26.4,Sanza Pombo,congo_2019
+AGO,26.9,Milunga,congo_2019
+COD,27.7,Kasongo-Lunda,congo_2019
+COD,28.9,Kasongo-Lunda,congo_2019
+COD,28.0,Kasongo-Lunda,congo_2019
+COD,27.2,Kahemba,congo_2019
+COD,29.1,Kahemba,congo_2019
+AGO,29.8,Chitato,congo_2019
+AGO,31.7,Chitato,congo_2019
+COD,34.1,Kamonia,congo_2019
+COD,33.4,Kamonia,congo_2019
+COD,32.5,Kamonia,congo_2019
+COD,31.6,Luiza,congo_2019
+COD,31.3,Luiza,congo_2019
+COD,30.8,Luilu,congo_2019
+COD,29.3,Luilu,congo_2019
+COD,28.9,Kaniama,congo_2019
+COD,26.3,Kabongo,congo_2019
+COD,26.2,Kabongo,congo_2019
+COD,24.0,Kabongo,congo_2019
+COD,24.3,Kabongo,congo_2019
+COD,23.5,Manono,congo_2019
+COD,21.8,Manono,congo_2019
+COD,21.2,Manono,congo_2019
+COD,21.9,Manono,congo_2019
+COD,19.5,Moba,congo_2019
+COD,18.6,Moba,congo_2019
+COD,17.8,Moba,congo_2019
+TZA,15.9,Nkasi,congo_2019
+TZA,13.9,Nkasi,congo_2019
+TZA,13.1,Mlele,congo_2019
+TZA,11.9,Mlele,congo_2019
+TZA,10.9,Songwe,congo_2019
+TZA,9.6,Chunya,congo_2019
+TZA,9.6,Chunya,congo_2019
+TZA,8.7,Manyoni,congo_2019
+TZA,8.6,Iringa Rural,congo_2019
+TZA,8.9,Iringa Rural,congo_2019
+TZA,7.6,Iringa Rural,congo_2019
+TZA,7.2,Kilolo,congo_2019
+TZA,7.0,Kilosa,congo_2019
+TZA,7.1,Kilosa,congo_2019
+TZA,7.3,Morogoro Rural,congo_2019
+TZA,6.8,Morogoro Rural,congo_2019
+TZA,5.9,Kisarawe,congo_2019
+TZA,5.8,Mkuranga,congo_2019
+AGO,18.7,N'Zeto,congo_2019
+AGO,20.6,Ambriz,congo_2019
+AGO,21.3,Ambuila,congo_2019
+AGO,22.6,Ambuila,congo_2019
+AGO,22.7,Negage,congo_2019
+AGO,23.3,Alto Cauale,congo_2019
+AGO,25.1,Massango,congo_2019
+AGO,25.0,Massango,congo_2019
+AGO,25.5,Marimba,congo_2019
+COD,27.1,Kasongo-Lunda,congo_2019
+COD,26.5,Kahemba,congo_2019
+COD,25.1,Kahemba,congo_2019
+COD,26.8,Kahemba,congo_2019
+AGO,27.2,Cuilo,congo_2019
+AGO,29.3,Lucapa,congo_2019
+AGO,30.0,Chitato,congo_2019
+AGO,30.8,Cambulo,congo_2019
+AGO,30.6,Cambulo,congo_2019
+COD,30.1,Luiza,congo_2019
+COD,30.5,Luiza,congo_2019
+COD,28.7,Luilu,congo_2019
+COD,27.2,Luilu,congo_2019
+COD,26.7,Kaniama,congo_2019
+COD,25.6,Kamina,congo_2019
+COD,24.5,Kamina,congo_2019
+COD,24.6,Kabongo,congo_2019
+COD,24.0,Malemba-Nkulu,congo_2019
+COD,22.8,Malemba-Nkulu,congo_2019
+COD,21.9,Malemba-Nkulu,congo_2019
+COD,21.6,Manono,congo_2019
+COD,20.8,Manono,congo_2019
+COD,19.3,Moba,congo_2019
+COD,18.4,Moba,congo_2019
+COD,16.7,Moba,congo_2019
+TZA,15.1,Nkasi,congo_2019
+TZA,12.9,Nkasi,congo_2019
+TZA,12.0,Songwe,congo_2019
+TZA,11.0,Songwe,congo_2019
+TZA,9.4,Chunya,congo_2019
+TZA,8.9,Chunya,congo_2019
+TZA,9.2,Mbarali,congo_2019
+TZA,8.9,Iringa Rural,congo_2019
+TZA,8.9,Iringa Rural,congo_2019
+TZA,7.0,Iringa Rural,congo_2019
+TZA,7.2,Kilolo,congo_2019
+TZA,7.2,Kilolo,congo_2019
+TZA,7.4,Morogoro Rural,congo_2019
+TZA,7.2,Morogoro Rural,congo_2019
+TZA,7.2,Rufiji,congo_2019
+TZA,6.3,Rufiji,congo_2019
+AGO,18.7,Dande,congo_2019
+AGO,20.0,Nambuangongo,congo_2019
+AGO,21.3,Quitexe,congo_2019
+AGO,21.7,Ambaca,congo_2019
+AGO,21.8,Ambaca,congo_2019
+AGO,22.9,Calandula,congo_2019
+AGO,23.3,Marimba,congo_2019
+AGO,23.7,Marimba,congo_2019
+AGO,25.0,Cuango,congo_2019
+AGO,25.5,Caungula,congo_2019
+AGO,24.1,Caungula,congo_2019
+AGO,24.8,Caungula,congo_2019
+AGO,25.4,Cuilo,congo_2019
+AGO,26.7,Lucapa,congo_2019
+AGO,26.5,Lucapa,congo_2019
+AGO,26.6,Cambulo,congo_2019
+AGO,27.5,Cambulo,congo_2019
+COD,26.8,Kapanga,congo_2019
+COD,28.0,Kapanga,congo_2019
+COD,26.8,Kapanga,congo_2019
+COD,25.4,Kaniama,congo_2019
+COD,25.3,Kaniama,congo_2019
+COD,23.7,Kamina,congo_2019
+COD,23.6,Kamina,congo_2019
+COD,24.2,Kamina,congo_2019
+COD,22.7,Bukama,congo_2019
+COD,23.0,Bukama,congo_2019
+COD,21.4,Mitwaba,congo_2019
+COD,20.0,Mitwaba,congo_2019
+COD,19.5,Manono,congo_2019
+COD,18.9,Pweto,congo_2019
+COD,17.1,Pweto,congo_2019
+COD,18.0,Moba,congo_2019
+COD,16.0,Moba,congo_2019
+TZA,13.3,Kalambo,congo_2019
+TZA,11.4,Sumbawanga Rural,congo_2019
+TZA,11.8,Sumbawanga Rural,congo_2019
+TZA,10.2,Songwe,congo_2019
+TZA,9.1,Chunya,congo_2019
+TZA,9.1,Mbarali,congo_2019
+TZA,9.1,Mbarali,congo_2019
+TZA,9.1,Mbarali,congo_2019
+TZA,7.5,Mufindi,congo_2019
+TZA,7.2,Kilolo,congo_2019
+TZA,8.7,Kilombero,congo_2019
+TZA,7.9,Ulanga,congo_2019
+TZA,8.1,Kilombero,congo_2019
+TZA,7.8,Liwale,congo_2019
+TZA,6.8,Liwale,congo_2019
+TZA,6.6,Rufiji,congo_2019
+TZA,5.7,Rufiji,congo_2019
+AGO,18.3,Dande,congo_2019
+AGO,19.3,Pango Aluquém,congo_2019
+AGO,20.2,Bula Atumba,congo_2019
+AGO,20.7,Banga,congo_2019
+AGO,19.9,Calandula,congo_2019
+AGO,21.1,Caombo,congo_2019
+AGO,22.1,Caombo,congo_2019
+AGO,22.7,Cunda-dia-Baza,congo_2019
+AGO,23.9,Xá Muteba,congo_2019
+AGO,24.4,Cuango,congo_2019
+AGO,23.3,Lubalo,congo_2019
+AGO,23.5,Caungula,congo_2019
+AGO,24.3,Cuilo,congo_2019
+AGO,24.6,Lucapa,congo_2019
+AGO,25.5,Lucapa,congo_2019
+AGO,25.2,Saurimo,congo_2019
+AGO,25.6,Saurimo,congo_2019
+COD,25.4,Kapanga,congo_2019
+COD,24.9,Kapanga,congo_2019
+COD,25.1,Kapanga,congo_2019
+COD,24.6,Kaniama,congo_2019
+COD,24.1,Kamina,congo_2019
+COD,24.1,Kamina,congo_2019
+COD,23.1,Kamina,congo_2019
+COD,22.5,Bukama,congo_2019
+COD,21.2,Mitwaba,congo_2019
+COD,19.7,Mitwaba,congo_2019
+COD,18.2,Pweto,congo_2019
+COD,18.3,Pweto,congo_2019
+ZMB,16.9,Chiengi,congo_2019
+ZMB,15.6,Nsama,congo_2019
+ZMB,14.5,Mpulungu,congo_2019
+ZMB,13.2,Mbala,congo_2019
+TZA,11.1,Kalambo,congo_2019
+TZA,11.1,Momba,congo_2019
+TZA,11.7,Mbozi,congo_2019
+TZA,10.9,Mbeya Rural,congo_2019
+TZA,10.0,Mbarali,congo_2019
+TZA,9.1,Mbarali,congo_2019
+TZA,8.5,Wanging'ombe,congo_2019
+TZA,7.6,Mufindi,congo_2019
+TZA,9.1,Kilombero,congo_2019
+TZA,9.1,Ulanga,congo_2019
+TZA,8.4,Ulanga,congo_2019
+TZA,8.3,Ulanga,congo_2019
+TZA,7.4,Liwale,congo_2019
+TZA,7.0,Liwale,congo_2019
+TZA,6.4,Kilwa,congo_2019
+TZA,5.7,Kilwa,congo_2019
+AGO,16.3,Viana,congo_2019
+AGO,18.0,Icolo e Bengo,congo_2019
+AGO,19.2,Cambambe,congo_2019
+AGO,20.0,Cazengo,congo_2019
+AGO,20.0,Lucala,congo_2019
+AGO,19.6,Cacuzo,congo_2019
+AGO,20.3,Calandula,congo_2019
+AGO,20.6,Mucari,congo_2019
+AGO,21.9,Quela,congo_2019
+AGO,22.2,Xá Muteba,congo_2019
+AGO,22.2,Capenda,congo_2019
+AGO,22.7,Capenda,congo_2019
+AGO,22.5,Lubalo,congo_2019
+AGO,23.0,Lubalo,congo_2019
+AGO,23.6,Lucapa,congo_2019
+AGO,23.5,Saurimo,congo_2019
+AGO,23.0,Saurimo,congo_2019
+AGO,24.0,Muconda,congo_2019
+COD,23.6,Sandoa,congo_2019
+COD,24.3,Sandoa,congo_2019
+COD,23.6,Sandoa,congo_2019
+COD,24.0,Sandoa,congo_2019
+COD,23.3,Sandoa,congo_2019
+COD,22.5,Kamina,congo_2019
+COD,22.5,Kamina,congo_2019
+COD,21.9,Bukama,congo_2019
+COD,21.2,Bukama,congo_2019
+COD,20.2,Mitwaba,congo_2019
+COD,20.5,Mitwaba,congo_2019
+COD,18.3,Pweto,congo_2019
+COD,18.1,Pweto,congo_2019
+ZMB,16.4,Nchelenge,congo_2019
+ZMB,16.6,Mporokoso,congo_2019
+ZMB,16.0,Nsama,congo_2019
+ZMB,15.3,Mpulungu,congo_2019
+ZMB,12.1,Mpulungu,congo_2019
+ZMB,11.3,Senga Hill,congo_2019
+ZMB,11.4,Nakonde,congo_2019
+TZA,10.8,Tunduma,congo_2019
+TZA,9.8,Ileje,congo_2019
+TZA,9.6,Rungwe,congo_2019
+TZA,8.9,Makete,congo_2019
+TZA,8.1,Njombe Urban,congo_2019
+TZA,8.1,Njombe Rural,congo_2019
+TZA,10.2,Kilombero,congo_2019
+TZA,9.7,Ulanga,congo_2019
+TZA,9.4,Ulanga,congo_2019
+TZA,8.3,Ulanga,congo_2019
+TZA,7.1,Liwale,congo_2019
+TZA,6.8,Liwale,congo_2019
+TZA,6.4,Kilwa,congo_2019
+TZA,5.9,Kilwa,congo_2019
+AGO,15.6,Muxima,congo_2019
+AGO,17.1,Muxima,congo_2019
+AGO,18.6,Muxima,congo_2019
+AGO,19.8,Cambambe,congo_2019
+AGO,19.5,Cacuzo,congo_2019
+AGO,19.6,Mussende,congo_2019
+AGO,19.7,Malanje,congo_2019
+AGO,20.2,Cangandala,congo_2019
+AGO,20.8,Cambundi-Catembo,congo_2019
+AGO,21.3,Xá Muteba,congo_2019
+AGO,21.6,Xá Muteba,congo_2019
+AGO,21.7,Capenda,congo_2019
+AGO,22.1,Capenda,congo_2019
+AGO,21.0,Lubalo,congo_2019
+AGO,21.9,Saurimo,congo_2019
+AGO,21.7,Saurimo,congo_2019
+AGO,21.6,Muconda,congo_2019
+AGO,21.9,Muconda,congo_2019
+COD,22.5,Sandoa,congo_2019
+COD,23.1,Sandoa,congo_2019
+COD,23.0,Sandoa,congo_2019
+COD,23.5,Sandoa,congo_2019
+COD,22.3,Kamina,congo_2019
+COD,22.3,Kamina,congo_2019
+COD,20.9,Kamina,congo_2019
+COD,20.1,Lubudi,congo_2019
+COD,18.0,Lubudi,congo_2019
+COD,18.4,Mitwaba,congo_2019
+COD,19.4,Mitwaba,congo_2019
+COD,17.9,Mitwaba,congo_2019
+COD,18.0,Kasenga,congo_2019
+ZMB,16.8,Nchelenge,congo_2019
+ZMB,16.8,Kawambwa,congo_2019
+ZMB,16.3,Kawambwa,congo_2019
+ZMB,14.2,Lunte District,congo_2019
+ZMB,12.5,Lunte District,congo_2019
+ZMB,12.5,Mungwi,congo_2019
+ZMB,11.6,Mungwi,congo_2019
+ZMB,12.7,Mungwi,congo_2019
+ZMB,11.4,Isoka,congo_2019
+ZMB,10.2,Isoka,congo_2019
+MWI,10.8,TA Kilupula,congo_2019
+MWI,9.6,Lake Malawi,congo_2019
+TZA,8.2,Ludewa,congo_2019
+TZA,8.5,Songea Rural,congo_2019
+TZA,9.5,Songea Rural,congo_2019
+TZA,9.5,Ulanga,congo_2019
+TZA,9.0,Namtumbo,congo_2019
+TZA,7.9,Liwale,congo_2019
+TZA,6.5,Liwale,congo_2019
+TZA,7.0,Liwale,congo_2019
+TZA,6.6,Kilwa,congo_2019
+TZA,6.3,Lindi Rural,congo_2019
+AGO,17.0,Muxima,congo_2019
+AGO,17.7,Muxima,congo_2019
+AGO,18.9,Libolo,congo_2019
+AGO,19.3,Libolo,congo_2019
+AGO,19.2,Mussende,congo_2019
+AGO,19.3,Mussende,congo_2019
+AGO,19.3,Cangandala,congo_2019
+AGO,19.8,Cambundi-Catembo,congo_2019
+AGO,20.0,Cambundi-Catembo,congo_2019
+AGO,19.9,Xá Muteba,congo_2019
+AGO,19.7,Capenda,congo_2019
+AGO,19.8,Cacolo,congo_2019
+AGO,20.1,Saurimo,congo_2019
+AGO,20.1,Saurimo,congo_2019
+AGO,19.9,Muconda,congo_2019
+AGO,20.9,Muconda,congo_2019
+AGO,21.4,Muconda,congo_2019
+AGO,21.8,Muconda,congo_2019
+COD,21.4,Dilolo,congo_2019
+COD,21.3,Dilolo,congo_2019
+COD,20.7,Dilolo,congo_2019
+COD,19.7,Mutshatsha,congo_2019
+COD,19.7,Mutshatsha,congo_2019
+COD,19.7,Lubudi,congo_2019
+COD,17.5,Mutshatsha,congo_2019
+COD,17.8,Lubudi,congo_2019
+COD,18.4,Lubudi,congo_2019
+COD,19.2,Kasenga,congo_2019
+COD,17.5,Kasenga,congo_2019
+COD,18.2,Kasenga,congo_2019
+ZMB,17.1,Mwense,congo_2019
+ZMB,16.4,Chipili,congo_2019
+ZMB,14.5,Lupososhi,congo_2019
+ZMB,13.8,Lunte District,congo_2019
+ZMB,13.0,Kasama,congo_2019
+ZMB,12.3,Kasama,congo_2019
+ZMB,12.6,Mungwi,congo_2019
+ZMB,11.2,Chinsali,congo_2019
+ZMB,12.0,Isoka,congo_2019
+ZMB,10.1,Mafinga,congo_2019
+MWI,10.5,Nyika N.P. - Chitipa,congo_2019
+TZA,10.4,Ludewa,congo_2019
+TZA,10.3,Songea Rural,congo_2019
+TZA,9.8,Songea Rural,congo_2019
+TZA,9.3,Namtumbo,congo_2019
+TZA,8.7,Namtumbo,congo_2019
+TZA,7.4,Liwale,congo_2019
+TZA,7.0,Liwale,congo_2019
+TZA,6.8,Liwale,congo_2019
+TZA,6.5,Nachingwea,congo_2019
+TZA,6.3,Lindi Rural,congo_2019
+TZA,5.5,Lindi Rural,congo_2019
+AGO,16.8,Porto Amboim,congo_2019
+AGO,17.1,Porto Amboim,congo_2019
+AGO,18.1,Ebo,congo_2019
+AGO,18.4,Quibala,congo_2019
+AGO,18.2,Quibala,congo_2019
+AGO,18.8,Mussende,congo_2019
+AGO,18.9,Andulo,congo_2019
+AGO,19.2,Luquembo,congo_2019
+AGO,19.9,Luquembo,congo_2019
+AGO,18.5,Quirima,congo_2019
+AGO,18.8,Cacolo,congo_2019
+AGO,18.7,Cacolo,congo_2019
+AGO,18.7,Dala,congo_2019
+AGO,18.8,Dala,congo_2019
+AGO,19.5,Dala,congo_2019
+AGO,20.0,Muconda,congo_2019
+AGO,20.7,Muconda,congo_2019
+COD,20.4,Dilolo,congo_2019
+COD,20.9,Dilolo,congo_2019
+COD,19.5,Dilolo,congo_2019
+COD,18.5,Dilolo,congo_2019
+COD,18.2,Dilolo,congo_2019
+COD,18.5,Mutshatsha,congo_2019
+COD,17.0,Mutshatsha,congo_2019
+COD,17.0,Mutshatsha,congo_2019
+COD,17.5,Lubudi,congo_2019
+COD,17.7,Kambove,congo_2019
+COD,18.3,Kambove,congo_2019
+COD,17.1,Kasenga,congo_2019
+COD,17.9,Kasenga,congo_2019
+ZMB,16.6,Mwense,congo_2019
+ZMB,15.7,Lupososhi,congo_2019
+ZMB,15.3,Lupososhi,congo_2019
+ZMB,14.0,Luwingu,congo_2019
+ZMB,12.7,Kasama,congo_2019
+ZMB,12.6,Shiwamg'andu,congo_2019
+ZMB,11.3,Shiwamg'andu,congo_2019
+ZMB,12.1,Chinsali,congo_2019
+ZMB,12.3,Chama,congo_2019
+ZMB,11.4,Mafinga,congo_2019
+MWI,9.8,Nyika National Park - Rumphi,congo_2019
+TZA,10.2,Nyasa,congo_2019
+TZA,9.5,Songea Rural,congo_2019
+TZA,9.1,Songea Rural,congo_2019
+TZA,9.4,Namtumbo,congo_2019
+TZA,8.1,Tunduru,congo_2019
+TZA,7.6,Tunduru,congo_2019
+TZA,6.8,Tunduru,congo_2019
+TZA,6.9,Nanyumbu,congo_2019
+TZA,6.2,Masasi Town,congo_2019
+TZA,5.7,Newala,congo_2019
+TZA,5.5,Tandahimba,congo_2019
+MOZ,5.0,Palma,congo_2019
+AGO,16.9,Seles,congo_2019
+AGO,17.4,Seles,congo_2019
+AGO,17.9,Waku Kungo,congo_2019
+AGO,17.4,Waku Kungo,congo_2019
+AGO,17.0,Andulo,congo_2019
+AGO,17.6,Andulo,congo_2019
+AGO,17.7,Nharea,congo_2019
+AGO,18.5,Luquembo,congo_2019
+AGO,18.5,Quirima,congo_2019
+AGO,18.0,Quirima,congo_2019
+AGO,17.7,Cacolo,congo_2019
+AGO,18.5,Dala,congo_2019
+AGO,18.4,Camanongue,congo_2019
+AGO,19.1,Dala,congo_2019
+AGO,19.8,Muconda,congo_2019
+AGO,19.4,Lucano,congo_2019
+AGO,19.4,Lucano,congo_2019
+AGO,19.0,Alto Zambeze,congo_2019
+AGO,17.7,Alto Zambeze,congo_2019
+AGO,17.3,Alto Zambeze,congo_2019
+ZMB,17.2,Ikelenge,congo_2019
+COD,16.4,Mutshatsha,congo_2019
+ZMB,15.8,Mwinilunga,congo_2019
+COD,16.0,Mutshatsha,congo_2019
+COD,16.0,Kambove,congo_2019
+COD,16.5,Kambove,congo_2019
+COD,17.3,Kambove,congo_2019
+COD,17.1,Kasenga,congo_2019
+COD,17.6,Kasenga,congo_2019
+ZMB,15.3,Mansa,congo_2019
+ZMB,14.6,Mansa,congo_2019
+ZMB,15.2,Chilubi,congo_2019
+ZMB,13.3,Kasama,congo_2019
+ZMB,12.3,Kanchibiya,congo_2019
+ZMB,11.5,Shiwamg'andu,congo_2019
+ZMB,12.0,Chama,congo_2019
+ZMB,12.3,Chama,congo_2019
+ZMB,11.0,Chama,congo_2019
+MWI,9.5,TA Mtwalo,congo_2019
+TZA,9.7,Nyasa,congo_2019
+TZA,10.0,Nyasa,congo_2019
+TZA,9.9,Songea Rural,congo_2019
+TZA,9.6,Namtumbo,congo_2019
+TZA,8.7,Namtumbo,congo_2019
+TZA,7.8,Tunduru,congo_2019
+TZA,7.1,Tunduru,congo_2019
+TZA,6.9,Nanyumbu,congo_2019
+TZA,6.2,Nanyumbu,congo_2019
+MOZ,6.2,Mueda,congo_2019
+MOZ,5.4,Nangade,congo_2019
+MOZ,5.6,Mocimboa da Praia,congo_2019
+AGO,16.5,Sumbe,congo_2019
+AGO,16.5,Cassongue,congo_2019
+AGO,16.9,Cassongue,congo_2019
+AGO,16.2,Bailundo,congo_2019
+AGO,16.0,Mungo,congo_2019
+AGO,16.0,Andulo,congo_2019
+AGO,16.2,Nharea,congo_2019
+AGO,17.7,Cuemba,congo_2019
+AGO,17.6,Cuemba,congo_2019
+AGO,17.7,Cuemba,congo_2019
+AGO,17.4,Moxico,congo_2019
+AGO,17.5,Moxico,congo_2019
+AGO,18.8,Moxico,congo_2019
+AGO,18.7,Léua,congo_2019
+AGO,18.7,Cameia,congo_2019
+AGO,18.8,Lucano,congo_2019
+AGO,18.1,Lucano,congo_2019
+AGO,18.7,Alto Zambeze,congo_2019
+AGO,16.8,Alto Zambeze,congo_2019
+AGO,16.3,Alto Zambeze,congo_2019
+ZMB,15.9,Mwinilunga,congo_2019
+ZMB,15.6,Mwinilunga,congo_2019
+ZMB,15.5,Mwinilunga,congo_2019
+COD,15.3,Kambove,congo_2019
+COD,15.0,Kambove,congo_2019
+COD,16.0,Kambove,congo_2019
+COD,16.7,Kipushi,congo_2019
+COD,16.5,Kipushi,congo_2019
+COD,17.2,Sakania,congo_2019
+ZMB,15.6,Chembe,congo_2019
+ZMB,14.1,Milengi,congo_2019
+ZMB,14.9,Samfya,congo_2019
+ZMB,15.1,Lunga,congo_2019
+ZMB,12.1,Kanchibiya,congo_2019
+ZMB,11.4,Kanchibiya,congo_2019
+ZMB,11.7,Mpika,congo_2019
+ZMB,12.6,Mpika,congo_2019
+ZMB,12.1,Chama,congo_2019
+MWI,10.0,TA Chindi,congo_2019
+MWI,9.4,SC Kampingo Sibande,congo_2019
+MWI,10.6,Lake Malawi,congo_2019
+MOZ,10.2,Lago,congo_2019
+MOZ,9.5,Sanga,congo_2019
+MOZ,9.5,Sanga,congo_2019
+MOZ,8.7,Mavago,congo_2019
+MOZ,7.9,Mecula,congo_2019
+MOZ,7.0,Mecula,congo_2019
+MOZ,6.0,Mecula,congo_2019
+MOZ,6.0,Mueda,congo_2019
+MOZ,5.8,Mueda,congo_2019
+MOZ,5.3,Muidumbe,congo_2019
+MOZ,5.3,Macomia,congo_2019
+AGO,15.3,Lobito,congo_2019
+AGO,15.3,Bocoio,congo_2019
+AGO,16.3,Balombo,congo_2019
+AGO,16.1,Londuimbale,congo_2019
+AGO,16.2,Bailundo,congo_2019
+AGO,15.2,Bailundo,congo_2019
+AGO,15.1,Kuito,congo_2019
+AGO,15.7,Catabola,congo_2019
+AGO,16.3,Camacupa,congo_2019
+AGO,15.9,Cuemba,congo_2019
+AGO,15.6,Moxico,congo_2019
+AGO,16.3,Moxico,congo_2019
+AGO,16.9,Moxico,congo_2019
+AGO,18.0,Moxico,congo_2019
+AGO,17.8,Moxico,congo_2019
+AGO,18.7,Moxico,congo_2019
+AGO,18.1,Cameia,congo_2019
+AGO,18.2,Lucano,congo_2019
+AGO,16.5,Alto Zambeze,congo_2019
+AGO,15.3,Alto Zambeze,congo_2019
+AGO,15.3,Alto Zambeze,congo_2019
+ZMB,15.7,Mwinilunga,congo_2019
+ZMB,15.4,Mwinilunga,congo_2019
+ZMB,15.5,Kalumbila,congo_2019
+ZMB,15.4,Kalumbila,congo_2019
+ZMB,15.8,Solwezi,congo_2019
+ZMB,15.6,Solwezi,congo_2019
+ZMB,16.5,Mushindano,congo_2019
+COD,16.1,Sakania,congo_2019
+COD,15.7,Sakania,congo_2019
+COD,15.9,Sakania,congo_2019
+ZMB,14.8,Milengi,congo_2019
+COD,14.9,Sakania,congo_2019
+ZMB,14.5,Chitambo,congo_2019
+ZMB,12.4,Lavushimanda,congo_2019
+ZMB,11.8,Mpika,congo_2019
+ZMB,13.3,Mpika,congo_2019
+ZMB,12.9,Mpika,congo_2019
+ZMB,12.3,Lumezi,congo_2019
+ZMB,9.8,Lundazi,congo_2019
+MWI,9.6,TA Mzikubola,congo_2019
+MOZ,10.5,Lago,congo_2019
+MOZ,10.2,Sanga,congo_2019
+MOZ,10.0,Sanga,congo_2019
+MOZ,9.3,Mavago,congo_2019
+MOZ,8.4,Mecula,congo_2019
+MOZ,7.9,Mecula,congo_2019
+MOZ,7.0,Mecula,congo_2019
+MOZ,6.4,Montepuez,congo_2019
+MOZ,5.7,Montepuez,congo_2019
+MOZ,5.8,Montepuez,congo_2019
+MOZ,5.3,Meluco,congo_2019
+MOZ,5.1,Macomia,congo_2019
+AGO,13.7,Baía Farta,congo_2019
+AGO,14.6,Benguela,congo_2019
+AGO,14.8,Cubal,congo_2019
+AGO,14.9,Ganda,congo_2019
+AGO,15.4,Ukuma,congo_2019
+AGO,14.9,Huambo,congo_2019
+AGO,14.6,Catchiungo,congo_2019
+AGO,14.4,Chinguar,congo_2019
+AGO,15.7,Kuito,congo_2019
+AGO,15.5,Camacupa,congo_2019
+AGO,14.7,Camacupa,congo_2019
+AGO,15.1,Moxico,congo_2019
+AGO,15.3,Moxico,congo_2019
+AGO,16.0,Moxico,congo_2019
+AGO,17.1,Moxico,congo_2019
+AGO,16.7,Moxico,congo_2019
+AGO,17.4,Alto Zambeze,congo_2019
+AGO,18.0,Alto Zambeze,congo_2019
+AGO,17.2,Alto Zambeze,congo_2019
+AGO,15.5,Alto Zambeze,congo_2019
+AGO,15.1,Alto Zambeze,congo_2019
+AGO,14.8,Alto Zambeze,congo_2019
+ZMB,14.9,Manyinga,congo_2019
+ZMB,15.1,Mwinilunga,congo_2019
+ZMB,15.8,Kalumbila,congo_2019
+ZMB,15.8,Kalumbila,congo_2019
+ZMB,14.7,Solwezi,congo_2019
+ZMB,14.8,Solwezi,congo_2019
+ZMB,15.3,Lufwanyama,congo_2019
+ZMB,15.3,Kalulushi,congo_2019
+ZMB,14.5,Kitwe,congo_2019
+COD,14.5,Sakania,congo_2019
+COD,14.2,Sakania,congo_2019
+COD,13.8,Sakania,congo_2019
+ZMB,12.1,Chitambo,congo_2019
+ZMB,11.4,Lavushimanda,congo_2019
+ZMB,11.5,Lavushimanda,congo_2019
+ZMB,13.5,Mpika,congo_2019
+ZMB,12.7,Lumezi,congo_2019
+ZMB,11.6,Lumezi,congo_2019
+MWI,10.2,Kasungu National Park,congo_2019
+MWI,9.7,TA Wimbe,congo_2019
+MOZ,10.0,Sanga,congo_2019
+MOZ,9.6,Muembe,congo_2019
+MOZ,9.6,Muembe,congo_2019
+MOZ,9.2,Majune,congo_2019
+MOZ,7.9,Marrupa,congo_2019
+MOZ,7.2,Marrupa,congo_2019
+MOZ,6.7,Montepuez,congo_2019
+MOZ,6.1,Montepuez,congo_2019
+MOZ,5.9,Montepuez,congo_2019
+MOZ,5.5,Ancuabe,congo_2019
+MOZ,5.0,Quissanga,congo_2019
+AGO,13.2,Baía Farta,congo_2019
+AGO,13.4,Caiambambo,congo_2019
+AGO,13.8,Cubal,congo_2019
+AGO,14.3,Ganda,congo_2019
+AGO,13.9,Longonjo,congo_2019
+AGO,13.7,Caála,congo_2019
+AGO,14.2,Tchicala-Tcholoanga,congo_2019
+AGO,14.5,Chitembo,congo_2019
+AGO,14.7,Chitembo,congo_2019
+AGO,14.5,Chitembo,congo_2019
+AGO,15.0,Luchazes,congo_2019
+AGO,14.5,Luchazes,congo_2019
+AGO,15.0,Luchazes,congo_2019
+AGO,14.9,Moxico,congo_2019
+AGO,15.1,Luchazes,congo_2019
+AGO,15.6,Lumbala-Nguimbo,congo_2019
+AGO,16.6,Lumbala-Nguimbo,congo_2019
+AGO,17.2,Alto Zambeze,congo_2019
+ZMB,16.9,Chavuma,congo_2019
+ZMB,16.0,Zambezi,congo_2019
+ZMB,14.9,Zambezi,congo_2019
+ZMB,15.3,Kabompo,congo_2019
+ZMB,14.1,Manyinga,congo_2019
+ZMB,14.7,Mufumbwe,congo_2019
+ZMB,15.0,Kasempa,congo_2019
+ZMB,14.6,Kasempa,congo_2019
+ZMB,14.5,Kasempa,congo_2019
+ZMB,14.4,Solwezi,congo_2019
+ZMB,14.4,Lufwanyama,congo_2019
+ZMB,13.9,Lufwanyama,congo_2019
+ZMB,14.0,Masaiti,congo_2019
+ZMB,13.1,Masaiti,congo_2019
+COD,12.7,Sakania,congo_2019
+COD,11.9,Sakania,congo_2019
+ZMB,11.4,Serenje,congo_2019
+ZMB,11.1,Chitambo,congo_2019
+ZMB,13.1,Chitambo,congo_2019
+ZMB,13.4,Mambwe,congo_2019
+ZMB,12.7,Mambwe,congo_2019
+ZMB,11.1,Chipangali,congo_2019
+MWI,10.5,SC Kawamba,congo_2019
+MWI,9.8,TA Kalumo,congo_2019
+MWI,9.9,TA Mwadzama,congo_2019
+MOZ,9.5,Lichinga,congo_2019
+MOZ,9.8,Lichinga,congo_2019
+MOZ,9.4,Majune,congo_2019
+MOZ,8.8,Majune,congo_2019
+MOZ,8.2,Marrupa,congo_2019
+MOZ,7.6,Marrupa,congo_2019
+MOZ,6.9,Balama,congo_2019
+MOZ,5.8,Balama,congo_2019
+MOZ,5.6,Montepuez,congo_2019
+MOZ,5.3,Ancuabe,congo_2019
+MOZ,5.0,Ancuabe,congo_2019
+AGO,13.0,Camacuio,congo_2019
+AGO,12.2,Camacuio,congo_2019
+AGO,12.8,Chongoroi,congo_2019
+AGO,12.3,Chongoroi,congo_2019
+AGO,12.9,Caluquembe,congo_2019
+AGO,13.3,Caconda,congo_2019
+AGO,13.6,Chipindo,congo_2019
+AGO,14.1,Kuvango,congo_2019
+AGO,13.8,Chitembo,congo_2019
+AGO,13.2,Chitembo,congo_2019
+AGO,13.6,Chitembo,congo_2019
+AGO,14.8,Cuito Cuanavale,congo_2019
+AGO,13.7,Luchazes,congo_2019
+AGO,14.0,Luchazes,congo_2019
+AGO,14.4,Luchazes,congo_2019
+AGO,14.6,Luchazes,congo_2019
+AGO,14.2,Lumbala-Nguimbo,congo_2019
+AGO,15.2,Lumbala-Nguimbo,congo_2019
+AGO,17.0,Lumbala-Nguimbo,congo_2019
+ZMB,16.3,Zambezi,congo_2019
+ZMB,16.2,Zambezi,congo_2019
+ZMB,14.3,Zambezi,congo_2019
+ZMB,14.7,Kabompo,congo_2019
+ZMB,14.2,Kabompo,congo_2019
+ZMB,14.0,Mufumbwe,congo_2019
+ZMB,13.9,Mufumbwe,congo_2019
+ZMB,14.0,Kasempa,congo_2019
+ZMB,13.8,Kasempa,congo_2019
+ZMB,12.9,Kasempa,congo_2019
+ZMB,13.9,Ngabwe,congo_2019
+ZMB,13.4,Mpongwe,congo_2019
+ZMB,12.9,Mpongwe,congo_2019
+ZMB,12.3,Kapiri Mposhi,congo_2019
+ZMB,12.0,Mkushi,congo_2019
+ZMB,11.2,Mkushi,congo_2019
+ZMB,11.9,Serenje,congo_2019
+ZMB,12.4,Serenje,congo_2019
+ZMB,12.9,Petauke,congo_2019
+ZMB,12.3,Petauke,congo_2019
+ZMB,10.6,Kasenengwa,congo_2019
+ZMB,10.3,Chipata,congo_2019
+MWI,10.5,TA Zulu,congo_2019
+MWI,9.8,TA Chitukula,congo_2019
+MWI,10.6,TA Chiwere,congo_2019
+MOZ,10.1,N'gauma,congo_2019
+MOZ,9.7,N'gauma,congo_2019
+MOZ,9.2,Majune,congo_2019
+MOZ,8.7,Maúa,congo_2019
+MOZ,8.4,Maúa,congo_2019
+MOZ,8.0,Marrupa,congo_2019
+MOZ,7.4,Balama,congo_2019
+MOZ,5.9,Namuno,congo_2019
+MOZ,5.9,Namuno,congo_2019
+MOZ,5.1,Namapa,congo_2019
+MOZ,5.0,Memba,congo_2019
+AGO,13.0,Camacuio,congo_2019
+AGO,12.0,Bibala,congo_2019
+AGO,11.9,Quilengues,congo_2019
+AGO,11.5,Quilengues,congo_2019
+AGO,12.2,Chicomba,congo_2019
+AGO,12.8,Chicomba,congo_2019
+AGO,13.1,Jamba,congo_2019
+AGO,13.1,Kuvango,congo_2019
+AGO,12.7,Cuchi,congo_2019
+AGO,12.4,Chitembo,congo_2019
+AGO,12.7,Menongue,congo_2019
+AGO,13.1,Cuito Cuanavale,congo_2019
+AGO,13.4,Cuito Cuanavale,congo_2019
+AGO,13.2,Luchazes,congo_2019
+AGO,14.1,Luchazes,congo_2019
+AGO,13.9,Luchazes,congo_2019
+AGO,14.3,Lumbala-Nguimbo,congo_2019
+AGO,14.2,Lumbala-Nguimbo,congo_2019
+AGO,16.0,Lumbala-Nguimbo,congo_2019
+ZMB,16.0,Kalabo,congo_2019
+ZMB,15.8,Mitete,congo_2019
+ZMB,14.1,Lukulu,congo_2019
+ZMB,13.0,Lukulu,congo_2019
+ZMB,12.9,Lukulu,congo_2019
+ZMB,13.0,Kaoma,congo_2019
+ZMB,13.5,Mufumbwe,congo_2019
+ZMB,13.4,Mufumbwe,congo_2019
+ZMB,13.5,Kasempa,congo_2019
+ZMB,12.5,Kasempa,congo_2019
+ZMB,13.1,Ngabwe,congo_2019
+ZMB,12.2,Ngabwe,congo_2019
+ZMB,10.8,Kapiri Mposhi,congo_2019
+ZMB,10.9,Kapiri Mposhi,congo_2019
+ZMB,11.1,Luano,congo_2019
+ZMB,12.1,Luano,congo_2019
+ZMB,12.6,Nyimba,congo_2019
+ZMB,12.5,Nyimba,congo_2019
+ZMB,10.9,Petauke,congo_2019
+ZMB,10.6,Sinda,congo_2019
+ZMB,10.6,Katete,congo_2019
+MOZ,11.4,Chifunde,congo_2019
+MOZ,9.9,Chifunde,congo_2019
+MWI,10.1,TA Chiseka,congo_2019
+MWI,10.1,TA Kaphuka,congo_2019
+MWI,10.9,SC Namabvi,congo_2019
+MOZ,10.0,Mecanhelas,congo_2019
+MOZ,9.3,Mandimba,congo_2019
+MOZ,8.4,Metarica,congo_2019
+MOZ,8.2,Maúa,congo_2019
+MOZ,7.9,Nipepe,congo_2019
+MOZ,7.0,Lalaua,congo_2019
+MOZ,6.5,Mecuburi,congo_2019
+MOZ,6.0,Mecuburi,congo_2019
+MOZ,6.1,Erati,congo_2019
+MOZ,5.2,Memba,congo_2019
+AGO,12.4,Namibe,congo_2019
+AGO,11.5,Bibala,congo_2019
+AGO,11.3,Lubango,congo_2019
+AGO,10.7,Tchipungo,congo_2019
+AGO,11.8,Tchipungo,congo_2019
+AGO,11.9,Matala,congo_2019
+AGO,12.2,Jamba,congo_2019
+AGO,11.6,Jamba,congo_2019
+AGO,11.9,Cuchi,congo_2019
+AGO,12.0,Cuchi,congo_2019
+AGO,12.1,Menongue,congo_2019
+AGO,12.1,Cuito Cuanavale,congo_2019
+AGO,13.7,Cuito Cuanavale,congo_2019
+AGO,13.8,Cuito Cuanavale,congo_2019
+AGO,13.4,Cuito Cuanavale,congo_2019
+AGO,13.2,Luchazes,congo_2019
+AGO,13.0,Luchazes,congo_2019
+AGO,13.3,Lumbala-Nguimbo,congo_2019
+AGO,14.9,Lumbala-Nguimbo,congo_2019
+ZMB,15.1,Sikongo,congo_2019
+ZMB,14.2,Kalabo,congo_2019
+ZMB,12.9,Lukulu,congo_2019
+ZMB,12.7,Kaoma,congo_2019
+ZMB,11.6,Kaoma,congo_2019
+ZMB,11.8,Kaoma,congo_2019
+ZMB,11.7,Nkeyema,congo_2019
+ZMB,12.0,Mumbwa,congo_2019
+ZMB,12.1,Mumbwa,congo_2019
+ZMB,10.8,Mumbwa,congo_2019
+ZMB,10.3,Chibombo,congo_2019
+ZMB,11.2,Chibombo,congo_2019
+ZMB,10.2,Chisamba,congo_2019
+ZMB,10.3,Chisamba,congo_2019
+ZMB,11.2,Luano,congo_2019
+ZMB,11.9,Rufunsa,congo_2019
+ZMB,12.2,Nyimba,congo_2019
+ZMB,11.3,Nyimba,congo_2019
+MOZ,11.0,Zumbu,congo_2019
+MOZ,10.7,Maravia,congo_2019
+MOZ,11.2,Maravia,congo_2019
+MOZ,11.8,Chifunde,congo_2019
+MOZ,11.4,Macanga,congo_2019
+MOZ,9.6,Macanga,congo_2019
+MOZ,9.6,Angónia,congo_2019
+MWI,10.4,SC Makwangwala,congo_2019
+MWI,10.4,SC Chikweo,congo_2019
+MOZ,8.9,Mecanhelas,congo_2019
+MOZ,8.8,Cuamba,congo_2019
+MOZ,7.7,Malema,congo_2019
+MOZ,7.4,Malema,congo_2019
+MOZ,7.0,Ribaue,congo_2019
+MOZ,5.9,Mecuburi,congo_2019
+MOZ,6.2,Mecuburi,congo_2019
+MOZ,5.9,Muecate,congo_2019
+MOZ,5.5,Monapo,congo_2019
+MOZ,5.3,Mossuril,congo_2019
+AGO,12.6,Namibe,congo_2019
+AGO,12.3,Virei,congo_2019
+AGO,10.5,Virei,congo_2019
+AGO,10.6,Chibia,congo_2019
+AGO,11.1,Tchipungo,congo_2019
+AGO,10.8,Tchipungo,congo_2019
+AGO,11.7,Matala,congo_2019
+AGO,11.3,Jamba,congo_2019
+AGO,11.1,Jamba,congo_2019
+AGO,11.2,Cuvelai,congo_2019
+AGO,11.6,Cuchi,congo_2019
+AGO,11.8,Menongue,congo_2019
+AGO,12.0,Cuito Cuanavale,congo_2019
+AGO,12.5,Cuito Cuanavale,congo_2019
+AGO,14.0,Cuito Cuanavale,congo_2019
+AGO,14.3,Mavinga,congo_2019
+AGO,13.2,Mavinga,congo_2019
+AGO,13.3,Mavinga,congo_2019
+AGO,13.0,Lumbala-Nguimbo,congo_2019
+AGO,14.1,Lumbala-Nguimbo,congo_2019
+ZMB,15.1,Sikongo,congo_2019
+ZMB,13.5,Kalabo,congo_2019
+ZMB,13.8,Limulunga,congo_2019
+ZMB,12.5,Mongu,congo_2019
+ZMB,11.2,Luampa,congo_2019
+ZMB,11.3,Luampa,congo_2019
+ZMB,11.4,Luampa,congo_2019
+ZMB,11.3,Mumbwa,congo_2019
+ZMB,11.1,Mumbwa,congo_2019
+ZMB,10.2,Mumbwa,congo_2019
+ZMB,9.7,Mumbwa,congo_2019
+ZMB,9.8,Chibombo,congo_2019
+ZMB,10.0,Chibombo,congo_2019
+ZMB,9.6,Chongwe,congo_2019
+ZMB,10.0,Rufunsa,congo_2019
+ZMB,12.0,Rufunsa,congo_2019
+ZMB,12.1,Luangwa,congo_2019
+MOZ,11.8,Zumbu,congo_2019
+MOZ,12.0,Zumbu,congo_2019
+MOZ,10.6,Maravia,congo_2019
+MOZ,11.2,Maravia,congo_2019
+MOZ,12.0,Maravia,congo_2019
+MOZ,11.6,Chiuta,congo_2019
+MOZ,10.6,Chiuta,congo_2019
+MOZ,9.3,Tsangano,congo_2019
+MWI,10.1,TA Phambala,congo_2019
+MWI,10.6,TA Mlumbe,congo_2019
+MWI,10.1,Lake Chilwa,congo_2019
+MOZ,8.9,Mecanhelas,congo_2019
+MOZ,7.7,Gurue,congo_2019
+MOZ,7.2,Gurue,congo_2019
+MOZ,7.2,Alto Molocue,congo_2019
+MOZ,6.7,Ribaue,congo_2019
+MOZ,6.8,Murrupula,congo_2019
+MOZ,6.5,Nampula,congo_2019
+MOZ,6.5,Meconta,congo_2019
+MOZ,6.0,Mongincual,congo_2019
+AGO,12.4,Tombwa,congo_2019
+AGO,11.8,Virei,congo_2019
+AGO,11.0,Virei,congo_2019
+AGO,10.4,Gambos,congo_2019
+AGO,10.2,Gambos,congo_2019
+AGO,10.6,Gambos,congo_2019
+AGO,11.1,Matala,congo_2019
+AGO,10.5,Cuvelai,congo_2019
+AGO,10.6,Cuvelai,congo_2019
+AGO,10.3,Cuvelai,congo_2019
+AGO,10.5,Cuvelai,congo_2019
+AGO,12.1,Menongue,congo_2019
+AGO,12.2,Menongue,congo_2019
+AGO,12.6,Cuito Cuanavale,congo_2019
+AGO,13.5,Cuito Cuanavale,congo_2019
+AGO,13.2,Mavinga,congo_2019
+AGO,13.1,Mavinga,congo_2019
+AGO,13.7,Rivungo,congo_2019
+AGO,12.9,Rivungo,congo_2019
+AGO,14.1,Lumbala-Nguimbo,congo_2019
+ZMB,12.8,Sikongo,congo_2019
+ZMB,13.3,Nalolo,congo_2019
+ZMB,12.4,Senanga,congo_2019
+ZMB,11.8,Senanga,congo_2019
+ZMB,10.9,Senanga,congo_2019
+ZMB,10.9,Mulobezi,congo_2019
+ZMB,10.8,Luampa,congo_2019
+ZMB,10.9,Itezhi-tezhi,congo_2019
+ZMB,10.3,Itezhi-tezhi,congo_2019
+ZMB,10.7,Namwala,congo_2019
+ZMB,10.7,Monze,congo_2019
+ZMB,10.8,Mazabuka,congo_2019
+ZMB,9.5,Kafue,congo_2019
+ZMB,10.1,Kafue,congo_2019
+ZMB,10.3,Kafue,congo_2019
+ZWE,10.7,Hurungwe,congo_2019
+ZWE,11.2,Mbire,congo_2019
+MOZ,11.4,Magoe,congo_2019
+MOZ,10.2,Cahora Bassa,congo_2019
+MOZ,11.7,Chiuta,congo_2019
+MOZ,12.0,Moatize,congo_2019
+MOZ,10.6,Moatize,congo_2019
+MWI,11.0,TA Kunthembwe,congo_2019
+MWI,10.1,TA Kadewere,congo_2019
+MWI,9.9,TA Nazombe,congo_2019
+MOZ,8.3,Milange,congo_2019
+MOZ,8.4,Namarroi,congo_2019
+MOZ,8.1,Ile,congo_2019
+MOZ,7.9,Alto Molocue,congo_2019
+MOZ,8.1,Gile,congo_2019
+MOZ,7.2,Murrupula,congo_2019
+MOZ,7.1,Mogovolas,congo_2019
+MOZ,7.0,Mogovolas,congo_2019
+MOZ,5.8,Mongincual,congo_2019
+AGO,11.7,Tombwa,congo_2019
+AGO,11.8,Virei,congo_2019
+AGO,10.3,Virei,congo_2019
+AGO,10.0,Gambos,congo_2019
+AGO,9.5,Cahama,congo_2019
+AGO,10.9,Ombadja,congo_2019
+AGO,10.3,Cuvelai,congo_2019
+AGO,10.3,Cuvelai,congo_2019
+AGO,10.0,Cuanhama,congo_2019
+AGO,10.3,Cuanhama,congo_2019
+AGO,10.8,Cuanhama,congo_2019
+AGO,11.1,Menongue,congo_2019
+AGO,11.8,Nancova,congo_2019
+AGO,11.5,Nancova,congo_2019
+AGO,12.5,Nancova,congo_2019
+AGO,12.4,Mavinga,congo_2019
+AGO,13.3,Mavinga,congo_2019
+AGO,12.2,Mavinga,congo_2019
+AGO,14.5,Rivungo,congo_2019
+AGO,13.3,Rivungo,congo_2019
+ZMB,12.3,Shang'ombo,congo_2019
+ZMB,12.5,Shang'ombo,congo_2019
+ZMB,11.4,Senanga,congo_2019
+ZMB,11.8,Senanga,congo_2019
+ZMB,11.1,Mulobezi,congo_2019
+ZMB,10.2,Mulobezi,congo_2019
+ZMB,10.1,Mulobezi,congo_2019
+ZMB,10.5,Itezhi-tezhi,congo_2019
+ZMB,9.7,Itezhi-tezhi,congo_2019
+ZMB,9.4,Namwala,congo_2019
+ZMB,9.9,Monze,congo_2019
+ZMB,9.3,Monze,congo_2019
+ZMB,10.0,Chikankanta,congo_2019
+ZMB,10.2,Chirundu,congo_2019
+ZWE,10.1,Hurungwe,congo_2019
+ZWE,10.1,Hurungwe,congo_2019
+ZWE,9.9,Mbire,congo_2019
+ZWE,10.0,Mbire,congo_2019
+ZWE,10.2,Centenary/ Muzarabani,congo_2019
+MOZ,10.3,Magoe,congo_2019
+MOZ,10.6,Cahora Bassa,congo_2019
+MOZ,11.2,Cahora Bassa,congo_2019
+MOZ,10.2,Changara,congo_2019
+MOZ,12.2,Moatize,congo_2019
+MOZ,11.7,Moatize,congo_2019
+MWI,12.1,Lengwe National Park,congo_2019
+MWI,10.2,SC Mbawela,congo_2019
+MOZ,9.2,Milange,congo_2019
+MOZ,10.0,Lugela,congo_2019
+MOZ,10.4,Lugela,congo_2019
+MOZ,9.6,Ile,congo_2019
+MOZ,10.8,Ile,congo_2019
+MOZ,9.5,Gile,congo_2019
+MOZ,8.6,Pebane,congo_2019
+MOZ,8.5,Moma,congo_2019
+MOZ,7.0,Angoche,congo_2019
+AGO,11.3,Tombwa,congo_2019
+AGO,11.6,Tombwa,congo_2019
+AGO,9.8,Curoca,congo_2019
+AGO,10.1,Cahama,congo_2019
+AGO,9.5,Cahama,congo_2019
+AGO,10.9,Ombadja,congo_2019
+AGO,11.3,Cuanhama,congo_2019
+AGO,9.8,Cuanhama,congo_2019
+AGO,9.6,Cuanhama,congo_2019
+AGO,9.4,Namakunde,congo_2019
+AGO,9.9,Namakunde,congo_2019
+AGO,9.3,Cuangar,congo_2019
+AGO,10.3,Cuangar,congo_2019
+AGO,10.6,Nancova,congo_2019
+AGO,11.3,Mavinga,congo_2019
+AGO,11.4,Mavinga,congo_2019
+AGO,12.1,Mavinga,congo_2019
+AGO,13.4,Mavinga,congo_2019
+AGO,12.5,Mavinga,congo_2019
+AGO,12.3,Rivungo,congo_2019
+AGO,12.2,Rivungo,congo_2019
+ZMB,12.7,Sioma,congo_2019
+ZMB,11.7,Sioma,congo_2019
+ZMB,10.8,Sesheke,congo_2019
+ZMB,10.8,Sesheke,congo_2019
+ZMB,10.6,Mwandi,congo_2019
+ZMB,10.2,Kazungula,congo_2019
+ZMB,9.4,Kazungula,congo_2019
+ZMB,9.1,Kalomo,congo_2019
+ZMB,9.2,Kalomo,congo_2019
+ZMB,9.1,Choma,congo_2019
+ZMB,10.0,Gwembe,congo_2019
+ZWE,9.7,Hurungwe,congo_2019
+ZWE,8.5,Hurungwe,congo_2019
+ZWE,8.2,Makonde,congo_2019
+ZWE,8.2,Guruve,congo_2019
+ZWE,8.5,Centenary/ Muzarabani,congo_2019
+ZWE,8.9,Mount Darwin,congo_2019
+ZWE,9.3,Rushinga,congo_2019
+ZWE,10.0,Mudzi,congo_2019
+MOZ,9.9,Changara,congo_2019
+MOZ,11.2,Guro,congo_2019
+MOZ,11.9,Tambara,congo_2019
+MOZ,12.1,Mutarara,congo_2019
+MWI,11.8,TA Tengani,congo_2019
+MOZ,10.5,Morrumbala,congo_2019
+MOZ,10.5,Mocuba,congo_2019
+MOZ,10.9,Mocuba,congo_2019
+MOZ,10.8,Mocuba,congo_2019
+MOZ,10.9,Maganja da Costa,congo_2019
+MOZ,9.9,Pebane,congo_2019
+MOZ,8.8,Pebane,congo_2019
+MOZ,7.5,Moma,congo_2019
+NAM,11.1,Epupa,congo_2019
+NAM,10.1,Epupa,congo_2019
+NAM,10.7,Epupa,congo_2019
+AGO,10.2,Curoca,congo_2019
+AGO,9.6,Curoca,congo_2019
+AGO,10.3,Ombadja,congo_2019
+AGO,12.0,Ombadja,congo_2019
+AGO,9.7,Namakunde,congo_2019
+AGO,9.6,Namakunde,congo_2019
+AGO,8.7,Namakunde,congo_2019
+AGO,9.3,Namakunde,congo_2019
+AGO,9.2,Cuangar,congo_2019
+AGO,9.6,Cuangar,congo_2019
+AGO,10.5,Cuangar,congo_2019
+AGO,11.3,Calai,congo_2019
+AGO,11.0,Calai,congo_2019
+AGO,12.1,Dirico,congo_2019
+AGO,11.4,Dirico,congo_2019
+AGO,11.6,Dirico,congo_2019
+AGO,11.3,Rivungo,congo_2019
+AGO,12.0,Rivungo,congo_2019
+AGO,11.8,Rivungo,congo_2019
+ZMB,11.7,Sioma,congo_2019
+ZMB,10.8,Sesheke,congo_2019
+ZMB,10.4,Sesheke,congo_2019
+ZMB,9.7,Mwandi,congo_2019
+ZMB,9.4,Kazungula,congo_2019
+ZMB,9.7,Kazungula,congo_2019
+ZMB,9.5,Kalomo,congo_2019
+ZMB,8.7,Kalomo,congo_2019
+ZMB,10.1,Sinazongwe,congo_2019
+ZWE,9.6,Binga,congo_2019
+ZWE,9.7,Kariba,congo_2019
+ZWE,9.9,Gokwe North,congo_2019
+ZWE,9.2,Hurungwe,congo_2019
+ZWE,8.6,Makonde,congo_2019
+ZWE,7.6,Makonde,congo_2019
+ZWE,7.4,Mazowe,congo_2019
+ZWE,8.2,Bindura,congo_2019
+ZWE,8.7,Uzumba Maramba Pfungwe,congo_2019
+ZWE,8.6,Mutoko,congo_2019
+ZWE,9.1,Mudzi,congo_2019
+MOZ,9.3,Guro,congo_2019
+MOZ,10.5,Guro,congo_2019
+MOZ,11.0,Chemba,congo_2019
+MOZ,11.6,Chemba,congo_2019
+MOZ,11.4,Mutarara,congo_2019
+MOZ,11.3,Morrumbala,congo_2019
+MOZ,11.1,Morrumbala,congo_2019
+MOZ,10.8,Mocuba,congo_2019
+MOZ,11.1,Maganja da Costa,congo_2019
+MOZ,10.6,Maganja da Costa,congo_2019
+MOZ,9.4,Pebane,congo_2019
+NAM,10.2,Epupa,congo_2019
+NAM,9.5,Epupa,congo_2019
+NAM,9.0,Epupa,congo_2019
+NAM,9.1,Epupa,congo_2019
+NAM,9.4,Ruacana,congo_2019
+NAM,10.9,Tsandi,congo_2019
+NAM,11.9,Ogongo,congo_2019
+NAM,10.8,Ongwediva,congo_2019
+NAM,9.6,Eenhana,congo_2019
+NAM,8.7,Epembe,congo_2019
+NAM,8.3,Okongo,congo_2019
+NAM,8.2,Okongo,congo_2019
+NAM,8.3,Mpungu,congo_2019
+NAM,8.7,Kahenge,congo_2019
+AGO,9.7,Cuangar,congo_2019
+AGO,10.3,Calai,congo_2019
+AGO,11.4,Dirico,congo_2019
+AGO,11.5,Dirico,congo_2019
+AGO,11.5,Dirico,congo_2019
+AGO,11.6,Rivungo,congo_2019
+AGO,11.9,Rivungo,congo_2019
+AGO,11.3,Rivungo,congo_2019
+NAM,10.3,Kongola,congo_2019
+NAM,10.1,Kongola,congo_2019
+NAM,9.8,Sibinda,congo_2019
+NAM,9.1,Kabe,congo_2019
+ZMB,9.7,Kazungula,congo_2019
+ZMB,9.8,Kazungula,congo_2019
+ZMB,9.2,Kazungula,congo_2019
+ZMB,8.7,Zimba,congo_2019
+ZWE,9.7,Binga,congo_2019
+ZWE,9.5,Gokwe North,congo_2019
+ZWE,9.6,Gokwe North,congo_2019
+ZWE,9.1,Gokwe North,congo_2019
+ZWE,8.6,Makonde,congo_2019
+ZWE,8.0,Zvimba,congo_2019
+ZWE,8.2,Zvimba,congo_2019
+ZWE,7.6,Goromonzi,congo_2019
+ZWE,7.4,Murehwa,congo_2019
+ZWE,7.9,Mutoko,congo_2019
+ZWE,8.3,Nyanga,congo_2019
+MOZ,9.2,Barue,congo_2019
+MOZ,9.9,Macossa,congo_2019
+MOZ,9.9,Macossa,congo_2019
+MOZ,10.6,Maringue,congo_2019
+MOZ,12.0,Caia,congo_2019
+MOZ,11.9,Mopeia,congo_2019
+MOZ,12.1,Mopeia,congo_2019
+MOZ,11.7,Nicoadala,congo_2019
+NAM,9.0,Opuwo,congo_2019
+NAM,9.2,Opuwo,congo_2019
+NAM,9.0,Opuwo,congo_2019
+NAM,8.5,Opuwo,congo_2019
+NAM,8.9,Opuwo,congo_2019
+NAM,9.1,Okahao,congo_2019
+NAM,10.0,Otamanzi,congo_2019
+NAM,10.1,Uuvudhiya,congo_2019
+NAM,10.5,Omuntele,congo_2019
+NAM,8.3,Engodi,congo_2019
+NAM,7.9,Engodi,congo_2019
+NAM,7.6,Engodi,congo_2019
+NAM,7.8,Mpungu,congo_2019
+NAM,8.1,Kahenge,congo_2019
+NAM,8.5,Kapako,congo_2019
+NAM,10.4,Rundu Rural West,congo_2019
+NAM,10.6,Mashare,congo_2019
+NAM,11.2,Ndiyona,congo_2019
+NAM,11.2,Mukwe,congo_2019
+NAM,11.0,Mukwe,congo_2019
+BWA,11.5,Ngamiland West,congo_2019
+BWA,11.7,Ngamiland West,congo_2019
+BWA,10.9,Ngamiland East,congo_2019
+NAM,10.8,Linyandi,congo_2019
+BWA,10.0,Chobe,congo_2019
+BWA,9.1,Chobe,congo_2019
+BWA,10.3,Chobe,congo_2019
+ZWE,9.8,Hwange,congo_2019
+ZWE,9.6,Hwange,congo_2019
+ZWE,9.2,Hwange,congo_2019
+ZWE,8.2,Binga,congo_2019
+ZWE,8.2,Binga,congo_2019
+ZWE,8.4,Gokwe South,congo_2019
+ZWE,8.2,Gokwe South,congo_2019
+ZWE,8.6,Gokwe South,congo_2019
+ZWE,8.0,Sanyati,congo_2019
+ZWE,7.9,Chegutu,congo_2019
+ZWE,7.7,Chegutu,congo_2019
+ZWE,6.8,Marondera,congo_2019
+ZWE,7.0,Marondera,congo_2019
+ZWE,7.5,Makoni,congo_2019
+ZWE,8.2,Nyanga,congo_2019
+MOZ,8.8,Barue,congo_2019
+MOZ,9.3,Macossa,congo_2019
+MOZ,10.6,Maringue,congo_2019
+MOZ,11.4,Maringue,congo_2019
+MOZ,10.8,Cheringoma,congo_2019
+MOZ,12.4,Marromeu,congo_2019
+MOZ,12.2,Chinde,congo_2019
+MOZ,11.0,Chinde,congo_2019
+NAM,7.5,Opuwo,congo_2019
+NAM,9.0,Opuwo,congo_2019
+NAM,7.8,Opuwo,congo_2019
+NAM,8.3,Opuwo,congo_2019
+NAM,8.7,Okahao,congo_2019
+NAM,8.8,Okahao,congo_2019
+NAM,9.5,Uuvudhiya,congo_2019
+NAM,9.0,Omuthiyagwipundi,congo_2019
+NAM,9.1,Omuthiyagwipundi,congo_2019
+NAM,7.3,Guinas,congo_2019
+NAM,7.4,Guinas,congo_2019
+NAM,7.7,Mpungu,congo_2019
+NAM,7.9,Kahenge,congo_2019
+NAM,9.1,Kapako,congo_2019
+NAM,9.8,Mashare,congo_2019
+NAM,10.6,Mashare,congo_2019
+NAM,10.8,Ndiyona,congo_2019
+BWA,11.4,Ngamiland West,congo_2019
+BWA,11.6,Ngamiland West,congo_2019
+BWA,10.7,Ngamiland West,congo_2019
+BWA,10.5,Ngamiland West,congo_2019
+BWA,11.2,Ngamiland East,congo_2019
+BWA,10.5,Ngamiland East,congo_2019
+BWA,10.6,Chobe,congo_2019
+BWA,9.3,Chobe,congo_2019
+BWA,9.9,Chobe,congo_2019
+BWA,10.7,Chobe,congo_2019
+ZWE,9.0,Hwange,congo_2019
+ZWE,8.6,Hwange,congo_2019
+ZWE,8.5,Lupane,congo_2019
+ZWE,8.0,Lupane,congo_2019
+ZWE,7.5,Lupane,congo_2019
+ZWE,7.5,Nkayi,congo_2019
+ZWE,7.1,Kwekwe,congo_2019
+ZWE,7.1,Kwekwe,congo_2019
+ZWE,7.6,Mhondoro-Ngezi,congo_2019
+ZWE,7.0,Chikomba,congo_2019
+ZWE,6.9,Chikomba,congo_2019
+ZWE,7.5,Hwedza,congo_2019
+ZWE,8.1,Makoni,congo_2019
+ZWE,8.2,Mutasa,congo_2019
+MOZ,9.5,Manica,congo_2019
+MOZ,9.9,Gondola,congo_2019
+MOZ,10.5,Gorongosa,congo_2019
+MOZ,10.7,Muanza,congo_2019
+MOZ,10.6,Cheringoma,congo_2019
+MOZ,11.4,Marromeu,congo_2019
+MOZ,11.3,Chinde,congo_2019
+NAM,7.8,Sesfontein,congo_2019
+NAM,7.9,Sesfontein,congo_2019
+NAM,8.1,Sesfontein,congo_2019
+NAM,8.1,Sesfontein,congo_2019
+NAM,9.0,Kamanjab,congo_2019
+NAM,8.7,Kamanjab,congo_2019
+NAM,8.9,Uuvudhiya,congo_2019
+NAM,8.5,Omuthiyagwipundi,congo_2019
+NAM,8.6,Omuthiyagwipundi,congo_2019
+NAM,7.2,Otavi,congo_2019
+NAM,7.3,Guinas,congo_2019
+NAM,7.6,Grootfontein,congo_2019
+NAM,8.0,Grootfontein,congo_2019
+NAM,8.0,Tsumkwe,congo_2019
+NAM,9.6,Tsumkwe,congo_2019
+NAM,10.3,Tsumkwe,congo_2019
+NAM,9.9,Tsumkwe,congo_2019
+BWA,10.5,Ngamiland West,congo_2019
+BWA,10.5,Ngamiland West,congo_2019
+BWA,10.4,Ngamiland West,congo_2019
+BWA,10.4,Ngamiland East,congo_2019
+BWA,10.7,Ngamiland East,congo_2019
+BWA,9.9,Ngamiland East,congo_2019
+BWA,9.6,Ngamiland East,congo_2019
+BWA,9.6,Ngamiland East,congo_2019
+BWA,10.5,Tutume,congo_2019
+BWA,9.1,Tutume,congo_2019
+ZWE,9.7,Hwange,congo_2019
+ZWE,8.4,Hwange,congo_2019
+ZWE,7.7,Hwange,congo_2019
+ZWE,7.1,Lupane,congo_2019
+ZWE,7.4,Lupane,congo_2019
+ZWE,7.1,Nkayi,congo_2019
+ZWE,6.9,Kwekwe,congo_2019
+ZWE,6.8,Gweru,congo_2019
+ZWE,6.6,Chirumhanzu,congo_2019
+ZWE,6.4,Chirumhanzu,congo_2019
+ZWE,6.8,Buhera,congo_2019
+ZWE,8.0,Buhera,congo_2019
+ZWE,8.3,Mutare,congo_2019
+ZWE,8.7,Mutare,congo_2019
+MOZ,9.0,Manica,congo_2019
+MOZ,9.6,Gondola,congo_2019
+MOZ,10.1,Nhamatanda,congo_2019
+MOZ,10.5,Muanza,congo_2019
+MOZ,11.4,Muanza,congo_2019
+NAM,7.2,Sesfontein,congo_2019
+NAM,6.8,Sesfontein,congo_2019
+NAM,7.8,Sesfontein,congo_2019
+NAM,7.6,Kamanjab,congo_2019
+NAM,7.4,Kamanjab,congo_2019
+NAM,9.1,Kamanjab,congo_2019
+NAM,7.9,Outjo,congo_2019
+NAM,6.6,Otavi,congo_2019
+NAM,6.9,Otavi,congo_2019
+NAM,7.0,Otavi,congo_2019
+NAM,7.1,Grootfontein,congo_2019
+NAM,7.7,Okakarara,congo_2019
+NAM,8.0,Tsumkwe,congo_2019
+NAM,8.4,Tsumkwe,congo_2019
+NAM,9.5,Tsumkwe,congo_2019
+NAM,9.8,Tsumkwe,congo_2019
+BWA,11.0,Ngamiland West,congo_2019
+BWA,11.1,Ngamiland West,congo_2019
+BWA,10.2,Ngamiland West,congo_2019
+BWA,10.5,Ngamiland East,congo_2019
+BWA,10.8,Ngamiland East,congo_2019
+BWA,10.1,Ngamiland East,congo_2019
+BWA,9.6,Ngamiland East,congo_2019
+BWA,9.7,Ngamiland East,congo_2019
+BWA,10.0,Tutume,congo_2019
+BWA,9.4,Tutume,congo_2019
+BWA,9.7,Tutume,congo_2019
+ZWE,8.4,Hwange,congo_2019
+ZWE,8.0,Tsholotsho,congo_2019
+ZWE,7.4,Tsholotsho,congo_2019
+ZWE,7.0,Umguza,congo_2019
+ZWE,6.6,Bubi,congo_2019
+ZWE,6.8,Insiza,congo_2019
+ZWE,6.8,Gweru,congo_2019
+ZWE,6.8,Shurugwi,congo_2019
+ZWE,6.6,Masvingo,congo_2019
+ZWE,6.9,Gutu,congo_2019
+ZWE,8.2,Gutu,congo_2019
+ZWE,8.5,Buhera,congo_2019
+ZWE,8.1,Chimanimani,congo_2019
+MOZ,9.6,Sussundenga,congo_2019
+MOZ,9.8,Sussundenga,congo_2019
+MOZ,9.8,Buzi,congo_2019
+MOZ,10.5,Dondo,congo_2019
+NAM,7.3,Khorixas,congo_2019
+NAM,6.9,Khorixas,congo_2019
+NAM,8.7,Khorixas,congo_2019
+NAM,9.5,Khorixas,congo_2019
+NAM,8.7,Kamanjab,congo_2019
+NAM,8.5,Kamanjab,congo_2019
+NAM,7.6,Outjo,congo_2019
+NAM,6.8,Otjiwarongo,congo_2019
+NAM,6.8,Otavi,congo_2019
+NAM,6.7,Otavi,congo_2019
+NAM,7.2,Okakarara,congo_2019
+NAM,7.4,Okakarara,congo_2019
+NAM,7.6,Tsumkwe,congo_2019
+NAM,8.1,Tsumkwe,congo_2019
+NAM,8.4,Tsumkwe,congo_2019
+NAM,9.1,Tsumkwe,congo_2019
+BWA,9.2,Ngamiland West,congo_2019
+BWA,10.1,Ngamiland West,congo_2019
+BWA,10.3,Ngamiland West,congo_2019
+BWA,10.5,Ngamiland East,congo_2019
+BWA,10.6,Ngamiland East,congo_2019
+BWA,10.5,Ngamiland East,congo_2019
+BWA,9.7,Ngamiland East,congo_2019
+BWA,10.4,Ngamiland East,congo_2019
+BWA,10.8,Tutume,congo_2019
+BWA,10.6,Tutume,congo_2019
+BWA,9.3,Tutume,congo_2019
+BWA,8.3,Tutume,congo_2019
+BWA,7.6,Tutume,congo_2019
+ZWE,7.5,Bulilima,congo_2019
+ZWE,7.0,Bulilima,congo_2019
+ZWE,7.2,Umzingwane,congo_2019
+ZWE,6.9,Insiza,congo_2019
+ZWE,7.1,Insiza,congo_2019
+ZWE,7.3,Zvishavane,congo_2019
+ZWE,7.2,Masvingo,congo_2019
+ZWE,8.1,Zaka,congo_2019
+ZWE,8.3,Bikita,congo_2019
+ZWE,8.7,Bikita,congo_2019
+ZWE,8.0,Chipinge,congo_2019
+MOZ,9.3,Mossurize,congo_2019
+MOZ,9.1,Chibabava,congo_2019
+MOZ,9.6,Buzi,congo_2019
+NAM,8.2,Khorixas,congo_2019
+NAM,8.8,Khorixas,congo_2019
+NAM,9.9,Khorixas,congo_2019
+NAM,10.6,Daures,congo_2019
+NAM,9.0,Otjiwarongo,congo_2019
+NAM,7.9,Otjiwarongo,congo_2019
+NAM,7.5,Omatako,congo_2019
+NAM,7.3,Omatako,congo_2019
+NAM,7.0,Okakarara,congo_2019
+NAM,7.1,Okakarara,congo_2019
+NAM,7.4,Otjinene,congo_2019
+NAM,7.8,Otjinene,congo_2019
+NAM,7.5,Epukiro,congo_2019
+NAM,8.6,Otjombinde,congo_2019
+NAM,9.2,Otjombinde,congo_2019
+BWA,9.6,Ngamiland West,congo_2019
+BWA,9.7,Ngamiland West,congo_2019
+BWA,9.3,Ngamiland West,congo_2019
+BWA,9.6,Ngamiland East,congo_2019
+BWA,11.3,Ngamiland East,congo_2019
+BWA,10.6,Ngamiland East,congo_2019
+BWA,11.3,Lethlakane,congo_2019
+BWA,10.7,Tutume,congo_2019
+BWA,9.9,Tutume,congo_2019
+BWA,9.5,Tutume,congo_2019
+BWA,8.7,Tutume,congo_2019
+BWA,7.6,Tutume,congo_2019
+BWA,7.5,Masungu,congo_2019
+ZWE,7.5,Mangwe,congo_2019
+ZWE,7.7,Mangwe,congo_2019
+ZWE,7.1,Gwanda,congo_2019
+ZWE,7.1,Insiza,congo_2019
+ZWE,6.9,Mberengwa,congo_2019
+ZWE,7.2,Mberengwa,congo_2019
+ZWE,7.8,Chivi,congo_2019
+ZWE,8.7,Zaka,congo_2019
+ZWE,8.5,Chiredzi,congo_2019
+ZWE,8.2,Chipinge,congo_2019
+MOZ,8.6,Mossurize,congo_2019
+MOZ,8.3,Machaze,congo_2019
+MOZ,8.5,Machaze,congo_2019
+MOZ,8.9,Machanga,congo_2019
+MOZ,8.6,Machanga,congo_2019
+NAM,9.5,Arandis,congo_2019
+NAM,8.3,Daures,congo_2019
+NAM,11.0,Daures,congo_2019
+NAM,10.5,Daures,congo_2019
+NAM,9.1,Omaruru,congo_2019
+NAM,8.6,Omaruru,congo_2019
+NAM,8.2,Omatako,congo_2019
+NAM,7.7,Omatako,congo_2019
+NAM,7.6,Omatako,congo_2019
+NAM,7.6,Omatako,congo_2019
+NAM,7.5,Steinhausen,congo_2019
+NAM,7.4,Otjinene,congo_2019
+NAM,7.9,Epukiro,congo_2019
+NAM,8.4,Otjombinde,congo_2019
+NAM,8.6,Otjombinde,congo_2019
+BWA,9.0,Ghanzi,congo_2019
+BWA,8.7,Ghanzi,congo_2019
+BWA,8.5,Ghanzi,congo_2019
+BWA,10.8,Ghanzi,congo_2019
+BWA,11.4,Ghanzi,congo_2019
+BWA,11.1,Ghanzi,congo_2019
+BWA,11.3,Lethlakane,congo_2019
+BWA,10.4,Lethlakane,congo_2019
+BWA,9.3,Lethlakane,congo_2019
+BWA,8.5,Lethlakane,congo_2019
+BWA,9.0,Tutume,congo_2019
+BWA,7.7,Serowe,congo_2019
+BWA,7.7,Serowe,congo_2019
+BWA,7.8,Masungu,congo_2019
+ZWE,8.2,Matobo,congo_2019
+ZWE,7.6,Gwanda,congo_2019
+ZWE,6.9,Gwanda,congo_2019
+ZWE,7.2,Gwanda,congo_2019
+ZWE,7.4,Mwenezi,congo_2019
+ZWE,7.2,Mwenezi,congo_2019
+ZWE,7.5,Mwenezi,congo_2019
+ZWE,8.7,Chiredzi,congo_2019
+ZWE,8.7,Chiredzi,congo_2019
+MOZ,8.4,Machaze,congo_2019
+MOZ,8.0,Machaze,congo_2019
+MOZ,8.1,Machaze,congo_2019
+MOZ,8.0,Machanga,congo_2019
+MOZ,7.7,Govuro,congo_2019
+NAM,11.3,Arandis,congo_2019
+NAM,12.0,Daures,congo_2019
+NAM,11.3,Daures,congo_2019
+NAM,9.4,Karibib,congo_2019
+NAM,8.6,Karibib,congo_2019
+NAM,8.5,Okahandja,congo_2019
+NAM,7.9,Omatako,congo_2019
+NAM,7.7,Omatako,congo_2019
+NAM,7.5,Steinhausen,congo_2019
+NAM,7.4,Steinhausen,congo_2019
+NAM,7.4,Steinhausen,congo_2019
+NAM,7.7,Steinhausen,congo_2019
+NAM,8.4,Otjombinde,congo_2019
+NAM,8.7,Otjombinde,congo_2019
+BWA,8.3,Ghanzi,congo_2019
+BWA,8.2,Ghanzi,congo_2019
+BWA,9.4,Ghanzi,congo_2019
+BWA,10.6,Ghanzi,congo_2019
+BWA,10.9,Ghanzi,congo_2019
+BWA,11.1,Ghanzi,congo_2019
+BWA,10.9,Ghanzi,congo_2019
+BWA,9.2,Lethlakane,congo_2019
+BWA,8.7,Lethlakane,congo_2019
+BWA,8.4,Lethlakane,congo_2019
+BWA,7.6,Serowe,congo_2019
+BWA,8.1,Serowe,congo_2019
+BWA,8.1,Bobonong,congo_2019
+BWA,7.8,Bobonong,congo_2019
+BWA,7.9,Bobonong,congo_2019
+BWA,8.0,Bobonong,congo_2019
+ZWE,8.3,Gwanda,congo_2019
+ZWE,8.2,Beitbridge,congo_2019
+ZWE,8.1,Beitbridge,congo_2019
+ZWE,7.7,Mwenezi,congo_2019
+ZWE,8.0,Chiredzi,congo_2019
+ZWE,7.8,Chiredzi,congo_2019
+MOZ,8.2,Massangena,congo_2019
+MOZ,7.7,Massangena,congo_2019
+MOZ,7.4,Mabote,congo_2019
+MOZ,7.4,Mabote,congo_2019
+MOZ,7.2,Mabote,congo_2019
+MOZ,7.0,Inhassoro,congo_2019
+NAM,13.1,Arandis,congo_2019
+NAM,11.2,Karibib,congo_2019
+NAM,11.0,Karibib,congo_2019
+NAM,9.2,Karibib,congo_2019
+NAM,8.0,Okahandja,congo_2019
+NAM,7.7,Windhoek Rural,congo_2019
+NAM,8.1,Windhoek Rural,congo_2019
+NAM,8.1,Steinhausen,congo_2019
+NAM,7.8,Steinhausen,congo_2019
+NAM,7.9,Kalahari,congo_2019
+NAM,7.9,Kalahari,congo_2019
+BWA,8.8,Ghanzi,congo_2019
+BWA,8.9,Ghanzi,congo_2019
+BWA,8.6,Ghanzi,congo_2019
+BWA,8.6,Ghanzi,congo_2019
+BWA,9.7,Ghanzi,congo_2019
+BWA,10.5,Ghanzi,congo_2019
+BWA,11.5,Ghanzi,congo_2019
+BWA,11.1,Ghanzi,congo_2019
+BWA,11.3,Ghanzi,congo_2019
+BWA,10.8,Ghanzi,congo_2019
+BWA,10.0,Serowe,congo_2019
+BWA,8.8,Serowe,congo_2019
+BWA,8.2,Serowe,congo_2019
+BWA,8.0,Serowe,congo_2019
+BWA,8.0,Palapye,congo_2019
+BWA,8.0,Bobonong,congo_2019
+BWA,8.1,Bobonong,congo_2019
+BWA,8.7,Bobonong,congo_2019
+ZAF,8.4,Vhembe,congo_2019
+ZAF,8.6,Vhembe,congo_2019
+ZWE,8.1,Beitbridge,congo_2019
+ZWE,8.4,Beitbridge,congo_2019
+ZWE,8.3,Chiredzi,congo_2019
+MOZ,7.5,Chicualacuala,congo_2019
+MOZ,7.9,Chicualacuala,congo_2019
+MOZ,7.9,Chigubo,congo_2019
+MOZ,7.1,Chigubo,congo_2019
+MOZ,7.1,Mabote,congo_2019
+MOZ,6.5,Mabote,congo_2019
+MOZ,6.2,Vilanculos,congo_2019
+MOZ,6.0,Vilanculos,congo_2019
+NAM,11.5,Walvisbay Rural,congo_2019
+NAM,13.1,Arandis,congo_2019
+NAM,11.0,Karibib,congo_2019
+NAM,9.0,Windhoek Rural,congo_2019
+NAM,8.6,Windhoek Rural,congo_2019
+NAM,8.0,Windhoek Rural,congo_2019
+NAM,8.5,Windhoek Rural,congo_2019
+NAM,8.2,Gobabis,congo_2019
+NAM,8.2,Gobabis,congo_2019
+NAM,7.6,Kalahari,congo_2019
+NAM,8.6,Kalahari,congo_2019
+BWA,8.6,Ghanzi,congo_2019
+BWA,9.0,Ghanzi,congo_2019
+BWA,8.3,Ghanzi,congo_2019
+BWA,8.3,Ghanzi,congo_2019
+BWA,9.0,Ghanzi,congo_2019
+BWA,9.7,Ghanzi,congo_2019
+BWA,10.2,Ghanzi,congo_2019
+BWA,10.5,Ghanzi,congo_2019
+BWA,11.0,Ghanzi,congo_2019
+BWA,10.8,Ghanzi,congo_2019
+BWA,10.0,Ghanzi,congo_2019
+BWA,9.0,Serowe,congo_2019
+BWA,8.2,Serowe,congo_2019
+BWA,8.0,Mahalapye,congo_2019
+BWA,8.0,Palapye,congo_2019
+BWA,8.1,Palapye,congo_2019
+ZAF,8.1,Capricorn,congo_2019
+ZAF,8.4,Capricorn,congo_2019
+ZAF,8.5,Vhembe,congo_2019
+ZAF,8.2,Vhembe,congo_2019
+ZAF,8.3,Vhembe,congo_2019
+ZAF,8.0,Vhembe,congo_2019
+ZAF,8.1,Vhembe,congo_2019
+MOZ,7.8,Chicualacuala,congo_2019
+MOZ,7.4,Chicualacuala,congo_2019
+MOZ,7.4,Chicualacuala,congo_2019
+MOZ,7.3,Chigubo,congo_2019
+MOZ,6.6,Mabote,congo_2019
+MOZ,6.1,Funhalouro,congo_2019
+MOZ,5.7,Massinga,congo_2019
+MOZ,5.3,Massinga,congo_2019
+NAM,13.8,Walvisbay Rural,congo_2019
+NAM,13.3,Walvisbay Rural,congo_2019
+NAM,10.4,Arandis,congo_2019
+NAM,9.8,Windhoek Rural,congo_2019
+NAM,9.1,Rehoboth Rural,congo_2019
+NAM,8.8,Windhoek Rural,congo_2019
+NAM,8.8,Windhoek Rural,congo_2019
+NAM,8.9,Windhoek Rural,congo_2019
+NAM,8.4,Aminius,congo_2019
+NAM,8.4,Aminius,congo_2019
+NAM,8.2,Aminius,congo_2019
+BWA,8.7,Ghanzi,congo_2019
+BWA,8.6,Ghanzi,congo_2019
+BWA,8.2,Ghanzi,congo_2019
+BWA,8.3,Ghanzi,congo_2019
+BWA,8.3,Ghanzi,congo_2019
+BWA,8.9,Ghanzi,congo_2019
+BWA,9.2,Ghanzi,congo_2019
+BWA,10.0,Ghanzi,congo_2019
+BWA,10.1,Ghanzi,congo_2019
+BWA,10.3,Ghanzi,congo_2019
+BWA,9.7,Ghanzi,congo_2019
+BWA,8.6,Mahalapye,congo_2019
+BWA,8.7,Mahalapye,congo_2019
+BWA,8.8,Mahalapye,congo_2019
+BWA,8.5,Machaneng,congo_2019
+ZAF,8.6,Waterberg,congo_2019
+ZAF,8.0,Waterberg,congo_2019
+ZAF,8.3,Capricorn,congo_2019
+ZAF,8.7,Capricorn,congo_2019
+ZAF,8.4,Vhembe,congo_2019
+ZAF,8.9,Vhembe,congo_2019
+ZAF,8.8,Mopani,congo_2019
+ZAF,8.8,Mopani,congo_2019
+MOZ,8.0,Chicualacuala,congo_2019
+MOZ,7.5,Chicualacuala,congo_2019
+MOZ,7.2,Mabalane,congo_2019
+MOZ,6.8,Chigubo,congo_2019
+MOZ,6.8,Chigubo,congo_2019
+MOZ,5.8,Funhalouro,congo_2019
+MOZ,5.5,Funhalouro,congo_2019
+MOZ,5.2,Massinga,congo_2019
+NAM,13.4,Gibeon,congo_2019
+NAM,13.2,Gibeon,congo_2019
+NAM,10.0,Windhoek Rural,congo_2019
+NAM,9.3,Windhoek Rural,congo_2019
+NAM,9.4,Rehoboth Rural,congo_2019
+NAM,9.3,Rehoboth Rural,congo_2019
+NAM,9.3,Mariental Rural,congo_2019
+NAM,9.1,Mariental Rural,congo_2019
+NAM,8.7,Mariental Rural,congo_2019
+NAM,8.8,Mariental Rural,congo_2019
+NAM,8.4,Aminius,congo_2019
+BWA,8.2,Hukunsti,congo_2019
+BWA,8.6,Hukunsti,congo_2019
+BWA,8.5,Hukunsti,congo_2019
+BWA,7.9,Hukunsti,congo_2019
+BWA,8.7,Hukunsti,congo_2019
+BWA,8.2,Hukunsti,congo_2019
+BWA,8.5,Kweneng South,congo_2019
+BWA,8.7,Kweneng South,congo_2019
+BWA,9.0,Kweneng South,congo_2019
+BWA,8.9,Kweneng South,congo_2019
+BWA,8.7,Kweneng North,congo_2019
+BWA,8.5,Kweneng North,congo_2019
+BWA,9.0,Kgatleng,congo_2019
+BWA,8.6,Mahalapye,congo_2019
+ZAF,8.9,Waterberg,congo_2019
+ZAF,8.9,Waterberg,congo_2019
+ZAF,8.4,Waterberg,congo_2019
+ZAF,8.5,Waterberg,congo_2019
+ZAF,8.8,Capricorn,congo_2019
+ZAF,8.5,Capricorn,congo_2019
+ZAF,9.3,Mopani,congo_2019
+ZAF,8.8,Mopani,congo_2019
+ZAF,8.6,Mopani,congo_2019
+MOZ,7.9,Massingir,congo_2019
+MOZ,7.4,Massingir,congo_2019
+MOZ,7.1,Mabalane,congo_2019
+MOZ,6.9,Guijá,congo_2019
+MOZ,6.8,Chigubo,congo_2019
+MOZ,6.1,Panda,congo_2019
+MOZ,5.8,Panda,congo_2019
+MOZ,5.2,Homoine,congo_2019
