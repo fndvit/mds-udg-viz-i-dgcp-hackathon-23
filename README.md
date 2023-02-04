@@ -107,7 +107,7 @@ The [Air Quality Life Index (AQLI)](https://aqli.epic.uchicago.edu/) by the Ener
 |:------|
 |**Members:** Judit, Wilber, Samuel, Isaac, Feng|
 
-**Question:** How can we inform citizens and policy-makers about the issue?
+**Question:** How can we help policy-makers understand about the issue?
 
 **Goal:** Prototype an interactive, country-level report about the impact of PM<sub>2.5</sub> pollution —to be used by policy-makers
 
