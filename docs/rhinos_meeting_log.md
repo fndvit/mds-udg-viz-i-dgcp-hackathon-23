@@ -11,6 +11,8 @@ Kickoff meeting.
 - We have chenged the reserched country to The Republic of Congo.
 - We have determined with Owls what country metrincs we want: minimum per autonomous coummunity of the country. 
 
-
+11:45 - Monkeys meeting.
+Which criteria we have used to choose the Dem. Rep. of the Congo.
+- https://www.unep.org/interactive/air-pollution-note/
 
  
