@@ -1,1 +1,0 @@
-# Documentation of the methodology, variables, transformations, model
