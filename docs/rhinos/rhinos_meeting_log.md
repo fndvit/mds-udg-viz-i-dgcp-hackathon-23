@@ -15,4 +15,22 @@ Kickoff meeting.
 Which criteria we have used to choose the Dem. Rep. of the Congo.
 - https://www.unep.org/interactive/air-pollution-note/
 
- 
+13:30 - All teams meeting.
+
+15.00 - Pandas meeting. 
+- Decided to recive a fake DS with:
+  - population
+  - year
+  - max pm
+  - min pm 
+  - avg pm
+  - congo region
+  - life exp lower emissions
+  - life exp current emissions
+  - life exp higher emissions
+
+17.00 - Pandas meeting.
+- Methodology brief
+
+18.30 - Owls meeting.
+- Methodology brief

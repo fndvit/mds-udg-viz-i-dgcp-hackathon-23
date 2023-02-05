@@ -6,14 +6,18 @@ We want to sketch out the lifecycle of a **metric about the impact of air pollut
 
 ## Objectius
 Prototype an interactive, country-level report about the impact of PM<sub>2.5</sub> pollution —to be used by policy-makers
-### Sub-objectives
- - ...
 
 ## Metodologia
 Waterfall
 
 ## Cicle de vida 
 12h
+1. Brainstorming 
+2. Design Story
+3. Search of fake data
+4. Implementation of the plots with fake data
+5. Use the real data 
+6. Document observable notebook + powerpoint presentation
 
 
 ## Entregables
@@ -22,17 +26,29 @@ Waterfall
 * ObservableHQ notebook with the prototype that helps policy-makers simulate different pollution-reduction scenarios
 
 ## Rols i tasques
-- Judit: Project Manager
-- Isaac: Data Viz Editor & Data Scientist
-- Feng: Reporter
-- Samuel: Reporter 
-- Wilber: Data Viz Editor & Data Scientist
-
+- Judit: Project Manager 
+  - Documentation
+  - Meetings
+- Isaac: Data Viz Engineer 
+  - Development of charts
+  - Data Understanding
+- Feng: Data Viz Engineer 
+  - Development of charts
+  - Data Understanding
+- Samuel: Data Engineer  
+ - Data Searching + Dataset confection
+ - Documentation 
+- Wilber: Data Viz Engineer
+  - Development of charts
+  - Data Understanding
 
 ## Eines de seguiment
 Git & Github
-
-## Models
---
+Observable
 
 ## Estratègia comunicativa
+Powerpoint
+    - Objectives & deliv
+    - Why The Democratic Republic of Congo?
+    - Show Viz + little demostration? 
+    - Fails & Future work
